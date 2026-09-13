@@ -2,9 +2,9 @@ import json
 import os
 import urllib.request
 
-API_URL = (
-    "https://www.dhlottery.co.kr/lt645/selectPstLt645Info.do"
-    "?srchLtEpsd=all"
+BASE_URL = (
+    "https://www.dhlottery.co.kr/"
+    "common.do?method=getLottoNumber&drwNo="
 )
 
 OUTPUT_FILE = os.path.join(
@@ -14,90 +14,83 @@ OUTPUT_FILE = os.path.join(
 )
 
 
-def get_data():
+def get_round(round_no):
+    url = BASE_URL + str(round_no)
+
     request = urllib.request.Request(
-        API_URL,
-        headers={
-            "User-Agent": "Mozilla/5.0"
-        },
+        url,
+        headers={"User-Agent": "Mozilla/5.0"},
     )
 
     with urllib.request.urlopen(
         request,
-        timeout=30,
+        timeout=20,
     ) as response:
         return json.loads(
             response.read().decode("utf-8")
         )
 
 
-def convert_item(item):
+def convert_item(data):
     return {
-        "round": int(item.get("drwtNo", 0)),
-        "drawDate": str(
-            item.get("drwNoDate", "")
-        ),
+        "round": int(data["drwNo"]),
+        "drawDate": data["drwNoDate"],
         "numbers": [
-            int(item.get("drwtNo1", 0)),
-            int(item.get("drwtNo2", 0)),
-            int(item.get("drwtNo3", 0)),
-            int(item.get("drwtNo4", 0)),
-            int(item.get("drwtNo5", 0)),
-            int(item.get("drwtNo6", 0)),
+            int(data["drwtNo1"]),
+            int(data["drwtNo2"]),
+            int(data["drwtNo3"]),
+            int(data["drwtNo4"]),
+            int(data["drwtNo5"]),
+            int(data["drwtNo6"]),
         ],
-        "bonusNumber": int(
-            item.get("bnusNo", 0)
-        ),
+        "bonusNumber": int(data["bnusNo"]),
         "firstWinnerCount": int(
-            item.get("firstPrzwnerCo", 0)
+            data.get("firstPrzwnerCo", 0)
         ),
         "secondWinnerCount": int(
-            item.get("secondPrzwnerCo", 0)
+            data.get("secondPrzwnerCo", 0)
         ),
         "thirdWinnerCount": int(
-            item.get("thirdPrzwnerCo", 0)
+            data.get("thirdPrzwnerCo", 0)
         ),
         "fourthWinnerCount": int(
-            item.get("fourthPrzwnerCo", 0)
+            data.get("fourthPrzwnerCo", 0)
         ),
         "fifthWinnerCount": int(
-            item.get("fifthPrzwnerCo", 0)
+            data.get("fifthPrzwnerCo", 0)
         ),
         "firstPrize": int(
-            item.get("firstWinamnt", 0)
+            data.get("firstWinamnt", 0)
         ),
         "secondPrize": int(
-            item.get("secondWinamnt", 0)
+            data.get("secondWinamnt", 0)
         ),
         "thirdPrize": int(
-            item.get("thirdWinamnt", 0)
+            data.get("thirdWinamnt", 0)
         ),
         "fourthPrize": int(
-            item.get("fourthWinamnt", 0)
+            data.get("fourthWinamnt", 0)
         ),
         "fifthPrize": int(
-            item.get("fifthWinamnt", 0)
+            data.get("fifthWinamnt", 0)
         ),
     }
 
 
 def main():
-    data = get_data()
+    results = []
 
-    raw_list = data.get("list", [])
+    for round_no in range(1, 1300):
+        try:
+            data = get_round(round_no)
 
-    results = [
-        convert_item(item)
-        for item in raw_list
-        if isinstance(item, dict)
-    ]
+            if data.get("returnValue") != "success":
+                continue
 
-    results = [
-        item
-        for item in results
-        if item["round"] > 0
-        and len(item["numbers"]) == 6
-    ]
+            results.append(convert_item(data))
+
+        except Exception:
+            continue
 
     results.sort(
         key=lambda item: item["round"]
