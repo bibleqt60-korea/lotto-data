@@ -18,6 +18,10 @@ OUTPUT_FILE = os.path.join(
     DATA_DIR, "lotto.json"
 )
 
+LATEST_FILE = os.path.join(
+    DATA_DIR, "latest.json"
+)
+
 
 def download_source():
     os.makedirs(DATA_DIR, exist_ok=True)
@@ -46,6 +50,7 @@ def convert_item(item):
     def winners(index):
         if index >= len(divisions):
             return 0
+
         return int(
             divisions[index].get("winners", 0)
         )
@@ -53,6 +58,7 @@ def convert_item(item):
     def prize(index):
         if index >= len(divisions):
             return 0
+
         return int(
             divisions[index].get("prize", 0)
         )
@@ -125,8 +131,10 @@ def main():
             "변환된 로또 데이터가 없습니다."
         )
 
+    latest = results[-1]
+
     output = {
-        "latestRound": results[-1]["round"],
+        "latestRound": latest["round"],
         "results": results,
     }
 
@@ -142,13 +150,30 @@ def main():
             indent=2,
         )
 
+    latest_output = {
+        "latestRound": latest["round"],
+        "drawDate": latest["drawDate"],
+    }
+
+    with open(
+        LATEST_FILE,
+        "w",
+        encoding="utf-8",
+    ) as file:
+        json.dump(
+            latest_output,
+            file,
+            ensure_ascii=False,
+            indent=2,
+        )
+
     print(
         f"완료: {len(results)}개 회차 저장"
     )
 
     print(
         f"최신 회차: "
-        f"{results[-1]['round']}회"
+        f"{latest['round']}회"
     )
 
 
