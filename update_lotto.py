@@ -2,189 +2,153 @@ import json
 import os
 import urllib.request
 
-API_URL = (
-    "https://www.dhlottery.co.kr/"
-    "common.do?method=getLottoNumber&drwNo="
+SOURCE_URL = (
+    "https://smok95.github.io/"
+    "lotto/results/all.json"
 )
 
-DATA_FILE = os.path.join(
-    os.path.dirname(__file__),
-    "data",
-    "lotto.json",
+BASE_DIR = os.path.dirname(__file__)
+DATA_DIR = os.path.join(BASE_DIR, "data")
+
+SOURCE_FILE = os.path.join(
+    DATA_DIR, "source_all.json"
+)
+
+OUTPUT_FILE = os.path.join(
+    DATA_DIR, "lotto.json"
 )
 
 
-def get_round(round_no):
-    url = API_URL + str(round_no)
+def download_source():
+    os.makedirs(DATA_DIR, exist_ok=True)
 
     request = urllib.request.Request(
-        url,
+        SOURCE_URL,
         headers={"User-Agent": "Mozilla/5.0"},
     )
 
     with urllib.request.urlopen(
         request,
-        timeout=20,
+        timeout=30,
     ) as response:
-        return json.loads(
-            response.read().decode("utf-8")
+        data = response.read()
+
+    with open(
+        SOURCE_FILE,
+        "wb",
+    ) as file:
+        file.write(data)
+
+
+def convert_item(item):
+    divisions = item.get("divisions", [])
+
+    def winners(index):
+        if index >= len(divisions):
+            return 0
+        return int(
+            divisions[index].get("winners", 0)
         )
 
+    def prize(index):
+        if index >= len(divisions):
+            return 0
+        return int(
+            divisions[index].get("prize", 0)
+        )
 
-def convert(data):
     return {
-        "round": int(data["drwNo"]),
-        "drawDate": data["drwNoDate"],
+        "round": int(item["draw_no"]),
+        "drawDate": str(item["date"])[:10],
         "numbers": [
-            int(data["drwtNo1"]),
-            int(data["drwtNo2"]),
-            int(data["drwtNo3"]),
-            int(data["drwtNo4"]),
-            int(data["drwtNo5"]),
-            int(data["drwtNo6"]),
+            int(number)
+            for number in item["numbers"]
         ],
-        "bonusNumber": int(data["bnusNo"]),
-        "firstWinnerCount": int(
-            data.get("firstPrzwnerCo", 0)
+        "bonusNumber": int(
+            item["bonus_no"]
         ),
-        "secondWinnerCount": int(
-            data.get("secondPrzwnerCo", 0)
-        ),
-        "thirdWinnerCount": int(
-            data.get("thirdPrzwnerCo", 0)
-        ),
-        "fourthWinnerCount": int(
-            data.get("fourthPrzwnerCo", 0)
-        ),
-        "fifthWinnerCount": int(
-            data.get("fifthPrzwnerCo", 0)
-        ),
-        "firstPrize": int(
-            data.get("firstWinamnt", 0)
-        ),
-        "secondPrize": int(
-            data.get("secondWinamnt", 0)
-        ),
-        "thirdPrize": int(
-            data.get("thirdWinamnt", 0)
-        ),
-        "fourthPrize": int(
-            data.get("fourthWinamnt", 0)
-        ),
-        "fifthPrize": int(
-            data.get("fifthWinamnt", 0)
-        ),
+        "firstWinnerCount": winners(0),
+        "secondWinnerCount": winners(1),
+        "thirdWinnerCount": winners(2),
+        "fourthWinnerCount": winners(3),
+        "fifthWinnerCount": winners(4),
+        "firstPrize": prize(0),
+        "secondPrize": prize(1),
+        "thirdPrize": prize(2),
+        "fourthPrize": prize(3),
+        "fifthPrize": prize(4),
     }
 
 
-def load_data():
-    if not os.path.exists(DATA_FILE):
-        return {
-            "latestRound": 0,
-            "results": [],
-        }
+def main():
+    print("로또 전체 데이터 다운로드 중...")
+
+    download_source()
 
     with open(
-        DATA_FILE,
+        SOURCE_FILE,
         "r",
         encoding="utf-8",
     ) as file:
-        return json.load(file)
+        source = json.load(file)
 
-
-def save_data(data):
-    os.makedirs(
-        os.path.dirname(DATA_FILE),
-        exist_ok=True,
-    )
-
-    with open(
-        DATA_FILE,
-        "w",
-        encoding="utf-8",
-    ) as file:
-        json.dump(
-            data,
-            file,
-            ensure_ascii=False,
-            indent=2,
+    if not isinstance(source, list):
+        raise Exception(
+            "원본 데이터 형식이 올바르지 않습니다."
         )
 
+    results = []
 
-def main():
-    data = load_data()
+    for item in source:
+        try:
+            result = convert_item(item)
 
-    results = data.get("results", [])
-    latest = int(data.get("latestRound", 0))
+            if (
+                result["round"] > 0
+                and len(result["numbers"]) == 6
+            ):
+                results.append(result)
 
-    print(f"기존 최신 회차: {latest}")
-
-    # 최초 실행
-    if latest == 0:
-        print("최초 데이터 수집을 시작합니다.")
-
-        for round_no in range(1, 1300):
-            try:
-                result = get_round(round_no)
-
-                if result.get("returnValue") != "success":
-                    continue
-
-                results.append(convert(result))
-
-                print(
-                    f"{round_no}회 수집 완료"
-                )
-
-            except Exception as error:
-                print(
-                    f"{round_no}회 실패: {error}"
-                )
-
-        if not results:
-            raise Exception(
-                "로또 데이터를 가져오지 못했습니다."
-            )
-
-    else:
-        # 기존 데이터가 있으면 최신 이후만 확인
-        for round_no in range(
-            latest + 1,
-            latest + 3,
+        except (
+            KeyError,
+            TypeError,
+            ValueError,
         ):
-            try:
-                result = get_round(round_no)
-
-                if result.get("returnValue") != "success":
-                    continue
-
-                results.append(convert(result))
-
-                print(
-                    f"{round_no}회 신규 데이터 추가"
-                )
-
-            except Exception as error:
-                print(
-                    f"{round_no}회 확인 실패: {error}"
-                )
+            continue
 
     results.sort(
         key=lambda item: item["round"]
     )
 
-    data = {
+    if not results:
+        raise Exception(
+            "변환된 로또 데이터가 없습니다."
+        )
+
+    output = {
         "latestRound": results[-1]["round"],
         "results": results,
     }
 
-    save_data(data)
+    with open(
+        OUTPUT_FILE,
+        "w",
+        encoding="utf-8",
+    ) as file:
+        json.dump(
+            output,
+            file,
+            ensure_ascii=False,
+            indent=2,
+        )
 
     print(
-        f"완료: 총 {len(results)}개 회차"
+        f"완료: {len(results)}개 회차 저장"
     )
+
     print(
-        f"최신 회차: {data['latestRound']}회"
+        f"최신 회차: "
+        f"{results[-1]['round']}회"
     )
 
 
