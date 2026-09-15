@@ -11,23 +11,30 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
-          python-version: "3.12"
+          python-version: "3.13"
 
       - name: Update lotto data
-        run: python update_lotto.py
+        run: |
+          python -u update_lotto.py
 
-      - name: Commit data
+      - name: Save updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/lotto.json
-          git diff --cached --quiet || git commit -m "Update lotto data"
-          git push
+          
+          if git diff --cached --quiet; then
+            echo "변경된 데이터가 없습니다."
+          else
+            git commit -m "Update lotto data"
+            git push
+          fi
