@@ -1,0 +1,214 @@
+{
+  "round": 389,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "가판점(신문)",
+      "address": "서울 영등포구 양평로 50-2",
+      "method": "자동"
+    },
+    {
+      "name": "송추장흥로또",
+      "address": "경기 양주시 호국로 511",
+      "method": "자동"
+    },
+    {
+      "name": "마두역상행선 가판대",
+      "address": "경기 고양시 일산동구 중앙로 1181 마두역 중앙 횡단보도 오른쪽",
+      "method": "자동"
+    },
+    {
+      "name": "명동열쇠",
+      "address": "강원 춘천시 중앙로 57 춘천 명동 신협 옆 가판대",
+      "method": "자동"
+    },
+    {
+      "name": "대흥당",
+      "address": "전북 정읍시 관통로 102",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "은혜",
+      "address": "서울 중랑구 면목로91길 46",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "서울 중구 세종대로2나길 30",
+      "method": null
+    },
+    {
+      "name": "소문난복권명당",
+      "address": "서울 성북구 돌곶이로 29",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "서울 성동구 연무장7길 5 1층 1호",
+      "method": null
+    },
+    {
+      "name": "복권잉크",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "자양사거리가로매점",
+      "address": "서울 광진구 자양로13길 6 1층",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "서울 광진구 긴고랑로 38",
+      "method": null
+    },
+    {
+      "name": "강하식품",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또판매",
+      "address": "서울 강남구 삼성로86길 10 1층 삼성슈퍼",
+      "method": null
+    },
+    {
+      "name": "신풍",
+      "address": "부산 사하구 하신번영로 127",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방(행운을주는사람들)",
+      "address": "부산 사상구 광장로38번길 25",
+      "method": null
+    },
+    {
+      "name": "선경상회",
+      "address": "    이훼밀리마트내",
+      "method": null
+    },
+    {
+      "name": "승차권판매소",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "코리아마트(청구점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "대박로또",
+      "address": "대구 북구 고성북로 3 고성아파트상가101동18호",
+      "method": null
+    },
+    {
+      "name": "대박찬스",
+      "address": "대구 북구 팔거천서로 157 1층",
+      "method": null
+    },
+    {
+      "name": "천금복권방",
+      "address": "    cu편의점내",
+      "method": null
+    },
+    {
+      "name": "오천억복권방",
+      "address": "전남광주 서구 상무대로 1087",
+      "method": null
+    },
+    {
+      "name": "대박복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "심봤다복권방",
+      "address": "경기 오산시 청학로5번길 6 같은건물내에서 이전",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "경기 안성시 중앙로 424",
+      "method": null
+    },
+    {
+      "name": "부현제일명당",
+      "address": "경기 시흥시 정왕시장길 26-1 102호",
+      "method": null
+    },
+    {
+      "name": "나누리복권방",
+      "address": "    101호",
+      "method": null
+    },
+    {
+      "name": "태봉",
+      "address": "경기 부천시 소사로 182",
+      "method": null
+    },
+    {
+      "name": "복권마을",
+      "address": "경기 광명시 광화로 16 1층",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "경기 가평군 청평중앙로 35 1층",
+      "method": null
+    },
+    {
+      "name": "복돼지복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "도통할인마트",
+      "address": "    도통아파트상가 107호",
+      "method": null
+    },
+    {
+      "name": "로또복권초당판매점",
+      "address": "    CU편의점",
+      "method": null
+    },
+    {
+      "name": "천하명당",
+      "address": "경북 안동시 태화중앙로 101",
+      "method": null
+    },
+    {
+      "name": "로또슈퍼",
+      "address": "    한미코보스텔105호",
+      "method": null
+    },
+    {
+      "name": "스포츠복권방",
+      "address": "경남 양산시 황산로 675",
+      "method": null
+    },
+    {
+      "name": "GS25(양산혜인점)",
+      "address": "경남 양산시 웅상대로 955",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "경남 김해시 활천로36번길 28-6 복권판매점",
+      "method": null
+    },
+    {
+      "name": "한라점",
+      "address": "    씨유대화점내",
+      "method": null
+    },
+    {
+      "name": "천하명당복권",
+      "address": "제주 서귀포시 동문로 38",
+      "method": null
+    }
+  ]
+}

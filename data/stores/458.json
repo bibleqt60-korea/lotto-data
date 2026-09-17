@@ -1,0 +1,309 @@
+{
+  "round": 458,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "가로매점",
+      "address": "서울 종로구 종로 186 우리은행앞 가판",
+      "method": "자동"
+    },
+    {
+      "name": "GS25(방이삼형점)",
+      "address": "서울 송파구 백제고분로50길 4",
+      "method": "자동"
+    },
+    {
+      "name": "삼성대박복권방",
+      "address": "서울 강남구 봉은사로74길 13 101호",
+      "method": "수동"
+    },
+    {
+      "name": "강남자곡로또",
+      "address": "서울 강남구 자곡로 180 111-2호",
+      "method": "수동"
+    },
+    {
+      "name": "씨유 대전반석역점",
+      "address": "대전 유성구 반석로 10",
+      "method": "자동"
+    },
+    {
+      "name": "교통카드충전소",
+      "address": "경기 고양시 덕양구 화정로 58 화정역 2번출구",
+      "method": "자동"
+    },
+    {
+      "name": "행운로또",
+      "address": "전남광주 여수시 상암로 627-1 상암초 부근",
+      "method": "수동"
+    },
+    {
+      "name": "굿데이복권방",
+      "address": "전남광주 목포시 백년대로337번길 20 CU편의점",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "GS25(용마산역점)",
+      "address": "서울 중랑구 면목로27길 4",
+      "method": null
+    },
+    {
+      "name": "대호식품",
+      "address": "서울 중구 을지로42길 6",
+      "method": null
+    },
+    {
+      "name": "잠실매점",
+      "address": "서울 송파구 올림픽로 269 잠실역 8번출구 앞 가판",
+      "method": null
+    },
+    {
+      "name": "미니복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "서초대박로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "CU(상계주공점)",
+      "address": "서울 노원구 동일로 1345 1층 CU편의점",
+      "method": null
+    },
+    {
+      "name": "스파",
+      "address": "서울 노원구 동일로 1493 주공10단지종합상가111",
+      "method": null
+    },
+    {
+      "name": "523마트",
+      "address": "서울 강서구 양천로 626 1층",
+      "method": null
+    },
+    {
+      "name": "복권마을",
+      "address": "서울 강동구 풍성로 173",
+      "method": null
+    },
+    {
+      "name": "더말샵",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복왕복권방",
+      "address": "부산 사하구 낙동대로 191 2층",
+      "method": null
+    },
+    {
+      "name": "로또구포점",
+      "address": "부산 북구 덕천2길 23-3 1층",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "부산 부산진구 냉정로 273",
+      "method": null
+    },
+    {
+      "name": "돈벼락맞는곳",
+      "address": "부산 동구 조방로49번길 18-1",
+      "method": null
+    },
+    {
+      "name": "세진전자통신",
+      "address": "대구 서구 서대구로 156",
+      "method": null
+    },
+    {
+      "name": "왕대박(복권방)",
+      "address": "대구 북구 칠성남로 143 1층전체",
+      "method": null
+    },
+    {
+      "name": "씨유송도프라자",
+      "address": "    송도프라자108호",
+      "method": null
+    },
+    {
+      "name": "인천연수점로또판매",
+      "address": "    세븐일레븐편의점내",
+      "method": null
+    },
+    {
+      "name": "CU(인하대점)",
+      "address": "인천 미추홀구 인하로120번길 3 5호12",
+      "method": null
+    },
+    {
+      "name": "염주현대토토",
+      "address": "광주 서구 월드컵4강로 22 염주현대아파트상가 내",
+      "method": null
+    },
+    {
+      "name": "좋은꿈",
+      "address": "전남광주 북구 비엔날레로 55 상가동 1층 2호(용봉동, 현대아파트)",
+      "method": null
+    },
+    {
+      "name": "원내복권방",
+      "address": "대전 유성구 원내로 35",
+      "method": null
+    },
+    {
+      "name": "원내복권방",
+      "address": "대전 유성구 원내로 35",
+      "method": null
+    },
+    {
+      "name": "성안복권프라자",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "울산 울주군 연안1길 3 상아아파트상가107",
+      "method": null
+    },
+    {
+      "name": "명성복권방",
+      "address": "경기 화성시 병점구 경기대로 1043",
+      "method": null
+    },
+    {
+      "name": "봉담복자리복권과편의점",
+      "address": "경기 화성시 효행구 삼천병마로 1276",
+      "method": null
+    },
+    {
+      "name": "율암25시편의점",
+      "address": "경기 화성시 만세구 시청로 822",
+      "method": null
+    },
+    {
+      "name": "행운로또",
+      "address": "경기 하남시 미사강변중앙로 164 101호",
+      "method": null
+    },
+    {
+      "name": "안성맞춤",
+      "address": "경기 안성시 중앙로 371 번길 81 ,1층",
+      "method": null
+    },
+    {
+      "name": "부현제일명당",
+      "address": "경기 시흥시 정왕시장길 26-1 102호",
+      "method": null
+    },
+    {
+      "name": "엑스트라",
+      "address": "경기 수원시 팔달구 월드컵로357번길 42",
+      "method": null
+    },
+    {
+      "name": "권선로또복권방",
+      "address": "경기 수원시 권선구 탑동로 22 천림빌딩102호",
+      "method": null
+    },
+    {
+      "name": "엄마손슈퍼(행운복권방)",
+      "address": "경기 성남시 수정구 남문로102번길 1 1층",
+      "method": null
+    },
+    {
+      "name": "도담복권",
+      "address": "경기 부천시 역곡로 451 1층",
+      "method": null
+    },
+    {
+      "name": "행복미니슈퍼",
+      "address": "경기 부천시 부일로 409",
+      "method": null
+    },
+    {
+      "name": "만물전파사",
+      "address": "경기 남양주시 마석중앙로 74",
+      "method": null
+    },
+    {
+      "name": "남영로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "원일식품",
+      "address": "강원 원주시 중앙로 76 1층",
+      "method": null
+    },
+    {
+      "name": "가야로또복권방",
+      "address": "충북 충주시 행정13길 1 1층 복권방",
+      "method": null
+    },
+    {
+      "name": "비엠마트",
+      "address": "    솔밭공원 옆",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "충북 청주시 상당구 상당로 9",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "충북 청주시 상당구 상당로 9",
+      "method": null
+    },
+    {
+      "name": "현대유통",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "대박마트복권방",
+      "address": "충남 아산시 음봉로 844 태화상가1층103호",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "전남 순천시 장선배기길 158 천하명당",
+      "method": null
+    },
+    {
+      "name": "로또마트",
+      "address": "전남광주 목포시 통일대로75번길 10 부영아파트상가109호",
+      "method": null
+    },
+    {
+      "name": "육교마트",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "유성로또복권",
+      "address": "경북 울진군 죽변북로 24 CU죽변점 옆 상가(1층중간)",
+      "method": null
+    },
+    {
+      "name": "로또판매점",
+      "address": "경북 예천군 효자로 82",
+      "method": null
+    },
+    {
+      "name": "울트라마트",
+      "address": "    갑오마을부영아파트8차상가지하101호",
+      "method": null
+    },
+    {
+      "name": "운수대통",
+      "address": "    동헌상가 가-111호",
+      "method": null
+    }
+  ]
+}

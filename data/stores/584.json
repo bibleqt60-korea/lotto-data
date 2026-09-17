@@ -1,0 +1,184 @@
+{
+  "round": 584,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "CU(소피텔점)",
+      "address": "서울 중구 동호로27길 25",
+      "method": "자동"
+    },
+    {
+      "name": "보람복권방",
+      "address": "울산 남구 화합로194번길 18-1",
+      "method": "수동"
+    },
+    {
+      "name": "대박행진 복권랜드",
+      "address": "경기 파주시 금빛로 22 금촌프라자107호",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "CU(영등포마사회점)",
+      "address": "서울 영등포구 영중로8길 14",
+      "method": null
+    },
+    {
+      "name": "왕대박",
+      "address": "서울 영등포구 영등포로84길 12 1층",
+      "method": null
+    },
+    {
+      "name": "미래통신",
+      "address": "서울 성동구 동일로 83 1층",
+      "method": null
+    },
+    {
+      "name": "현대복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "미니행운로또",
+      "address": "    미니스톱 남성사당로점",
+      "method": null
+    },
+    {
+      "name": "세븐로또",
+      "address": "서울 동대문구 고산자로 407",
+      "method": null
+    },
+    {
+      "name": "로또판매점",
+      "address": "서울 동대문구 왕산로37길 11 1층 슈퍼 내 (청량리동)",
+      "method": null
+    },
+    {
+      "name": "가판대",
+      "address": "서울 도봉구 마들로 859-19 도봉산역 1번출구앞 가판대",
+      "method": null
+    },
+    {
+      "name": "복권명당우장산역점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "행복공간",
+      "address": "서울 강동구 풍성로 115",
+      "method": null
+    },
+    {
+      "name": "로또복권대치점",
+      "address": "서울 강남구 개포로 615 석탑프라자1층",
+      "method": null
+    },
+    {
+      "name": "GS25(재송점)",
+      "address": "부산 해운대구 해운대로143번길 20",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "부산 해운대구 아랫반송로 11",
+      "method": null
+    },
+    {
+      "name": "황금복권방",
+      "address": "부산 사상구 새벽로202번길 5",
+      "method": null
+    },
+    {
+      "name": "황금복권방",
+      "address": "부산 사상구 새벽로202번길 5",
+      "method": null
+    },
+    {
+      "name": "로또판매점(바이더웨이)",
+      "address": "    세븐일레븐내",
+      "method": null
+    },
+    {
+      "name": "복권천국",
+      "address": "대구 중구 달구벌대로 2206",
+      "method": null
+    },
+    {
+      "name": "복권토큰판매소",
+      "address": "대구 남구 대명로 230 토큰박스",
+      "method": null
+    },
+    {
+      "name": "터미널로또판매점",
+      "address": "    인천교통공사대합실1층2호편의점내",
+      "method": null
+    },
+    {
+      "name": "천동로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "GS25(울산무거점)",
+      "address": "울산 남구 대학로147번길 36",
+      "method": null
+    },
+    {
+      "name": "올인 (all in)",
+      "address": "경기 화성시 만세구 3.1만세로 1147",
+      "method": null
+    },
+    {
+      "name": "대박행진 복권랜드",
+      "address": "경기 파주시 금빛로 22 금촌프라자107호",
+      "method": "자동"
+    },
+    {
+      "name": "로또휴게실",
+      "address": "경기 용인시 기흥구 용구대로 1885",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "경기 안양시 동안구 경수대로  927 삼익상가 1층, 123호",
+      "method": null
+    },
+    {
+      "name": "세븐일레븐 부천소사대로점",
+      "address": "    씨유",
+      "method": null
+    },
+    {
+      "name": "대박",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또온양온천점",
+      "address": "    1호",
+      "method": null
+    },
+    {
+      "name": "또또복권방",
+      "address": "전북 익산시 고봉로32길 3",
+      "method": null
+    },
+    {
+      "name": "행운나눔로또판매점",
+      "address": "전남광주 고흥군 비봉로 134 빅마켓 내",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "경북 포항시 북구 장량로140번길 9",
+      "method": null
+    },
+    {
+      "name": "24시로또복권",
+      "address": "    1층6호 창원25시슈퍼 내",
+      "method": null
+    }
+  ]
+}

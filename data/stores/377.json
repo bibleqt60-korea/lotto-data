@@ -1,0 +1,134 @@
+{
+  "round": 377,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "세븐일레븐 종로창신점",
+      "address": "    1층",
+      "method": "자동"
+    },
+    {
+      "name": "CU(성북진영점)",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "삼성포토랜드",
+      "address": "인천 강화군 북문길 6",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "로또행운방",
+      "address": "서울 은평구 연서로 137",
+      "method": null
+    },
+    {
+      "name": "복드림",
+      "address": "서울 영등포구 양평로 117",
+      "method": null
+    },
+    {
+      "name": "청계로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "CU(서면점)",
+      "address": "부산 부산진구 서면문화로 29",
+      "method": null
+    },
+    {
+      "name": "복권마트",
+      "address": "인천 남동구 백범로 278 1층",
+      "method": null
+    },
+    {
+      "name": "신도복권명소",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "이마트24중울산점",
+      "address": "울산 중구 옥골샘4길 21",
+      "method": null
+    },
+    {
+      "name": "대박마을복권방",
+      "address": "경기 하남시 신장로 182",
+      "method": null
+    },
+    {
+      "name": "SK@24시편의점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "경기 양평군 용문로 358-1 1층",
+      "method": null
+    },
+    {
+      "name": "인덕원복권방",
+      "address": "경기 안양시 동안구 흥안대로 523",
+      "method": null
+    },
+    {
+      "name": "돼지복권",
+      "address": "경기 성남시 수정구 복정로 66",
+      "method": null
+    },
+    {
+      "name": "신문가판",
+      "address": "경기 부천시 경인로 272",
+      "method": null
+    },
+    {
+      "name": "CU(구리토평점)",
+      "address": "경기 구리시 벌말로 188",
+      "method": null
+    },
+    {
+      "name": "복권담배",
+      "address": "    국민은행앞",
+      "method": null
+    },
+    {
+      "name": "로또복권망향",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "컴친구",
+      "address": "    컴친구 PC수리점",
+      "method": null
+    },
+    {
+      "name": "만남로또",
+      "address": "    세븐일레븐내",
+      "method": null
+    },
+    {
+      "name": "아리랑복권방",
+      "address": "전북 전주시 완산구 거마평로 192",
+      "method": null
+    },
+    {
+      "name": "이레마트",
+      "address": "경북 포항시 북구 중앙로245번길 10-1",
+      "method": null
+    },
+    {
+      "name": "천마복권.로손상모점",
+      "address": "    세븐일레븐",
+      "method": null
+    }
+  ]
+}

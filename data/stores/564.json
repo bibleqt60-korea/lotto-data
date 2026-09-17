@@ -1,0 +1,204 @@
+{
+  "round": 564,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "가로판매대제13호",
+      "address": "서울 중구 퇴계로 42-4 가판",
+      "method": "자동"
+    },
+    {
+      "name": "-",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "대박로또",
+      "address": "서울 관악구 난곡로 247",
+      "method": "자동"
+    },
+    {
+      "name": "복권나라",
+      "address": "대구 달성군 논공중앙로 106",
+      "method": "수동"
+    },
+    {
+      "name": "준원슈퍼",
+      "address": "대전 중구 보문로260번길 43",
+      "method": "자동"
+    },
+    {
+      "name": "주엽역 로또판매점",
+      "address": "경기 고양시 일산서구 중앙로 1437 도로",
+      "method": "자동"
+    },
+    {
+      "name": "로또훼미리마트왜관점",
+      "address": "경북 칠곡군 중앙로 236-1 1층",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "부자랑복권방",
+      "address": "서울 중랑구 사가정로 359",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "서울 양천구 오목로 233 1층1호",
+      "method": null
+    },
+    {
+      "name": "투데이",
+      "address": "서울 동대문구 천호대로 67 1층",
+      "method": null
+    },
+    {
+      "name": "정원복권방",
+      "address": "서울 도봉구 도봉로 468 1층 101-3호",
+      "method": null
+    },
+    {
+      "name": "스파",
+      "address": "서울 노원구 동일로 1493 주공10단지종합상가111",
+      "method": null
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "서울 강동구 구천면로 371",
+      "method": null
+    },
+    {
+      "name": "복왕복권방",
+      "address": "부산 사하구 낙동대로 191 2층",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "대구 중구 경상감영길 71",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "대구 수성구 지범로27길 18 1층 척수장애인협회",
+      "method": null
+    },
+    {
+      "name": "천하명당복권",
+      "address": "대구 북구 칠곡중앙대로 545",
+      "method": null
+    },
+    {
+      "name": "GS25(논공점)",
+      "address": "대구 달성군 논공로5길 152",
+      "method": null
+    },
+    {
+      "name": "경북윤업사",
+      "address": "대구 남구 대명로 161",
+      "method": null
+    },
+    {
+      "name": "하늘과바다",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "대전 중구 대흥로 94",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "대전 중구 대흥로 94",
+      "method": null
+    },
+    {
+      "name": "로또판매점",
+      "address": "    리베라빌딩1층2호 성심마트",
+      "method": null
+    },
+    {
+      "name": "아이마트",
+      "address": "대전 서구 둔산로 230",
+      "method": null
+    },
+    {
+      "name": "월드복권",
+      "address": "대전 서구 계백로 1272 한솔메디칼빌딩1층",
+      "method": null
+    },
+    {
+      "name": "창미슈퍼",
+      "address": "경기 화성시 서해로 434 1층 102호",
+      "method": null
+    },
+    {
+      "name": "역전광장상회",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권백화점",
+      "address": "경기 파주시 평화로 70",
+      "method": null
+    },
+    {
+      "name": "열두보석복권방",
+      "address": "경기 용인시 기흥구 구갈로 74 구갈스포츠센터106호",
+      "method": null
+    },
+    {
+      "name": "로또휴게실",
+      "address": "경기 용인시 기흥구 용구대로 1885",
+      "method": null
+    },
+    {
+      "name": "찬스365",
+      "address": "경기 양평군 양수로 163 1층",
+      "method": null
+    },
+    {
+      "name": "온달국수",
+      "address": "경기 군포시 곡란로 24 108호",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "강원 춘천시 퇴계로145번길 11-15 1층",
+      "method": null
+    },
+    {
+      "name": "대박찬스",
+      "address": "충북 청주시 흥덕구 가경로161번길 3",
+      "method": null
+    },
+    {
+      "name": "대박찬스",
+      "address": "충북 청주시 흥덕구 가경로161번길 3",
+      "method": null
+    },
+    {
+      "name": "로터리편의마트",
+      "address": "경북 포항시 북구 서동로 85 육거리",
+      "method": null
+    },
+    {
+      "name": "합성터미널로또",
+      "address": "    1층 CU편의점 내",
+      "method": null
+    },
+    {
+      "name": "북마산복권전문점",
+      "address": "경남 창원시 마산합포구 북성로 98",
+      "method": null
+    },
+    {
+      "name": "북마산복권전문점",
+      "address": "경남 창원시 마산합포구 북성로 98",
+      "method": null
+    }
+  ]
+}

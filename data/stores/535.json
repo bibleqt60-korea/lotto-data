@@ -1,0 +1,179 @@
+{
+  "round": 535,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "종합",
+      "address": "서울 용산구 새창로 156 3층큰길가장오른쪽네번째칸",
+      "method": "자동"
+    },
+    {
+      "name": "부일카서비스",
+      "address": "부산 동구 자성로133번길 35",
+      "method": "자동"
+    },
+    {
+      "name": "로또복권방",
+      "address": "    1층",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "다우리상사",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "배임",
+      "address": "서울 용산구 보광로 19 1층",
+      "method": null
+    },
+    {
+      "name": "-",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "GS25(사당역점)",
+      "address": "서울 동작구 동작대로1길 27",
+      "method": null
+    },
+    {
+      "name": "삼호복권",
+      "address": "서울 도봉구 도봉로 457",
+      "method": null
+    },
+    {
+      "name": "스파",
+      "address": "서울 노원구 동일로 1493 주공10단지종합상가111",
+      "method": null
+    },
+    {
+      "name": "수천하명당",
+      "address": "부산 부산진구 대학로 20-1 1층 복권방",
+      "method": null
+    },
+    {
+      "name": "하나열쇠",
+      "address": "부산 남구 용호로 179",
+      "method": null
+    },
+    {
+      "name": "GS25(신공항점)",
+      "address": "인천 중구 신도시남로149번길 17 영종출장운서지소",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "24시슈퍼",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "CU(상무중흥점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "대광광고사",
+      "address": "대전 유성구 구즉로 54",
+      "method": null
+    },
+    {
+      "name": "행운노다지복권방",
+      "address": "    다세대주택 1층",
+      "method": null
+    },
+    {
+      "name": "로또복권방",
+      "address": "경기 파주시 중앙로 263",
+      "method": null
+    },
+    {
+      "name": "복권마을",
+      "address": "경기 안양시 동안구 흥안대로133번길 4 제1동 제1층 제104호",
+      "method": null
+    },
+    {
+      "name": "싼타슈퍼",
+      "address": "경기 시흥시 군서마을로 42",
+      "method": null
+    },
+    {
+      "name": "CU(원종깨비점)",
+      "address": "경기 부천시 소사로 750 CU원종깨비점",
+      "method": null
+    },
+    {
+      "name": "성진마트",
+      "address": "경기 부천시 오정구 수도로 121 105호",
+      "method": null
+    },
+    {
+      "name": "이마트24 일산덕이점",
+      "address": "경기 고양시 일산서구 미래로 164 1층",
+      "method": null
+    },
+    {
+      "name": "서울복권",
+      "address": "강원 강릉시 솔올로5번길 47 103호(교동)",
+      "method": null
+    },
+    {
+      "name": "복덩어리",
+      "address": "충북 청주시 서원구 1순환로1107번길 21 1층 110호",
+      "method": null
+    },
+    {
+      "name": "청룡마트",
+      "address": "충남 천안시 동남구 풍세로 1010-31 현대아파트상가B-102호",
+      "method": null
+    },
+    {
+      "name": "운수대통복권방",
+      "address": "충남 천안시 동남구 대흥로 122 중앙시장 입구",
+      "method": null
+    },
+    {
+      "name": "드림통신(구)굿타임24아산석정점",
+      "address": "충남 아산시 충무로 230 1층",
+      "method": null
+    },
+    {
+      "name": "노다지복권명당",
+      "address": "전북 군산시 문화로 119",
+      "method": null
+    },
+    {
+      "name": "종합복권방",
+      "address": "전남광주 해남군 해남로 34",
+      "method": null
+    },
+    {
+      "name": "이마트24형신대로점",
+      "address": "경북 포항시 남구 희망대로 865 나동 1층",
+      "method": null
+    },
+    {
+      "name": "행운의집제1호점",
+      "address": "경북 안동시 영가로 24",
+      "method": null
+    },
+    {
+      "name": "목화휴게소",
+      "address": "경남 사천시 사천대로 912",
+      "method": null
+    },
+    {
+      "name": "씨유고현점",
+      "address": "경남 거제시 거제중앙로 1841",
+      "method": null
+    }
+  ]
+}

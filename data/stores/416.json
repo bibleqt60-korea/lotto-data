@@ -1,0 +1,219 @@
+{
+  "round": 416,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "로또",
+      "address": "서울 중구 퇴계로86길 42",
+      "method": "자동"
+    },
+    {
+      "name": "월드24시",
+      "address": "서울 은평구 통일로 855-15 1층",
+      "method": "자동"
+    },
+    {
+      "name": "형제상회",
+      "address": "서울 동대문구 무학로 92",
+      "method": "수동"
+    },
+    {
+      "name": "복권천국",
+      "address": "대구 중구 달구벌대로 2206",
+      "method": "자동"
+    },
+    {
+      "name": "복권나라",
+      "address": "인천 서해구 거북로 80",
+      "method": "자동"
+    },
+    {
+      "name": "로또복권판매",
+      "address": "    판매점 내",
+      "method": "수동"
+    },
+    {
+      "name": "차부상회",
+      "address": "경기 김포시 조강로 50",
+      "method": "수동"
+    },
+    {
+      "name": "공단휴게실",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "롯데마트",
+      "address": "전북 군산시 하나운로 43",
+      "method": "자동"
+    },
+    {
+      "name": "명당편의점",
+      "address": "경남 진주시 서장대로 273 1층",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "한밭식품",
+      "address": "서울 중구 창경궁로 53-1 1층",
+      "method": null
+    },
+    {
+      "name": "로또 서오릉점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "호야식품",
+      "address": "서울 양천구 중앙로 234 1층",
+      "method": null
+    },
+    {
+      "name": "가로판매점",
+      "address": "서울 서대문구 신촌로 99-1 신촌역 3번,4번출구 중앙 가로판매점",
+      "method": null
+    },
+    {
+      "name": "우정로또판매점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "영훈슈퍼마켓",
+      "address": "서울 도봉구 덕릉로 222",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "복권명가",
+      "address": "서울 관악구 관악로24길 70",
+      "method": null
+    },
+    {
+      "name": "공항로또",
+      "address": "서울 강서구 공항대로 37 7호",
+      "method": null
+    },
+    {
+      "name": "찬스복권방",
+      "address": "인천 부평구 육동로 20-1 1층",
+      "method": null
+    },
+    {
+      "name": "바이더웨이로또",
+      "address": "    대우마이빌상가1층108",
+      "method": null
+    },
+    {
+      "name": "드림로또노은점",
+      "address": "    하이랜드 아파트(원룸형 상가)1층",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "대전 서구 갈마로 56",
+      "method": null
+    },
+    {
+      "name": "복권판매",
+      "address": "경기 하남시 신장로 157",
+      "method": null
+    },
+    {
+      "name": "알라딘복권방",
+      "address": "    237-3",
+      "method": null
+    },
+    {
+      "name": "일등복권방",
+      "address": "경기 의정부시 회룡로 138 대명빌딩 1층",
+      "method": null
+    },
+    {
+      "name": "아트플라워",
+      "address": "경기 용인시 처인구 백옥대로 1109",
+      "method": null
+    },
+    {
+      "name": "행운로또",
+      "address": "경기 안산시 상록구 광덕1로 354 브라이튼오피스텔 114호",
+      "method": null
+    },
+    {
+      "name": "GS25(안산본점)",
+      "address": "경기 안산시 상록구 샘골로 148",
+      "method": null
+    },
+    {
+      "name": "GS25(안산산호점)",
+      "address": "경기 안산시 단원구 선부광장1로 69",
+      "method": null
+    },
+    {
+      "name": "은행복권방",
+      "address": "경기 시흥시 은계호수로 49 1층 1062호",
+      "method": null
+    },
+    {
+      "name": "전인정보통신",
+      "address": "경기 남양주시 진건오남로 658 1층",
+      "method": null
+    },
+    {
+      "name": "복권마을",
+      "address": "경기 광명시 광화로 16 1층",
+      "method": null
+    },
+    {
+      "name": "버스표판매소",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "문막로또명당",
+      "address": "강원 원주시 원문로 1841 1층",
+      "method": null
+    },
+    {
+      "name": "왕대박복권방",
+      "address": "충북 청주시 청원구 두릉유리로 1119",
+      "method": null
+    },
+    {
+      "name": "나눔로또방",
+      "address": "충북 제천시 내제로 46 1층",
+      "method": null
+    },
+    {
+      "name": "현대장미슈퍼",
+      "address": "전북 익산시 동서로61길 41 어양동 현대A 상가동 108호",
+      "method": null
+    },
+    {
+      "name": "신일마트",
+      "address": "전북 군산시 의료원로 159",
+      "method": null
+    },
+    {
+      "name": "로터리편의마트",
+      "address": "경북 포항시 북구 서동로 85 육거리",
+      "method": null
+    },
+    {
+      "name": "행운의집",
+      "address": "경북 안동시 퇴계로 104 1층 행운의집 복권방",
+      "method": null
+    },
+    {
+      "name": "라이프25시",
+      "address": "    세븐일레븐 송정타운점",
+      "method": null
+    }
+  ]
+}

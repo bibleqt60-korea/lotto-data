@@ -1,0 +1,159 @@
+{
+  "round": 294,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "CU(수유대로점)",
+      "address": "서울 강북구 노해로 121 두울빌딩",
+      "method": "자동"
+    },
+    {
+      "name": "동래복권방",
+      "address": "부산 동래구 명륜로 163 중고악기1층",
+      "method": "자동"
+    },
+    {
+      "name": "덕하복권명당",
+      "address": "울산 울주군 덕하로 238",
+      "method": "자동"
+    },
+    {
+      "name": "참깨열쇠.복권",
+      "address": "전북 전주시 완산구 용리로 43 1층",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "로또판매점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "CU(새절역점)",
+      "address": "서울 은평구 증산로 401",
+      "method": null
+    },
+    {
+      "name": "GS25(여의쌍마점)",
+      "address": "    한마루빌딩1층1호",
+      "method": null
+    },
+    {
+      "name": "로또복권판매대",
+      "address": "    e-b/d1층",
+      "method": null
+    },
+    {
+      "name": "웨이스탑(전농점)",
+      "address": "서울 동대문구 전농로 129",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "서울 노원구 마들로 59 미성상가내104호현대슈퍼",
+      "method": null
+    },
+    {
+      "name": "CU마차길점복권방",
+      "address": "서울 금천구 두산로 50 CU독산마차길점 편의점",
+      "method": null
+    },
+    {
+      "name": "CU(민락해변점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "부산 부산진구 냉정로 273",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "대구 서구 당산로 273",
+      "method": null
+    },
+    {
+      "name": "복권명당(서부점)",
+      "address": "대구 달서구 월배로 452",
+      "method": null
+    },
+    {
+      "name": "LA24시편의점",
+      "address": "대구 달서구 달구벌대로 1005 상가 103호",
+      "method": null
+    },
+    {
+      "name": "계대마트",
+      "address": "대구 달서구 계대동문로 26 1층",
+      "method": null
+    },
+    {
+      "name": "광주쌍촌3호점로또판매",
+      "address": "    세븐일레븐편의점 내",
+      "method": null
+    },
+    {
+      "name": "차밍플라워 로또",
+      "address": "전남광주 광산구 풍영로 41 동구빌딩1층",
+      "method": null
+    },
+    {
+      "name": "우리들성남점",
+      "address": "울산 중구 새즈믄해거리 50",
+      "method": null
+    },
+    {
+      "name": "올인 (all in)",
+      "address": "경기 화성시 만세구 3.1만세로 1147",
+      "method": null
+    },
+    {
+      "name": "독립상회",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "경기 포천시 죽엽산로35번길 1",
+      "method": null
+    },
+    {
+      "name": "GS25(원곡경남점)",
+      "address": "경기 안산시 단원구 원선1로 61 상가2동 101/102호 GS25원곡경남점",
+      "method": null
+    },
+    {
+      "name": "대부",
+      "address": "경기 부천시 조종로 5 1층",
+      "method": null
+    },
+    {
+      "name": "성심편의점",
+      "address": "    명동상가100호",
+      "method": null
+    },
+    {
+      "name": "아이리스",
+      "address": "    일산병원지하1층",
+      "method": null
+    },
+    {
+      "name": "오창중앙복권",
+      "address": "충북 청주시 청원구 중심상업로 47 103호",
+      "method": null
+    },
+    {
+      "name": "큐마트로또덕충점",
+      "address": "전남광주 여수시 충민로 183 큐마트덕충점",
+      "method": null
+    },
+    {
+      "name": "황금알",
+      "address": "전남광주 여수시 문수로 22",
+      "method": null
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "round": 351,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "제이복권방",
+      "address": "서울 종로구 종로 225-1 평창빌딩 1층 103호",
+      "method": "수동"
+    },
+    {
+      "name": "로또토토",
+      "address": "울산 남구 삼산중로48번길 13",
+      "method": "자동"
+    },
+    {
+      "name": "복권세상",
+      "address": "경기 남양주시 청학로 97",
+      "method": "자동"
+    },
+    {
+      "name": "보령복권방",
+      "address": "충남 보령시 중앙로 48",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "상호없음",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "제이복권방",
+      "address": "서울 종로구 종로 225-1 평창빌딩 1층 103호",
+      "method": null
+    },
+    {
+      "name": "제이복권방",
+      "address": "서울 종로구 종로 225-1 평창빌딩 1층 103호",
+      "method": "수동"
+    },
+    {
+      "name": "제이복권방",
+      "address": "서울 종로구 종로 225-1 평창빌딩 1층 103호",
+      "method": null
+    },
+    {
+      "name": "제이복권방",
+      "address": "서울 종로구 종로 225-1 평창빌딩 1층 103호",
+      "method": "자동"
+    },
+    {
+      "name": "제이복권방",
+      "address": "서울 종로구 종로 225-1 평창빌딩 1층 103호",
+      "method": null
+    },
+    {
+      "name": "제이복권방",
+      "address": "서울 종로구 종로 225-1 평창빌딩 1층 103호",
+      "method": null
+    },
+    {
+      "name": "농심가슈퍼마트",
+      "address": "서울 양천구 목동중앙본로 54 1층",
+      "method": null
+    },
+    {
+      "name": "복돼지복권방",
+      "address": "서울 성동구 아차산로7길 42",
+      "method": null
+    },
+    {
+      "name": "상진식품",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "도봉구청점 GS25",
+      "address": "서울 도봉구 마들로 664",
+      "method": null
+    },
+    {
+      "name": "황금대박점",
+      "address": "서울 노원구 공릉로 328",
+      "method": null
+    },
+    {
+      "name": "유창슈퍼",
+      "address": "서울 금천구 범안로17길 41 진도아파트상가101호",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "    1층",
+      "method": "자동"
+    },
+    {
+      "name": "청송상회",
+      "address": "서울 광진구 광나루로40길 73",
+      "method": null
+    },
+    {
+      "name": "신화복권방",
+      "address": "    1/1",
+      "method": null
+    },
+    {
+      "name": "파랑새식품",
+      "address": "서울 강남구 논현로151길 23 1층",
+      "method": null
+    },
+    {
+      "name": "CU(경대정문점)",
+      "address": "대구 북구 대현로19길 86",
+      "method": null
+    },
+    {
+      "name": "서재강변로또",
+      "address": "대구 달성군 서재로 172",
+      "method": null
+    },
+    {
+      "name": "대우로또복권방",
+      "address": "    대우프라자113",
+      "method": null
+    },
+    {
+      "name": "광주무등1호점로또판매",
+      "address": "    세븐일레븐 광주무등1점",
+      "method": null
+    },
+    {
+      "name": "대림통상",
+      "address": "울산 중구 신기14길 1 일신아파트상가102호",
+      "method": null
+    },
+    {
+      "name": "동성복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "파란만장복권방",
+      "address": "경기 화성시 효행로 1016 101호",
+      "method": null
+    },
+    {
+      "name": "로또복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "가판점",
+      "address": "경기 부천시 자유로 33 이마트앞 지하도입구",
+      "method": null
+    },
+    {
+      "name": "명당복권방",
+      "address": "경기 남양주시 창현로 7",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "충북 청주시 청원구 율봉로176번길 8-2",
+      "method": null
+    },
+    {
+      "name": "흥건슈퍼",
+      "address": "전북 전주시 완산구 거마평로 25 흥건슈퍼",
+      "method": null
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "round": 499,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "오케이상사",
+      "address": "서울 서초구 신반포로 176 센트럴시티내100호매점",
+      "method": "자동"
+    },
+    {
+      "name": "행운의집",
+      "address": "서울 강동구 구천면로 222",
+      "method": "자동"
+    },
+    {
+      "name": "대부복권방",
+      "address": "    1동 128-1호",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "육일슈퍼마켓",
+      "address": "서울 중구 다동길 17",
+      "method": null
+    },
+    {
+      "name": "샛별복권방",
+      "address": "서울 중구 동호로10길 12 1층",
+      "method": null
+    },
+    {
+      "name": "제이복권방",
+      "address": "서울 종로구 종로 225-1 평창빌딩 1층 103호",
+      "method": null
+    },
+    {
+      "name": "GS25(종로낙원점)",
+      "address": "서울 종로구 수표로 123-4",
+      "method": null
+    },
+    {
+      "name": "-",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "신정복권",
+      "address": "서울 양천구 신목로 70-1 1층",
+      "method": null
+    },
+    {
+      "name": "토마토",
+      "address": "서울 성동구 마조로7길 15-1",
+      "method": null
+    },
+    {
+      "name": "팬시갤러리",
+      "address": "서울 서대문구 통일로 153-1",
+      "method": null
+    },
+    {
+      "name": "구청앞로또명당",
+      "address": "서울 강북구 한천로139길 9",
+      "method": null
+    },
+    {
+      "name": "CU(민락해변점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "MC수영점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "왕대박마트",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "나도대박",
+      "address": "    CU편의점",
+      "method": null
+    },
+    {
+      "name": "서면시장잡화",
+      "address": "    서면시장1층46",
+      "method": null
+    },
+    {
+      "name": "희망복권방",
+      "address": "부산 동래구 명장로20번길 26",
+      "method": null
+    },
+    {
+      "name": "청구마트",
+      "address": "대구 북구 검단로 34 청구아파트상가108동102호",
+      "method": null
+    },
+    {
+      "name": "코사마트금강점",
+      "address": "대구 달서구 용산로 204 1층 코사마트",
+      "method": null
+    },
+    {
+      "name": "행운 마트",
+      "address": "인천 남동구 만수로 65",
+      "method": null
+    },
+    {
+      "name": "참조은복권",
+      "address": "    모아아파트 2차상가 가-101호",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "대전 중구 대흥로 94",
+      "method": null
+    },
+    {
+      "name": "천일복권방",
+      "address": "울산 중구 반구정6길 60",
+      "method": null
+    },
+    {
+      "name": "우리들(북구청점)",
+      "address": "울산 북구 무룡로 29 1층 우리들편의점 내",
+      "method": null
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또토토",
+      "address": "울산 남구 삼산중로48번길 13",
+      "method": null
+    },
+    {
+      "name": "천하명당",
+      "address": "경기 화성시 남양시장로 83",
+      "method": null
+    },
+    {
+      "name": "로또.토토.블루베리",
+      "address": "경기 평택시 안현로서6길 7 105호",
+      "method": null
+    },
+    {
+      "name": "백만장자",
+      "address": "경기 용인시 기흥구 흥덕2로105번길 6 흥덕유프라자111호",
+      "method": null
+    },
+    {
+      "name": "행운방",
+      "address": "    엔림프라자101호",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "경기 오산시 오산로 298-1",
+      "method": null
+    },
+    {
+      "name": "방글유통",
+      "address": "    농수산물도매시장 직판상가2호",
+      "method": null
+    },
+    {
+      "name": "종합복권슈퍼",
+      "address": "경기 시흥시 마유로 336 정일빌딩104",
+      "method": null
+    },
+    {
+      "name": "로또명당",
+      "address": "경기 시흥시 신현로 21-1 101호",
+      "method": null
+    },
+    {
+      "name": "CU(원종깨비점)",
+      "address": "경기 부천시 소사로 750 CU원종깨비점",
+      "method": null
+    },
+    {
+      "name": "천하명당",
+      "address": "강원 강릉시 연주로 312 1층",
+      "method": null
+    },
+    {
+      "name": "현대복권방",
+      "address": "충북 청주시 청원구 향군로 140-1",
+      "method": null
+    },
+    {
+      "name": "프랜드마트두산점",
+      "address": "전북 전주시 덕진구 매봉로 10",
+      "method": null
+    },
+    {
+      "name": "진로베스토아",
+      "address": "전북 익산시 동서로 359",
+      "method": null
+    },
+    {
+      "name": "알리바이",
+      "address": "    알리바이 왕지점",
+      "method": null
+    },
+    {
+      "name": "삼천리로또",
+      "address": "전남광주 곡성군 곡성로 853 1층",
+      "method": null
+    },
+    {
+      "name": "월드복권방",
+      "address": "경남 통영시 북신시장1길 12 월드마트 내",
+      "method": null
+    },
+    {
+      "name": "용원복돼지복권",
+      "address": "경남 창원시 진해구 용재로 107",
+      "method": null
+    },
+    {
+      "name": "이마트24마산현동파크점",
+      "address": "경남 창원시 마산합포구 현동6길 18 1층 103호",
+      "method": null
+    },
+    {
+      "name": "이마트24 마산만복점",
+      "address": "경남 창원시 마산회원구 합성옛길 152 1층 이마트24 편의점내",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "경남 사천시 수남길 17 1층",
+      "method": null
+    },
+    {
+      "name": "운수대통",
+      "address": "    동헌상가 가-111호",
+      "method": null
+    },
+    {
+      "name": "GS25(서귀중문점)",
+      "address": "제주 서귀포시 천제연로 210",
+      "method": null
+    }
+  ]
+}

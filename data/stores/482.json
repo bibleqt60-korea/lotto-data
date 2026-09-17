@@ -1,0 +1,194 @@
+{
+  "round": 482,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "코코주",
+      "address": "서울 중구 장충단로 261-1 밀리오래 앞 가판",
+      "method": "자동"
+    },
+    {
+      "name": "행운대박복권",
+      "address": "서울 영등포구 영신로19길 8-1",
+      "method": "수동"
+    },
+    {
+      "name": "덕성식품",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "대박마트",
+      "address": "인천 남동구 호구포로 219 세중프라자1층101-2호",
+      "method": "자동"
+    },
+    {
+      "name": "복권마트",
+      "address": "전남광주 북구 북문대로 89 벽산메가시티상가 101동 116호",
+      "method": "수동"
+    },
+    {
+      "name": "모현복권방",
+      "address": "경기 용인시 처인구 백옥대로 2383",
+      "method": "자동"
+    },
+    {
+      "name": "복권방",
+      "address": "   ",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "가판점",
+      "address": "서울 중구 을지로 193-1",
+      "method": null
+    },
+    {
+      "name": "천하명당로또",
+      "address": "서울 은평구 증산로9길 17",
+      "method": null
+    },
+    {
+      "name": "갑부복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "남영동로또",
+      "address": "서울 용산구 한강대로 277-1",
+      "method": null
+    },
+    {
+      "name": "스파",
+      "address": "서울 노원구 동일로 1493 주공10단지종합상가111",
+      "method": null
+    },
+    {
+      "name": "다모아복권명당",
+      "address": "서울 구로구 서해안로30길 13-7 1층",
+      "method": null
+    },
+    {
+      "name": "방화점로또판매",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "왕대박로또방",
+      "address": "    위드미편의점내",
+      "method": null
+    },
+    {
+      "name": "농심로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "쿨마트영남네오빌점",
+      "address": "대구 달서구 대명천로 250 영남네오빌비스타상가201동101호",
+      "method": null
+    },
+    {
+      "name": "로또명당",
+      "address": "대구 남구 명덕로 322",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "인천 서해구 봉오재3로 104 엔시티타워2차 1층 115호",
+      "method": null
+    },
+    {
+      "name": "대박로또방",
+      "address": "인천 미추홀구 낙섬서로 46",
+      "method": null
+    },
+    {
+      "name": "태양마트",
+      "address": "대전 유성구 노은로 157 골드프라자 106호",
+      "method": null
+    },
+    {
+      "name": "금일복권방",
+      "address": "    코리아세븐만년2호점",
+      "method": null
+    },
+    {
+      "name": "복권천국",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "경기 수원시 장안구 장안로 288 1층",
+      "method": null
+    },
+    {
+      "name": "권선베스토아",
+      "address": "경기 수원시 권선구 세권로181번길 20-23",
+      "method": null
+    },
+    {
+      "name": "패밀리복권방",
+      "address": "경기 남양주시 늘을1로16번길 29 늘봄타워 107호",
+      "method": null
+    },
+    {
+      "name": "코니아일랜드아이스크림",
+      "address": "경기 남양주시 마치로 339 진우로얄빌라제나동102",
+      "method": null
+    },
+    {
+      "name": "팡팡마트",
+      "address": "경기 남양주시 진건오남로522번길 3 102호",
+      "method": null
+    },
+    {
+      "name": "로또645",
+      "address": "    CU 춘천한주점",
+      "method": null
+    },
+    {
+      "name": "황금대박복권",
+      "address": "강원 원주시 중앙시장길 36 1층",
+      "method": null
+    },
+    {
+      "name": "대박마트",
+      "address": "충남 천안시 동남구 봉서8길 13 봉명청솔아파트상가103호",
+      "method": null
+    },
+    {
+      "name": "잉크와복권방",
+      "address": "충남 천안시 동남구 차돌로 84",
+      "method": null
+    },
+    {
+      "name": "신아슈퍼",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "전남광주 순천시 신대로 97 중흥S크래스530동109호",
+      "method": null
+    },
+    {
+      "name": "팬더복권",
+      "address": "경북 포항시 남구 충무로 39-1 1층,우측상가",
+      "method": null
+    },
+    {
+      "name": "백만불 복권전문점",
+      "address": "경북 문경시 중앙로 79-2 1층",
+      "method": null
+    },
+    {
+      "name": "도계할인마트",
+      "address": "경남 창원시 의창구 원이대로55번길 8-4",
+      "method": null
+    }
+  ]
+}

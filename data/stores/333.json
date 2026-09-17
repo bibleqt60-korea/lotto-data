@@ -1,0 +1,224 @@
+{
+  "round": 333,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "묵동식품",
+      "address": "서울 중랑구 동일로 919",
+      "method": "자동"
+    },
+    {
+      "name": "행운열차복권방",
+      "address": "부산 사하구 옥천로 15-1",
+      "method": "자동"
+    },
+    {
+      "name": "복권명당",
+      "address": "인천 서해구 봉오재3로 104 엔시티타워2차 1층 115호",
+      "method": "자동"
+    },
+    {
+      "name": "프랜즈주안2호점",
+      "address": "    1층",
+      "method": "수동"
+    },
+    {
+      "name": "노다지복권방",
+      "address": "경기 시흥시 복지로 103-1 1층상가",
+      "method": "자동"
+    },
+    {
+      "name": "번개로또복권방",
+      "address": "경기 수원시 장안구 경수대로973번길 13-4 1층 (송죽동)",
+      "method": "자동"
+    },
+    {
+      "name": "늘푸른마트",
+      "address": "전남 목포시 용해지구로88번길 23 골드디움5차상가 115호",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "조용철",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "중구-가로가판대-37",
+      "address": "서울 중구 남대문로 20-2 가판",
+      "method": null
+    },
+    {
+      "name": "CU(신정점)",
+      "address": "    미성빌딩",
+      "method": null
+    },
+    {
+      "name": "복권명당(CU송파한화2호점)",
+      "address": "    송파한화오벨리스크1층123호(CU편의점)",
+      "method": null
+    },
+    {
+      "name": "건강복권점",
+      "address": "서울 송파구 오금로 306 1동1층105호",
+      "method": null
+    },
+    {
+      "name": "잠실매점",
+      "address": "서울 송파구 올림픽로 269 잠실역 8번출구 앞 가판",
+      "method": null
+    },
+    {
+      "name": "노다지",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "버스충전소",
+      "address": "서울 서초구 신반포로 177 반포쇼핑3동정문앞",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "서울 동작구 동작대로7길 11",
+      "method": null
+    },
+    {
+      "name": "로또판매",
+      "address": "서울 노원구 한글비석로15길 27",
+      "method": null
+    },
+    {
+      "name": "서하네",
+      "address": "서울 구로구 개봉로20길 66",
+      "method": null
+    },
+    {
+      "name": "봉천식품",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "팔도로또",
+      "address": "부산 수영구 수영로 709-1 청백도서내",
+      "method": null
+    },
+    {
+      "name": "복권사냥",
+      "address": "    광장빌딩1층 조이풀편의점",
+      "method": null
+    },
+    {
+      "name": "토큰박스(서문5지구)",
+      "address": "대구 중구 큰장로26길 5",
+      "method": null
+    },
+    {
+      "name": "CU(수성팔레스점)",
+      "address": "대구 수성구 수성로 400",
+      "method": null
+    },
+    {
+      "name": "서흥로또방",
+      "address": "인천 제물포구 화도진로 84 1층",
+      "method": null
+    },
+    {
+      "name": "CU(도화향기점)",
+      "address": "인천 미추홀구 석정로 327 1층 CU",
+      "method": null
+    },
+    {
+      "name": "복권천국",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "천국열쇠",
+      "address": "전남광주 북구 북문대로 157",
+      "method": null
+    },
+    {
+      "name": "오케이 복권방",
+      "address": "전남광주 동구 필문대로 6",
+      "method": null
+    },
+    {
+      "name": "GS25(대전시네마점)",
+      "address": "대전 서구 용문로 41-88",
+      "method": null
+    },
+    {
+      "name": "오거리마트",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "보람복권방",
+      "address": "울산 남구 화합로194번길 18-1",
+      "method": null
+    },
+    {
+      "name": "파란만장복권방",
+      "address": "경기 화성시 효행로 1016 101호",
+      "method": null
+    },
+    {
+      "name": "복권백화점",
+      "address": "경기 파주시 평화로 70",
+      "method": null
+    },
+    {
+      "name": "행운방",
+      "address": "    엔림프라자101호",
+      "method": null
+    },
+    {
+      "name": "복권세상",
+      "address": "경기 여주시 우암로 21-1 1층",
+      "method": null
+    },
+    {
+      "name": "버스가판점",
+      "address": "경기 안양시 만안구 안양천서로 233 앞 보도 (안양동)",
+      "method": null
+    },
+    {
+      "name": "복(福)드림-편의점",
+      "address": "경기 남양주시 묵현로 11-19 1층 2호",
+      "method": null
+    },
+    {
+      "name": "대곶천국열쇠 로또명당",
+      "address": "경기 김포시 율생로 80",
+      "method": null
+    },
+    {
+      "name": "로또방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "플러스24쌍용본점",
+      "address": "충남 천안시 서북구 월봉로 74",
+      "method": null
+    },
+    {
+      "name": "현아비디오로또",
+      "address": "전남광주 순천시 풍덕주택길 90 현아복권방",
+      "method": null
+    },
+    {
+      "name": "플러스하나",
+      "address": "전남광주 순천시 비봉길 6 상가동 1층 107호",
+      "method": null
+    },
+    {
+      "name": "다줄래상회",
+      "address": "경북 울릉군 울릉순환로 212-31 커피샵 (내)",
+      "method": null
+    }
+  ]
+}

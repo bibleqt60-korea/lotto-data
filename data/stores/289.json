@@ -1,0 +1,128 @@
+{
+  "round": 289,
+  "status": "available",
+  "message": "",
+  "first": [],
+  "second": [
+    {
+      "name": "천하명당 미마트점",
+      "address": "서울 성북구 동소문로2길 13",
+      "method": null
+    },
+    {
+      "name": "버스토큰판매소",
+      "address": "서울 구로구 경인로 323",
+      "method": null
+    },
+    {
+      "name": "로또복권판매점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "이마트24 사하오렌지점",
+      "address": "부산 사하구 장림번영로 96 105동 101호",
+      "method": null
+    },
+    {
+      "name": "복쓰리로또방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권천하(읍내점)",
+      "address": "    프라임프라자1층코너101",
+      "method": null
+    },
+    {
+      "name": "유승마트",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "씨스페이스(주안1-2)",
+      "address": "인천 미추홀구 미추홀대로 733",
+      "method": null
+    },
+    {
+      "name": "성모당약국",
+      "address": "인천 계양구 장제로1009번길 2",
+      "method": null
+    },
+    {
+      "name": "행운만땅",
+      "address": "광주 서구 상무자유로 176 1층",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "대전 중구 중앙로 17-1",
+      "method": null
+    },
+    {
+      "name": "금산인삼엑스포",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "CN마트",
+      "address": "울산 동구 대학길 42",
+      "method": null
+    },
+    {
+      "name": "복권세계",
+      "address": "경기 의정부시 호국로 1330 1층",
+      "method": null
+    },
+    {
+      "name": "태양복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "이레정보통신",
+      "address": "경기 부천시 소사로 705",
+      "method": null
+    },
+    {
+      "name": "교통카드충전소",
+      "address": "경기 고양시 덕양구 화정로 58 화정역 2번출구",
+      "method": null
+    },
+    {
+      "name": "천하제일복권방",
+      "address": "충북 청주시 서원구 매봉로 208 삼호상가1-105",
+      "method": null
+    },
+    {
+      "name": "천사마트",
+      "address": "충남 천안시 서북구 두정로 117 상가1층6호",
+      "method": null
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "    282-3",
+      "method": null
+    },
+    {
+      "name": "효자로또복권",
+      "address": "경북 포항시 남구 효자로118번길 16",
+      "method": null
+    },
+    {
+      "name": "창원병원앞매표소",
+      "address": "경남 창원시 성산구 창원대로 721 가판",
+      "method": null
+    },
+    {
+      "name": "삼계복권전문점",
+      "address": "경남 창원시 마산회원구 경남대로 915 1층",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "경남 김해시 활천로36번길 28-6 복권판매점",
+      "method": null
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "round": 502,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "몽곡사",
+      "address": "서울 영등포구 버드나루로 51 조광빌딩105호",
+      "method": "자동"
+    },
+    {
+      "name": "로또복권",
+      "address": "    훼미리마트",
+      "method": "수동"
+    },
+    {
+      "name": "복권천국방",
+      "address": "서울 마포구 동교로 92 1층",
+      "method": "자동"
+    },
+    {
+      "name": "복권명당",
+      "address": "대전 서구 만년남로3번길 164",
+      "method": "수동"
+    },
+    {
+      "name": "로또판매소",
+      "address": "강원 철원군 이평로 65",
+      "method": "자동"
+    },
+    {
+      "name": "문덕대박로또",
+      "address": "   ",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "한성식품",
+      "address": "서울 중구 수표로 26 1층",
+      "method": null
+    },
+    {
+      "name": "제이복권방",
+      "address": "서울 종로구 종로 225-1 평창빌딩 1층 103호",
+      "method": null
+    },
+    {
+      "name": "현대복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "신영상회",
+      "address": "서울 동작구 장승배기로 143",
+      "method": null
+    },
+    {
+      "name": "엔마트",
+      "address": "서울 동대문구 장한로31길 10",
+      "method": null
+    },
+    {
+      "name": "현대비디오",
+      "address": "서울 동대문구 장한로25길 45",
+      "method": null
+    },
+    {
+      "name": "대박나는집",
+      "address": "서울 노원구 덕릉로 718 상가 104호",
+      "method": null
+    },
+    {
+      "name": "아차산역가로판매점",
+      "address": "서울 광진구 천호대로 665",
+      "method": null
+    },
+    {
+      "name": "천하명당관악점",
+      "address": "서울 관악구 보라매로2길 11 1층",
+      "method": null
+    },
+    {
+      "name": "복권천국",
+      "address": "서울 강서구 방화대로33길 66",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "    일영빌딩1층 CU편의점",
+      "method": null
+    },
+    {
+      "name": "갤러리로또",
+      "address": "    씨팰리스오피스텔104호편의점내",
+      "method": null
+    },
+    {
+      "name": "모아드림복권방",
+      "address": "광주 광산구 소촌로 90 1층 복권방",
+      "method": null
+    },
+    {
+      "name": "로또는내운명",
+      "address": "대전 중구 대종로 277",
+      "method": null
+    },
+    {
+      "name": "GS25(대전대림점)",
+      "address": "대전 유성구 농대로 17",
+      "method": null
+    },
+    {
+      "name": "코만도",
+      "address": "대전 대덕구 석봉로43번길 1",
+      "method": null
+    },
+    {
+      "name": "남부복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "대박행진 복권랜드",
+      "address": "경기 파주시 금빛로 22 금촌프라자107호",
+      "method": null
+    },
+    {
+      "name": "로또휴게실",
+      "address": "경기 용인시 기흥구 용구대로 1885",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "경기 오산시 오산로 298-1",
+      "method": null
+    },
+    {
+      "name": "세류보석복권방",
+      "address": "경기 수원시 권선구 세지로 30",
+      "method": null
+    },
+    {
+      "name": "GS25오리점",
+      "address": "    하나이지타워107호",
+      "method": null
+    },
+    {
+      "name": "행복한사람들 (흥부네)",
+      "address": "경기 광주시 경충대로 1014",
+      "method": null
+    },
+    {
+      "name": "하라소",
+      "address": "    1층113",
+      "method": null
+    },
+    {
+      "name": "열린서점",
+      "address": "전남광주 목포시 삼각로43번길 10 열린서점",
+      "method": null
+    },
+    {
+      "name": "세븐일레븐 태화점 복권명당",
+      "address": "    1층 세븐일레븐 내",
+      "method": null
+    },
+    {
+      "name": "월드복권방",
+      "address": "경남 통영시 북신시장1길 12 월드마트 내",
+      "method": null
+    },
+    {
+      "name": "GS25(진해제일점)",
+      "address": "경남 창원시 진해구 중원로 87",
+      "method": null
+    },
+    {
+      "name": "노다지(남지점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "외동복권",
+      "address": "경남 김해시 동남로49번길 83 GS25 김해대동점",
+      "method": null
+    },
+    {
+      "name": "씨스페이스(김해구산점)",
+      "address": "경남 김해시 구산로 38",
+      "method": null
+    }
+  ]
+}

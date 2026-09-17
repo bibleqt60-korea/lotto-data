@@ -1,0 +1,259 @@
+{
+  "round": 759,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "미래통신",
+      "address": "서울 성북구 장월로 118-1",
+      "method": "자동"
+    },
+    {
+      "name": "종합복권슈퍼",
+      "address": "경기 시흥시 마유로 336 정일빌딩104",
+      "method": "수동"
+    },
+    {
+      "name": "인제복권방",
+      "address": "강원 인제군 비봉로 11-1 1층",
+      "method": "수동"
+    },
+    {
+      "name": "작은신부",
+      "address": "충남 서산시 구진로 6",
+      "method": "자동"
+    },
+    {
+      "name": "바다로또방",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "GS25(양산혜인점)",
+      "address": "경남 양산시 웅상대로 955",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "CU(대림중앙점)",
+      "address": "서울 영등포구 대림로 209 1층",
+      "method": null
+    },
+    {
+      "name": "오케이상사",
+      "address": "서울 서초구 신반포로 176 센트럴시티내100호매점",
+      "method": null
+    },
+    {
+      "name": "대박복권마트",
+      "address": "서울 강서구 화곡로 238 1층 104호",
+      "method": null
+    },
+    {
+      "name": "행운열차복권방",
+      "address": "부산 사하구 옥천로 15-1",
+      "method": null
+    },
+    {
+      "name": "셀프카메라",
+      "address": "부산 부산진구 가야대로443번길 32 1층 101호",
+      "method": null
+    },
+    {
+      "name": "백령로또",
+      "address": "인천 옹진군 백령로278번길 18",
+      "method": null
+    },
+    {
+      "name": "대박나라복권방",
+      "address": "인천 서해구 가정로 120-1",
+      "method": null
+    },
+    {
+      "name": "행복로또",
+      "address": "    104-109",
+      "method": null
+    },
+    {
+      "name": "1001복권",
+      "address": "    프리랜서빌105호",
+      "method": null
+    },
+    {
+      "name": "천하제일복권명당유성점",
+      "address": "대전 유성구 유성대로654번길 111",
+      "method": null
+    },
+    {
+      "name": "아이마트",
+      "address": "대전 서구 둔산로 230",
+      "method": null
+    },
+    {
+      "name": "아로마포미둔산점",
+      "address": "대전 서구 둔지로 15 경희빌딩1층",
+      "method": null
+    },
+    {
+      "name": "행운가득복권",
+      "address": "    102호 CU반정삼성점",
+      "method": null
+    },
+    {
+      "name": "복돼지마트",
+      "address": "경기 이천시 중부대로 1813 1층",
+      "method": null
+    },
+    {
+      "name": "GS25(이천대월점)",
+      "address": "경기 이천시 사동로 173",
+      "method": null
+    },
+    {
+      "name": "동행복권방",
+      "address": "경기 의정부시 평화로 477 1층",
+      "method": null
+    },
+    {
+      "name": "로또복권방",
+      "address": "경기 용인시 처인구 백옥대로 1153",
+      "method": null
+    },
+    {
+      "name": "대성기획",
+      "address": "경기 용인시 기흥구 구성로 75-1",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "경기 오산시 오산로 298-1",
+      "method": null
+    },
+    {
+      "name": "한반도복권방",
+      "address": "경기 오산시 남부대로 407",
+      "method": null
+    },
+    {
+      "name": "복권마을",
+      "address": "경기 안양시 동안구 흥안대로133번길 4 제1동 제1층 제104호",
+      "method": null
+    },
+    {
+      "name": "엑스트라",
+      "address": "    1층 엑스트라비디오",
+      "method": null
+    },
+    {
+      "name": "1등 복권",
+      "address": "경기 시흥시 배곧4로 32-27 105호",
+      "method": null
+    },
+    {
+      "name": "일등로또",
+      "address": "경기 수원시 장안구 대평로 86 116호",
+      "method": null
+    },
+    {
+      "name": "왕대박복권",
+      "address": "경기 수원시 장안구 연무로 52-2",
+      "method": null
+    },
+    {
+      "name": "디딤슈퍼",
+      "address": "경기 부천시 도약로 279",
+      "method": null
+    },
+    {
+      "name": "홈돌이로또복권",
+      "address": "경기 김포시 중봉로 14 삼성홈플러스2층",
+      "method": null
+    },
+    {
+      "name": "초월대박복권방",
+      "address": "경기 광주시 경충대로 1252",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "경기 고양시 덕양구 충장로 118-30 샘터마을229동 앞 버스표판매소",
+      "method": null
+    },
+    {
+      "name": "대박찬스",
+      "address": "충북 청주시 흥덕구 가경로161번길 3",
+      "method": null
+    },
+    {
+      "name": "명당복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "대일마켓",
+      "address": "충북 증평군 광장로 92",
+      "method": null
+    },
+    {
+      "name": "크로바슈퍼",
+      "address": "충북 제천시 의병대로 232 1층 크로바슈퍼",
+      "method": null
+    },
+    {
+      "name": "로또명당인주점",
+      "address": "충남 아산시 서해로 519-2",
+      "method": null
+    },
+    {
+      "name": "뉴팡팡복권",
+      "address": "전북 전주시 덕진구 쪽구름로 117",
+      "method": null
+    },
+    {
+      "name": "로또판매점",
+      "address": "전북 장수군 싸리재로 18",
+      "method": null
+    },
+    {
+      "name": "미래유통",
+      "address": "전남광주 목포시 영산로 623",
+      "method": null
+    },
+    {
+      "name": "삼천리로또",
+      "address": "전남광주 곡성군 곡성로 853 1층",
+      "method": null
+    },
+    {
+      "name": "NG24",
+      "address": "경북 칠곡군 북중리3길 59",
+      "method": null
+    },
+    {
+      "name": "구담쌀슈퍼",
+      "address": "경북 안동시 경동로 908",
+      "method": null
+    },
+    {
+      "name": "행운복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또판매업",
+      "address": "경남 양산시 북정로 31 CU편의점 내",
+      "method": null
+    },
+    {
+      "name": "왕대박복권방",
+      "address": "제주 서귀포시 표선관정로 103",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "제주 서귀포시 상모로 326",
+      "method": null
+    }
+  ]
+}

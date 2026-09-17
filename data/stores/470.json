@@ -1,0 +1,159 @@
+{
+  "round": 470,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "천하제일복권명당",
+      "address": "대전 중구 태평로 109",
+      "method": "자동"
+    },
+    {
+      "name": "가자복권천국",
+      "address": "전남광주 목포시 신흥로45번길 2",
+      "method": "자동"
+    },
+    {
+      "name": "대학사로또복권",
+      "address": "    피아노빌딩101호 CU편의점 내",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "하임마트",
+      "address": "서울 중구 퇴계로 439-4 1층",
+      "method": null
+    },
+    {
+      "name": "미래통신",
+      "address": "서울 성북구 장월로 118-1",
+      "method": null
+    },
+    {
+      "name": "나인투화이브양재점",
+      "address": "서울 서초구 동산로 18",
+      "method": null
+    },
+    {
+      "name": "오케이상사",
+      "address": "서울 서초구 신반포로 176 센트럴시티내100호매점",
+      "method": null
+    },
+    {
+      "name": "가판대",
+      "address": "    1층 세븐일레븐 점포내 일부",
+      "method": null
+    },
+    {
+      "name": "CU(타워팰리스점)",
+      "address": "서울 강남구 언주로30길 56",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "    서부시외버스터미널1층",
+      "method": null
+    },
+    {
+      "name": "천하명당초량점",
+      "address": "부산 동구 중앙대로221번길 3",
+      "method": null
+    },
+    {
+      "name": "복권천국(성서점)",
+      "address": "대구 달서구 성서로 377",
+      "method": null
+    },
+    {
+      "name": "LA24",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "하이마트",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "대박나라",
+      "address": "전남광주 광산구 월곡산정로 7 1층",
+      "method": null
+    },
+    {
+      "name": "천하명당(염포점)",
+      "address": "울산 북구 염포로 643",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "울산 남구 꽃대나리로 71",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "경기 양평군 용문로 358-1 1층",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "경기 양평군 용문로 358-1 1층",
+      "method": null
+    },
+    {
+      "name": "으뜸할인마트",
+      "address": "경기 안양시 동안구 관악대로287번길 27",
+      "method": null
+    },
+    {
+      "name": "센타슈퍼",
+      "address": "경기 안산시 상록구 광덕1로 369 센타프라자115호",
+      "method": null
+    },
+    {
+      "name": "목감매표소",
+      "address": "경기 시흥시 수인로 2335",
+      "method": null
+    },
+    {
+      "name": "그린하이퍼",
+      "address": "경기 시흥시 월곶중앙로 48 유호플러스빌105호",
+      "method": null
+    },
+    {
+      "name": "월드마트",
+      "address": "충북 청주시 흥덕구 장구봉로129번길 2",
+      "method": null
+    },
+    {
+      "name": "씨유선산이문점",
+      "address": "    CU선산이문점",
+      "method": null
+    },
+    {
+      "name": "끌레리띠",
+      "address": "경남 창원시 마산회원구 구암서6길 12",
+      "method": null
+    },
+    {
+      "name": "나눔로또",
+      "address": "경남 진주시 월아산로 1076 1층",
+      "method": null
+    },
+    {
+      "name": "진주상회",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "MONEY(편의점)",
+      "address": "경남 김해시 삼문로 25 110호 복권판매점",
+      "method": null
+    },
+    {
+      "name": "나우리고현점",
+      "address": "경남 거제시 거제중앙로 1904",
+      "method": null
+    }
+  ]
+}

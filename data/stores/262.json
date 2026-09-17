@@ -1,0 +1,124 @@
+{
+  "round": 262,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "태극로또전문점",
+      "address": "경기 이천시 애련정로 124-2 1층",
+      "method": "자동"
+    },
+    {
+      "name": "대박로또복권",
+      "address": "    CU관설에버빌점",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "노다지",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "샌드빈(SANDBEAN)",
+      "address": "서울 중구 퇴계로56길 57 1층",
+      "method": null
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "성동구가로판매",
+      "address": "    앞도로가로판매",
+      "method": null
+    },
+    {
+      "name": "꽃돼지복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권나라청량리2호점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "대박로또",
+      "address": "대구 북구 고성북로 3 고성아파트상가101동18호",
+      "method": null
+    },
+    {
+      "name": "O.K마트",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "현대LOTTO복권",
+      "address": "대전 중구 계백로 1570",
+      "method": null
+    },
+    {
+      "name": "초이스복권방",
+      "address": "    위드미편의점",
+      "method": null
+    },
+    {
+      "name": "울트라복권방",
+      "address": "    김밥천국 내",
+      "method": null
+    },
+    {
+      "name": "로또판매점",
+      "address": "경기 포천시 호국로 1900",
+      "method": null
+    },
+    {
+      "name": "신천가판점",
+      "address": "경기 시흥시 수인로 3370",
+      "method": null
+    },
+    {
+      "name": "원종슈퍼",
+      "address": "경기 부천시 성오로 128 코아상가4호",
+      "method": null
+    },
+    {
+      "name": "SoundWave",
+      "address": "경기 광명시 오리로 956",
+      "method": null
+    },
+    {
+      "name": "LA25시편의점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "충북 청주시 상당구 월평로 204",
+      "method": null
+    },
+    {
+      "name": "천하제일복권명당연무점",
+      "address": "충남 논산시 안심로 163",
+      "method": null
+    },
+    {
+      "name": "원마트",
+      "address": "경남 창원시 성산구 용지로169번길 13 라이크빌 1층 104-1호",
+      "method": null
+    },
+    {
+      "name": "세정쇼핑",
+      "address": "   ",
+      "method": null
+    }
+  ]
+}

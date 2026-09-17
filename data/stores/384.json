@@ -1,0 +1,229 @@
+{
+  "round": 384,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "동원슈퍼",
+      "address": "전남광주 남구 대남대로 277-1",
+      "method": "자동"
+    },
+    {
+      "name": "구세약방",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "명당복권방",
+      "address": "경기 남양주시 창현로 7",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "로또복권",
+      "address": "    가판대98호",
+      "method": null
+    },
+    {
+      "name": "장안제일로또명당",
+      "address": "    태정빌딩 1층 18호",
+      "method": null
+    },
+    {
+      "name": "도깨비방(로또)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또로또",
+      "address": "서울 영등포구 선유로52길 11",
+      "method": null
+    },
+    {
+      "name": "경성식품",
+      "address": "서울 동대문구 망우로21길 52",
+      "method": null
+    },
+    {
+      "name": "방학음악사",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "88수퍼",
+      "address": "서울 금천구 가산로 130",
+      "method": null
+    },
+    {
+      "name": "신영정보통신",
+      "address": "서울 강서구 등촌로 61 세영빌딩1층",
+      "method": null
+    },
+    {
+      "name": "가로판매점",
+      "address": "    가판",
+      "method": null
+    },
+    {
+      "name": "삼성대박복권방",
+      "address": "서울 강남구 봉은사로74길 13 101호",
+      "method": null
+    },
+    {
+      "name": "복권천국",
+      "address": "부산 서구 구덕로 207-1",
+      "method": null
+    },
+    {
+      "name": "25시슈퍼",
+      "address": "부산 사상구 백양대로 964",
+      "method": null
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "GS25(노포1호점)",
+      "address": "부산 금정구 중앙대로 2238",
+      "method": null
+    },
+    {
+      "name": "로또상품권롯데대구점",
+      "address": "대구 중구 태평로 161 대구역 지하상가10호",
+      "method": null
+    },
+    {
+      "name": "로또뉴월드점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "승차권판매소",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "희망로또",
+      "address": "    학우사 내",
+      "method": null
+    },
+    {
+      "name": "오케이할인마트",
+      "address": "대구 남구 대명로 234-2 오케이할인마트",
+      "method": null
+    },
+    {
+      "name": "대박나라복권방",
+      "address": "인천 서해구 가정로 120-1",
+      "method": null
+    },
+    {
+      "name": "행운마트",
+      "address": "인천 제물포구 송림로 71-1",
+      "method": null
+    },
+    {
+      "name": "경기상회",
+      "address": "인천 남동구 장승남로 42 104호",
+      "method": null
+    },
+    {
+      "name": "CU(신동아점)",
+      "address": "인천 미추홀구 미추홀대로 489",
+      "method": null
+    },
+    {
+      "name": "이레",
+      "address": "인천 계양구 주부토로 491 102호",
+      "method": null
+    },
+    {
+      "name": "행운철물점",
+      "address": "전남광주 북구 면앙로 36",
+      "method": null
+    },
+    {
+      "name": "GS25(신성중앙점)",
+      "address": "대전 유성구 신성로62번길 57",
+      "method": null
+    },
+    {
+      "name": "대박찬스",
+      "address": "울산 북구 염포로 531",
+      "method": null
+    },
+    {
+      "name": "골드복권방",
+      "address": "경기 평택시 평택로 154 1층 복권방",
+      "method": null
+    },
+    {
+      "name": "행운로또복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "꿈에본그자리",
+      "address": "경기 성남시 중원구 산성대로 458",
+      "method": null
+    },
+    {
+      "name": "로또명당",
+      "address": "강원 횡성군 둔내로 25 1층",
+      "method": null
+    },
+    {
+      "name": "팡팡복권방",
+      "address": "충북 진천군 장기길 102",
+      "method": null
+    },
+    {
+      "name": "향미",
+      "address": "충북 음성군 덕금로 385 1층 복권방",
+      "method": null
+    },
+    {
+      "name": "GS25(천안창조점)",
+      "address": "충남 천안시 동남구 만남로 72 삼부르네상스오피스텔 103호",
+      "method": null
+    },
+    {
+      "name": "로또행운방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "훼미리마트 우아대로점",
+      "address": "전북 전주시 덕진구 건산로 276",
+      "method": null
+    },
+    {
+      "name": "롯데마트",
+      "address": "전북 군산시 하나운로 43",
+      "method": null
+    },
+    {
+      "name": "종합복권방",
+      "address": "전남광주 해남군 해남로 34",
+      "method": null
+    },
+    {
+      "name": "인생로또 새천년점",
+      "address": "경북 포항시 북구 새천년대로 1063 102호(창포동)",
+      "method": null
+    },
+    {
+      "name": "행운을주는사람들(복권방)",
+      "address": "경남 고성군 중앙로 39",
+      "method": null
+    },
+    {
+      "name": "GS25(제주도청점)",
+      "address": "제주 제주시 신대로 63",
+      "method": null
+    }
+  ]
+}

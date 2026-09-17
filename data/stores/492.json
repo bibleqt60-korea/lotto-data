@@ -1,0 +1,234 @@
+{
+  "round": 492,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "로또판매점",
+      "address": "경기 안산시 상록구 영화7길 22-1 102호",
+      "method": "수동"
+    },
+    {
+      "name": "태봉",
+      "address": "경기 부천시 소사로 182",
+      "method": "수동"
+    },
+    {
+      "name": "화천복권방",
+      "address": "    1층",
+      "method": "자동"
+    },
+    {
+      "name": "바른손(퇴계점)",
+      "address": "강원 춘천시 퇴계로 168 주공2단지상가101호",
+      "method": "자동"
+    },
+    {
+      "name": "복권천국",
+      "address": "전남광주 무안군 무안로 506 복권천국",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "용꿈복권",
+      "address": "서울 중랑구 봉우재로71길 21 1층",
+      "method": null
+    },
+    {
+      "name": "광명식품",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "하이퍼",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "GS25(답십리역점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "국민슈퍼",
+      "address": "서울 도봉구 도봉로 588",
+      "method": null
+    },
+    {
+      "name": "다모아복권명당",
+      "address": "서울 구로구 서해안로30길 13-7 1층",
+      "method": null
+    },
+    {
+      "name": "토큰판매소",
+      "address": "서울 강동구 양재대로 1631",
+      "method": null
+    },
+    {
+      "name": "명문슈퍼",
+      "address": "부산 북구 만덕대로 82",
+      "method": null
+    },
+    {
+      "name": "G마트",
+      "address": "부산 북구 백양대로 1024",
+      "method": null
+    },
+    {
+      "name": "대박베팅샾",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "다모아복권방",
+      "address": "대구 서구 문화로49길 24 1층 103호",
+      "method": null
+    },
+    {
+      "name": "라이프마트",
+      "address": "인천 제물포구 연안부두로53번길 36 5호",
+      "method": null
+    },
+    {
+      "name": "복권나라(가좌사)",
+      "address": "인천 서해구 원적로 73",
+      "method": null
+    },
+    {
+      "name": "힘찬슈퍼 복권방",
+      "address": "인천 부평구 장제로 112",
+      "method": null
+    },
+    {
+      "name": "만복래로또복권방",
+      "address": "인천 미추홀구 낙섬중로 11",
+      "method": null
+    },
+    {
+      "name": "터미널로또판매점",
+      "address": "    인천교통공사대합실1층2호편의점내",
+      "method": null
+    },
+    {
+      "name": "삼성포토랜드",
+      "address": "인천 강화군 북문길 6",
+      "method": null
+    },
+    {
+      "name": "백억평동타운점",
+      "address": "광주 광산구 사암로340번길 31 102호",
+      "method": null
+    },
+    {
+      "name": "형제상회",
+      "address": "대전 서구 계룡로 664-1",
+      "method": null
+    },
+    {
+      "name": "금강수여울목",
+      "address": "대전 대덕구 신탄진로 806-1",
+      "method": null
+    },
+    {
+      "name": "금화복권방",
+      "address": "울산 남구 월평로 156",
+      "method": null
+    },
+    {
+      "name": "로또복권방",
+      "address": "경기 파주시 새꽃로 120-2 1층",
+      "method": null
+    },
+    {
+      "name": "대성미니슈퍼",
+      "address": "경기 이천시 샘재로 154 1층",
+      "method": null
+    },
+    {
+      "name": "천둥마트",
+      "address": "경기 안산시 단원구 지곡로 32",
+      "method": null
+    },
+    {
+      "name": "시흥장곡점로또판매",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "버스가판대",
+      "address": "경기 성남시 중원구 성남대로 1146-2",
+      "method": null
+    },
+    {
+      "name": "GS25(군포당정본)",
+      "address": "경기 군포시 봉성로 108",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "경기 군포시 산본천로 181 1층 원조장충왕족발 내",
+      "method": null
+    },
+    {
+      "name": "한성로또복권",
+      "address": "강원 정선군 고한9길 40",
+      "method": null
+    },
+    {
+      "name": "두꺼비복권방",
+      "address": "충북 청주시 서원구 산남로 47 104호",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "충북 증평군 중앙로 199-1",
+      "method": null
+    },
+    {
+      "name": "로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "한남마트 왔다복권",
+      "address": "충남 천안시 서북구 서부16길 9",
+      "method": null
+    },
+    {
+      "name": "대산슈퍼",
+      "address": "충남 천안시 동남구 복구정3길 1",
+      "method": null
+    },
+    {
+      "name": "나눔로또 토토",
+      "address": "충남 서산시 무학로 1742 아진아파트상가1층105호",
+      "method": null
+    },
+    {
+      "name": "드림마트",
+      "address": "전남광주 목포시 산정로 159-3 1층",
+      "method": null
+    },
+    {
+      "name": "구담쌀슈퍼",
+      "address": "경북 안동시 경동로 908",
+      "method": null
+    },
+    {
+      "name": "로또판매점",
+      "address": "경북 상주시 상서문로 59",
+      "method": null
+    },
+    {
+      "name": "GMART",
+      "address": "경북 구미시 구미중앙로 57-3",
+      "method": null
+    },
+    {
+      "name": "양산노다지복권방",
+      "address": "경남 양산시 북안남2길 52 복권판매점",
+      "method": null
+    }
+  ]
+}

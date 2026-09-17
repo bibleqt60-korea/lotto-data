@@ -1,0 +1,164 @@
+{
+  "round": 353,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "신도복권명소",
+      "address": "   ",
+      "method": "수동"
+    },
+    {
+      "name": "대성기획",
+      "address": "경기 용인시 기흥구 구성로 75-1",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "무교식품",
+      "address": "서울 중구 다동길 43 135호",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "서울 은평구 연서로 258 상가102호",
+      "method": null
+    },
+    {
+      "name": "해피원",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "명당복권",
+      "address": "서울 영등포구 영등포로 235",
+      "method": null
+    },
+    {
+      "name": "복드림",
+      "address": "서울 영등포구 양평로 117",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "교통카드",
+      "address": "서울 서초구 강남대로 517",
+      "method": null
+    },
+    {
+      "name": "523마트",
+      "address": "서울 강서구 양천로 626 1층",
+      "method": null
+    },
+    {
+      "name": "삼정그린환경",
+      "address": "서울 강동구 양재대로 1355 오스카상가136호",
+      "method": null
+    },
+    {
+      "name": "네잎클로버",
+      "address": "부산 사상구 낙동대로 738",
+      "method": null
+    },
+    {
+      "name": "돈벼락맞는곳",
+      "address": "부산 동구 조방로49번길 18-1",
+      "method": null
+    },
+    {
+      "name": "씨스페이스(주안1-2)",
+      "address": "인천 미추홀구 미추홀대로 733",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또365",
+      "address": "경기 용인시 기흥구 동탄기흥로 701 1층",
+      "method": null
+    },
+    {
+      "name": "행운방",
+      "address": "    엔림프라자101호",
+      "method": null
+    },
+    {
+      "name": "성광복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "황금명당복권방",
+      "address": "    형석빌딩104",
+      "method": null
+    },
+    {
+      "name": "한일로또나라",
+      "address": "경기 수원시 장안구 경수대로 930 북수원홈플러스內",
+      "method": null
+    },
+    {
+      "name": "GS25(분당성원점)",
+      "address": "경기 성남시 분당구 성남대로 170 한국프라자112호",
+      "method": null
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기 부천시 오정로 208",
+      "method": null
+    },
+    {
+      "name": "지에스25 인주행운점",
+      "address": "충남 아산시 서해로 654 1층 GS편의점",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "전북 전주시 완산구 전주천서로 145",
+      "method": null
+    },
+    {
+      "name": "꽃샘슈퍼",
+      "address": "전북 전주시 완산구 팔달로 130-1",
+      "method": null
+    },
+    {
+      "name": "복돼지복권방",
+      "address": "전북 익산시 선화로1길 4 배산시티프라자 1층 107호",
+      "method": null
+    },
+    {
+      "name": "장흥로또",
+      "address": "    CU 장흥중앙점",
+      "method": null
+    },
+    {
+      "name": "씨스페이스 경주세방매점",
+      "address": "경북 경주시 산업로 4447 (용강동)",
+      "method": null
+    },
+    {
+      "name": "오복할인마트",
+      "address": "경남 창원시 의창구 차상로150번길 44 팔용유통단지",
+      "method": null
+    },
+    {
+      "name": "GS25(김해가야점)",
+      "address": "경남 김해시 김해대로2355번길 31",
+      "method": null
+    },
+    {
+      "name": "운수대통",
+      "address": "    동헌상가 가-111호",
+      "method": null
+    }
+  ]
+}

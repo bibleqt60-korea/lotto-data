@@ -1,0 +1,304 @@
+{
+  "round": 761,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "행운복권방",
+      "address": "서울 은평구 연서로 258 상가102호",
+      "method": "수동"
+    },
+    {
+      "name": "아현역3번출구앞가판점",
+      "address": "서울 마포구 굴레방로 38-1 아현역3번출구앞 가로판매대",
+      "method": "자동"
+    },
+    {
+      "name": "행운로또복권판매점",
+      "address": "서울 구로구 고척로 123-2",
+      "method": "수동"
+    },
+    {
+      "name": "로또대박",
+      "address": "부산 북구 금곡대로 270 상가동 110호",
+      "method": "자동"
+    },
+    {
+      "name": "포시즌마전점",
+      "address": "인천 검단구 완정로10번길 6-6 검단2지구37블록1롯트",
+      "method": "자동"
+    },
+    {
+      "name": "대박천하",
+      "address": "경기 의정부시 녹양로 65",
+      "method": "자동"
+    },
+    {
+      "name": "제일대박복권",
+      "address": "전북 전주시 완산구 쑥고개로 389 101호",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "미래전산",
+      "address": "서울 종로구 통일로 262 104호",
+      "method": null
+    },
+    {
+      "name": "로또복권판매",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "제이온",
+      "address": "    A동 102호 세븐일레븐",
+      "method": null
+    },
+    {
+      "name": "보문복권방",
+      "address": "서울 성북구 보문로 56",
+      "method": null
+    },
+    {
+      "name": "복권천국방",
+      "address": "서울 마포구 동교로 92 1층",
+      "method": null
+    },
+    {
+      "name": "CU마차길점복권방",
+      "address": "서울 금천구 두산로 50 CU독산마차길점 편의점",
+      "method": null
+    },
+    {
+      "name": "행운로또복권판매점",
+      "address": "서울 구로구 고척로 123-2",
+      "method": null
+    },
+    {
+      "name": "버스표 담배",
+      "address": "서울 강동구 올림픽로 811-1",
+      "method": null
+    },
+    {
+      "name": "나들가게24(황금어장)",
+      "address": "부산 중구 중앙대로 96 흥우빌딩1층 나들가게편의점",
+      "method": null
+    },
+    {
+      "name": "대원슈퍼마켓",
+      "address": "부산 수영구 수영로 524",
+      "method": null
+    },
+    {
+      "name": "CU(다대사랑점)",
+      "address": "부산 사하구 다대로429번길 15",
+      "method": null
+    },
+    {
+      "name": "민사로또판매점",
+      "address": "부산 금정구 중앙대로1929번길 20 민사공인중개사사무소 내",
+      "method": null
+    },
+    {
+      "name": "세이브슈퍼",
+      "address": "대구 수성구 달구벌대로 2467",
+      "method": null
+    },
+    {
+      "name": "로또슈퍼",
+      "address": "인천 연수구 청량로185번길 27 1동 1층 103호",
+      "method": null
+    },
+    {
+      "name": "복권나라(가좌사)",
+      "address": "인천 서해구 원적로 73",
+      "method": null
+    },
+    {
+      "name": "GS25(인천관교점)",
+      "address": "인천 미추홀구 주승로 224",
+      "method": null
+    },
+    {
+      "name": "그린복권전문편의점",
+      "address": "광주 서구 내방로 288-1",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "대전 중구 목중로 47",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "대전 중구 목중로 47",
+      "method": null
+    },
+    {
+      "name": "돈벼락맞는곳",
+      "address": "대전 서구 복수남로 16",
+      "method": null
+    },
+    {
+      "name": "대전우표사",
+      "address": "대전 동구 중앙로204번길 16-1",
+      "method": null
+    },
+    {
+      "name": "진성복권방",
+      "address": "경기 포천시 가산로 380",
+      "method": null
+    },
+    {
+      "name": "복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "경기 의왕시 경수대로 292 1층 111호 (오전동, 대덕하이베라스)",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "경기 연천군 온골로 57-1 1층",
+      "method": null
+    },
+    {
+      "name": "안양체육사",
+      "address": "경기 안양시 동안구 귀인로 93",
+      "method": null
+    },
+    {
+      "name": "로또(파발마점)",
+      "address": "경기 시흥시 마유로 415 역전프라자105호",
+      "method": null
+    },
+    {
+      "name": "공원슈퍼",
+      "address": "경기 수원시 장안구 팔달로 255 1층(영화동)",
+      "method": null
+    },
+    {
+      "name": "럭키",
+      "address": "    1층 107호 CU수내푸른마을점",
+      "method": null
+    },
+    {
+      "name": "세븐일레븐 평내지원점",
+      "address": "경기 남양주시 경춘로1256번길 6 112,113호",
+      "method": null
+    },
+    {
+      "name": "일등복권방",
+      "address": "경기 광명시 오리로 855 1층3호",
+      "method": null
+    },
+    {
+      "name": "로또복권방",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "봉의산마트",
+      "address": "강원 춘천시 춘천로 326 1층",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "강원 속초시 중앙로 28",
+      "method": null
+    },
+    {
+      "name": "왕대박복권",
+      "address": "강원 속초시 번영로 142 1층, 102호",
+      "method": null
+    },
+    {
+      "name": "로또천국",
+      "address": "충북 충주시 금봉1길  48 1층",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "충북 청주시 흥덕구 장구봉로 71 107호",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "충남 아산시 모산로91번길 9-2 1층",
+      "method": null
+    },
+    {
+      "name": "로또복권방",
+      "address": "충남 당진시 당진중앙1로 21",
+      "method": null
+    },
+    {
+      "name": "논산복권방",
+      "address": "충남 논산시 계백로 1016",
+      "method": null
+    },
+    {
+      "name": "GS25(송천비사벌점)",
+      "address": "전북 전주시 덕진구 송천중앙로 218",
+      "method": null
+    },
+    {
+      "name": "대박천국",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "노다지복권명당",
+      "address": "전북 군산시 문화로 119",
+      "method": null
+    },
+    {
+      "name": "완도로또",
+      "address": "    세븐일레븐 개포점",
+      "method": null
+    },
+    {
+      "name": "신동아마트(거북)",
+      "address": "전남광주 여수시 무선로 50 상가 1층 101호",
+      "method": null
+    },
+    {
+      "name": "로터리편의마트",
+      "address": "경북 포항시 북구 서동로 85 육거리",
+      "method": null
+    },
+    {
+      "name": "로또풍각점",
+      "address": "경북 청도군 헐티로 200 1층 풍각 철물점",
+      "method": null
+    },
+    {
+      "name": "씨스페이스 경주세방매점",
+      "address": "경북 경주시 산업로 4447 (용강동)",
+      "method": null
+    },
+    {
+      "name": "씨스페이스 경주세방매점",
+      "address": "경북 경주시 산업로 4447 (용강동)",
+      "method": null
+    },
+    {
+      "name": "피터팬",
+      "address": "경남 창원시 진해구 웅동로 76 1호 복권판매점",
+      "method": null
+    },
+    {
+      "name": "해피드림조이",
+      "address": "경남 창원시 의창구 천주로 24-1",
+      "method": null
+    },
+    {
+      "name": "우리로또",
+      "address": "   ",
+      "method": null
+    }
+  ]
+}

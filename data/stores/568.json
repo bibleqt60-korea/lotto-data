@@ -1,0 +1,309 @@
+{
+  "round": 568,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "대박유통",
+      "address": "부산 중구 구덕로 80 1층",
+      "method": "자동"
+    },
+    {
+      "name": "오렌지데이 개금점",
+      "address": "부산 부산진구 복지로 77 1층 오렌지데이",
+      "method": "자동"
+    },
+    {
+      "name": "올인 (all in)",
+      "address": "경기 화성시 만세구 3.1만세로 1147",
+      "method": "수동"
+    },
+    {
+      "name": "삼거리복권방",
+      "address": "   ",
+      "method": "수동"
+    },
+    {
+      "name": "천하명당",
+      "address": "경기 안양시 동안구 부림로 121 제125,제126",
+      "method": "자동"
+    },
+    {
+      "name": "이마트24벌교로또부용점",
+      "address": "전남광주 보성군 조정래길 47-4 111,112호",
+      "method": "수동"
+    },
+    {
+      "name": "환희복권방",
+      "address": "경북 포항시 남구 상공로 243 1층 복권방",
+      "method": "자동"
+    },
+    {
+      "name": "경일통신",
+      "address": "경남 창원시 마산회원구 북성로 340",
+      "method": "수동"
+    },
+    {
+      "name": "복권방",
+      "address": "경남 창원시 마산합포구 동서북7길 55 1층",
+      "method": "수동"
+    },
+    {
+      "name": "돈벼락맞는곳",
+      "address": "   ",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "수연식품(대박찬스)",
+      "address": "서울 중랑구 면목로48길 11",
+      "method": null
+    },
+    {
+      "name": "양지식품",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "신문가판대",
+      "address": "서울 중구 세종대로 7-1",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "제이복권방",
+      "address": "서울 종로구 종로 225-1 평창빌딩 1층 103호",
+      "method": null
+    },
+    {
+      "name": "천하명당 미마트점",
+      "address": "서울 성북구 동소문로2길 13",
+      "method": null
+    },
+    {
+      "name": "경성식품",
+      "address": "서울 동대문구 망우로21길 52",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "서울 도봉구 노해로63길 79 우림빌딩 112호",
+      "method": null
+    },
+    {
+      "name": "다터져복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "가로판매점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "행운의집",
+      "address": "서울 강동구 구천면로 222",
+      "method": null
+    },
+    {
+      "name": "강일코사할인마트",
+      "address": "서울 강동구 고덕로97길 29 105호",
+      "method": null
+    },
+    {
+      "name": "청솔서점",
+      "address": "부산 사하구 하신번영로 195",
+      "method": null
+    },
+    {
+      "name": "부일카서비스",
+      "address": "부산 동구 자성로133번길 35",
+      "method": null
+    },
+    {
+      "name": "GS25(평리이현점)",
+      "address": "대구 서구 북비산로 155",
+      "method": null
+    },
+    {
+      "name": "씨스페이스 성서계대점",
+      "address": "대구 달서구 달구벌대로 1130 1층  코리아마트내",
+      "method": null
+    },
+    {
+      "name": "로또명당",
+      "address": "인천 미추홀구 인주대로 423 101호",
+      "method": null
+    },
+    {
+      "name": "컴퓨터A/S",
+      "address": "전남광주 광산구 월곡산정로 67",
+      "method": null
+    },
+    {
+      "name": "알리바이",
+      "address": "전남광주 광산구 수등로 253 1층 알리바이",
+      "method": null
+    },
+    {
+      "name": "프라임24시편의점",
+      "address": "울산 북구 아진로 78",
+      "method": null
+    },
+    {
+      "name": "영화유통(1등복권방)",
+      "address": "울산 남구 신정로 19 삼성아파트 상가 204-101",
+      "method": null
+    },
+    {
+      "name": "행운복권마트",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "황금복권마트",
+      "address": "경기 이천시 증신로325번길 5 1층",
+      "method": null
+    },
+    {
+      "name": "주택복권방",
+      "address": "경기 안양시 만안구 수리산로 53",
+      "method": null
+    },
+    {
+      "name": "대박",
+      "address": "경기 안양시 동안구 관평로170번길 33",
+      "method": null
+    },
+    {
+      "name": "로또(파발마점)",
+      "address": "경기 시흥시 마유로 415 역전프라자105호",
+      "method": null
+    },
+    {
+      "name": "플러스원",
+      "address": "경기 수원시 장안구 만석로19번길 11-7 108호",
+      "method": null
+    },
+    {
+      "name": "바른손(퇴계점)",
+      "address": "강원 춘천시 퇴계로 168 주공2단지상가101호",
+      "method": null
+    },
+    {
+      "name": "바른손(퇴계점)",
+      "address": "강원 춘천시 퇴계로 168 주공2단지상가101호",
+      "method": null
+    },
+    {
+      "name": "하이그린마트",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "신화복권방",
+      "address": "충북 청주시 청원구 충청대로57번길 2",
+      "method": null
+    },
+    {
+      "name": "드림통신(구)굿타임24아산석정점",
+      "address": "충남 아산시 충무로 230 1층",
+      "method": null
+    },
+    {
+      "name": "삼팔로또",
+      "address": "충남 서천군 충절로 34",
+      "method": null
+    },
+    {
+      "name": "찬스복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "다농현대보석",
+      "address": "전북 전주시 덕진구 시천로 96-14",
+      "method": null
+    },
+    {
+      "name": "행운을 찾는사람들",
+      "address": "전북 전주시 덕진구 아중로 148 1층",
+      "method": null
+    },
+    {
+      "name": "복돼지복권방",
+      "address": "전북 익산시 선화로1길 4 배산시티프라자 1층 107호",
+      "method": null
+    },
+    {
+      "name": "한성슈퍼",
+      "address": "전북 익산시 익산대로 52",
+      "method": null
+    },
+    {
+      "name": "G(금정)마트휴게실",
+      "address": "전북 군산시 조촌로 66",
+      "method": null
+    },
+    {
+      "name": "씨유 함평마루점",
+      "address": "전남광주 함평군 광남길 52 CU편의점",
+      "method": null
+    },
+    {
+      "name": "성심상회",
+      "address": "경북 포항시 북구 불종로 78",
+      "method": null
+    },
+    {
+      "name": "NJOY로또텔레콤",
+      "address": "경북 포항시 남구 상공로 42",
+      "method": null
+    },
+    {
+      "name": "행운의집",
+      "address": "경북 안동시 퇴계로 104 1층 행운의집 복권방",
+      "method": null
+    },
+    {
+      "name": "로또기획",
+      "address": "경북 안동시 경북대로 443",
+      "method": null
+    },
+    {
+      "name": "복권판매점",
+      "address": "경북 경산시 하양로 65",
+      "method": null
+    },
+    {
+      "name": "로또명당덕산제일점",
+      "address": "경남 창원시 진해구 충장로 505",
+      "method": null
+    },
+    {
+      "name": "승차권판매소",
+      "address": "경남 창원시 진해구 충장로 132-1 가판",
+      "method": null
+    },
+    {
+      "name": "승차권판매소",
+      "address": "경남 창원시 진해구 충장로 132-1 가판",
+      "method": null
+    },
+    {
+      "name": "승차권판매소",
+      "address": "경남 창원시 진해구 충장로 132-1 가판",
+      "method": null
+    },
+    {
+      "name": "경일통신",
+      "address": "경남 창원시 마산회원구 북성로 340",
+      "method": null
+    }
+  ]
+}

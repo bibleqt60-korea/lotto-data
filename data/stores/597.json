@@ -1,0 +1,304 @@
+{
+  "round": 597,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "노다지복권방",
+      "address": "서울 종로구 종로 331 1층",
+      "method": "자동"
+    },
+    {
+      "name": "농심가슈퍼마트",
+      "address": "서울 양천구 목동중앙본로 54 1층",
+      "method": "자동"
+    },
+    {
+      "name": "로또복권",
+      "address": "서울 노원구 동일로 1530 다모아빌딩103",
+      "method": "자동"
+    },
+    {
+      "name": "복권명가",
+      "address": "서울 구로구 개봉로 26",
+      "method": "자동"
+    },
+    {
+      "name": "가로판매소",
+      "address": "서울 구로구 새말로 117-24 (신도림역2번출구)(구로동)",
+      "method": "자동"
+    },
+    {
+      "name": "다모아복권방",
+      "address": "대구 서구 문화로49길 24 1층 103호",
+      "method": "자동"
+    },
+    {
+      "name": "배팅샵(가장)",
+      "address": "대전 서구 용문로 46 평화빌102호",
+      "method": "자동"
+    },
+    {
+      "name": "금두꺼비복권방",
+      "address": "경기 고양시 일산서구 강성로 263 재성빌딩1층",
+      "method": "자동"
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "충남 홍성군 조양로 180",
+      "method": "자동"
+    },
+    {
+      "name": "로또복권방",
+      "address": "충남 당진시 당진중앙1로 21",
+      "method": "자동"
+    },
+    {
+      "name": "복권명당자인점",
+      "address": "경북 경산시 자인로 176",
+      "method": "자동"
+    },
+    {
+      "name": "GS25(창원극동점)",
+      "address": "    GS25편의점",
+      "method": "자동"
+    },
+    {
+      "name": "시네마천국",
+      "address": "경남 거창군 거열로 143-1",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "남산골",
+      "address": "서울 중구 퇴계로 222-1 1층",
+      "method": null
+    },
+    {
+      "name": "안경나라",
+      "address": "서울 영등포구 가마산로 455",
+      "method": null
+    },
+    {
+      "name": "성경스튜디오",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "가로판매점",
+      "address": "서울 관악구 과천대로 955-3",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "서울 관악구 장군봉1길 43 1층",
+      "method": null
+    },
+    {
+      "name": "두꺼비로또판매점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "그랑프리안경",
+      "address": "서울 강서구 강서로45길 13",
+      "method": null
+    },
+    {
+      "name": "플러스로또",
+      "address": "    1층 피자내",
+      "method": null
+    },
+    {
+      "name": "길동방",
+      "address": "서울 강동구 진황도로49길 16 3호",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "부산 해운대구 신반송로 179",
+      "method": null
+    },
+    {
+      "name": "셀프카메라",
+      "address": "부산 부산진구 가야대로443번길 32 1층 101호",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "    1층일부",
+      "method": null
+    },
+    {
+      "name": "훼밀리복권",
+      "address": "부산 금정구 중앙대로1719번길 37 우측 복권판매점",
+      "method": null
+    },
+    {
+      "name": "훼미리팔공지묘점내로또복권판매점",
+      "address": "대구 동구 파계로 83",
+      "method": null
+    },
+    {
+      "name": "쿨마트영남네오빌점",
+      "address": "대구 달서구 대명천로 250 영남네오빌비스타상가201동101호",
+      "method": null
+    },
+    {
+      "name": "삼성로또",
+      "address": "인천 연수구 학나래로6번길 56",
+      "method": null
+    },
+    {
+      "name": "욱일슈퍼",
+      "address": "인천 부평구 경인로 1144",
+      "method": null
+    },
+    {
+      "name": "대림통상",
+      "address": "울산 중구 신기14길 1 일신아파트상가102호",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "울산 남구 두왕로 188 우주상가3호",
+      "method": null
+    },
+    {
+      "name": "율암25시편의점",
+      "address": "경기 화성시 만세구 시청로 822",
+      "method": null
+    },
+    {
+      "name": "평택로또판매",
+      "address": "경기 평택시 비전5로 7 중앙프라자 105호",
+      "method": null
+    },
+    {
+      "name": "코사마트역전점",
+      "address": "경기 평택시 중앙2로 1",
+      "method": null
+    },
+    {
+      "name": "운정대박마트 복권",
+      "address": "경기 파주시 가람로 20 가람마을1단지 벽산한라아파트상가102호",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "경기 안산시 상록구 건건로 41 1층",
+      "method": null
+    },
+    {
+      "name": "드림메드",
+      "address": "경기 안산시 상록구 월피로 56 101호",
+      "method": null
+    },
+    {
+      "name": "GS25(안산고잔점)",
+      "address": "경기 안산시 단원구 광덕서로 62 법조타운108호",
+      "method": null
+    },
+    {
+      "name": "종합복권슈퍼",
+      "address": "경기 시흥시 마유로 336 정일빌딩104",
+      "method": null
+    },
+    {
+      "name": "진주비디오",
+      "address": "경기 수원시 권선구 서호동로 36-1",
+      "method": null
+    },
+    {
+      "name": "대박",
+      "address": "경기 부천시 지봉로 114 1층",
+      "method": null
+    },
+    {
+      "name": "로또",
+      "address": "    청원프라자107",
+      "method": null
+    },
+    {
+      "name": "CU(군포덕산점)",
+      "address": "경기 군포시 고산로250번길 32 덕산아파트상가 1층",
+      "method": null
+    },
+    {
+      "name": "한양복권판매",
+      "address": "경기 군포시 산본로 194 1층",
+      "method": null
+    },
+    {
+      "name": "프로피스",
+      "address": "경기 구리시 이문안로 11",
+      "method": null
+    },
+    {
+      "name": "신남복권나라",
+      "address": "강원 인제군 신남로 41 네네치킨 신남점",
+      "method": null
+    },
+    {
+      "name": "행운예감.더풋볼",
+      "address": "충북 충주시 국원대로 5 1층",
+      "method": null
+    },
+    {
+      "name": "서울로또방",
+      "address": "충북 옥천군 삼금로 8",
+      "method": null
+    },
+    {
+      "name": "우리별텔레콤(SK백석점)",
+      "address": "충남 천안시 서북구 백석로 116 상가101호",
+      "method": null
+    },
+    {
+      "name": "로또입장점",
+      "address": "    세븐일레븐입장점내",
+      "method": null
+    },
+    {
+      "name": "일레븐마트무선점",
+      "address": "전남광주 여수시 성산로 19",
+      "method": null
+    },
+    {
+      "name": "내가마트",
+      "address": "전남광주 순천시 삼산로 98",
+      "method": null
+    },
+    {
+      "name": "황금복권",
+      "address": "경북 영주시 구성로 379-1",
+      "method": null
+    },
+    {
+      "name": "영남통상",
+      "address": "경북 성주군 성주로 3228",
+      "method": null
+    },
+    {
+      "name": "CU로또(구미고아점)",
+      "address": "    CU편의점 내",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "경북 경산시 백양로32길 15 1층",
+      "method": null
+    },
+    {
+      "name": "창원병원앞매표소",
+      "address": "경남 창원시 성산구 창원대로 721 가판",
+      "method": null
+    },
+    {
+      "name": "씨스페이스(한림신천점)",
+      "address": "경남 김해시 김해대로 1432",
+      "method": null
+    }
+  ]
+}

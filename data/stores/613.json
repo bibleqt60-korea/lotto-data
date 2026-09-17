@@ -1,0 +1,204 @@
+{
+  "round": 613,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "슈퍼복권나라",
+      "address": "부산 부산진구 범일로142번길 31 1층 복권방",
+      "method": "자동"
+    },
+    {
+      "name": "라온로또",
+      "address": "대구 수성구 달구벌대로631길 3",
+      "method": "자동"
+    },
+    {
+      "name": "복권전문점",
+      "address": "인천 부평구 원적로 437",
+      "method": "자동"
+    },
+    {
+      "name": "힘찬슈퍼 복권방",
+      "address": "인천 부평구 장제로 112",
+      "method": "자동"
+    },
+    {
+      "name": "동키호테편의점",
+      "address": "전남광주 서구 풍금로38번길 23 1층",
+      "method": "자동"
+    },
+    {
+      "name": "행운복권방",
+      "address": "울산 중구 반구정6길 18-4",
+      "method": "자동"
+    },
+    {
+      "name": "노다지복권방",
+      "address": "경기 용인시 처인구 금령로 130",
+      "method": "수동"
+    },
+    {
+      "name": "굿프랜즈편의점",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "드림통신(구)굿타임24아산석정점",
+      "address": "충남 아산시 충무로 230 1층",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "가로가판대제57호(구)",
+      "address": "서울 중구 세종대로 68-1 가판",
+      "method": null
+    },
+    {
+      "name": "신나라",
+      "address": "서울 영등포구 선유로 58",
+      "method": null
+    },
+    {
+      "name": "가판점(신문)",
+      "address": "서울 영등포구 양평로 50-2",
+      "method": null
+    },
+    {
+      "name": "스파",
+      "address": "서울 노원구 동일로 1493 주공10단지종합상가111",
+      "method": null
+    },
+    {
+      "name": "GS25(민락중앙점)",
+      "address": "부산 수영구 광안해변로 286",
+      "method": null
+    },
+    {
+      "name": "하나열쇠",
+      "address": "부산 남구 용호로 179",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "대구 수성구 수성로 3 1층",
+      "method": null
+    },
+    {
+      "name": "로또명당월배점",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "즐거운복권방",
+      "address": "인천 미추홀구 미추홀대로 541",
+      "method": null
+    },
+    {
+      "name": "대야지복권",
+      "address": "전남광주 남구 회재로 1255-1",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "대전 동구 홍도로 10",
+      "method": null
+    },
+    {
+      "name": "우리들옥교점",
+      "address": "울산 중구 종가2길 2-1 101호",
+      "method": null
+    },
+    {
+      "name": "복권방(행운열차)",
+      "address": "울산 중구 다운로 114",
+      "method": null
+    },
+    {
+      "name": "복권판매",
+      "address": "경기 하남시 신장로 157",
+      "method": null
+    },
+    {
+      "name": "로또24시편의점",
+      "address": "경기 안산시 단원구 달미로 85 1층101호",
+      "method": null
+    },
+    {
+      "name": "왕대박복권",
+      "address": "경기 수원시 장안구 연무로 52-2",
+      "method": null
+    },
+    {
+      "name": "대운복권",
+      "address": "경기 성남시 중원구 성남대로 1149",
+      "method": null
+    },
+    {
+      "name": "CU(군포덕산점)",
+      "address": "경기 군포시 고산로250번길 32 덕산아파트상가 1층",
+      "method": null
+    },
+    {
+      "name": "웃자로또",
+      "address": "경기 광주시 오포로 796",
+      "method": null
+    },
+    {
+      "name": "GS25(광명녹원점)",
+      "address": "경기 광명시 범안로 998 녹원프라자106호",
+      "method": null
+    },
+    {
+      "name": "금두꺼비복권방",
+      "address": "경기 고양시 일산서구 강성로 263 재성빌딩1층",
+      "method": null
+    },
+    {
+      "name": "청룡마트",
+      "address": "충남 천안시 동남구 풍세로 1010-31 현대아파트상가B-102호",
+      "method": null
+    },
+    {
+      "name": "송원산업",
+      "address": "충남 예산군 벚꽃로127번길 2",
+      "method": null
+    },
+    {
+      "name": "드림통신(구)굿타임24아산석정점",
+      "address": "충남 아산시 충무로 230 1층",
+      "method": "자동"
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "충남 부여군 계백로 265 부여군청 로터리 부근",
+      "method": null
+    },
+    {
+      "name": "은혜복권방",
+      "address": "전북 전주시 완산구 당산로 52",
+      "method": null
+    },
+    {
+      "name": "로또명당",
+      "address": "전남 해남군 우수영로 1",
+      "method": null
+    },
+    {
+      "name": "벌교 로또복권방",
+      "address": "전남광주 보성군 채동선로 218-1 벌교 로또편의점",
+      "method": null
+    },
+    {
+      "name": "나주대호로또복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "벼락부자 복권방",
+      "address": "경남 양산시 중앙로 232 북부시장1층 B동1호",
+      "method": null
+    }
+  ]
+}

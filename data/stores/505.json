@@ -1,0 +1,229 @@
+{
+  "round": 505,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "구청앞로또명당",
+      "address": "서울 강북구 한천로139길 9",
+      "method": "자동"
+    },
+    {
+      "name": "버스매표소 복권판매소",
+      "address": "인천 제물포구 우현로 69 중앙로지하상가 163호",
+      "method": "수동"
+    },
+    {
+      "name": "하늘과바다",
+      "address": "   ",
+      "method": "수동"
+    },
+    {
+      "name": "광성슈퍼",
+      "address": "경기 이천시 단월로 33 1층",
+      "method": "수동"
+    },
+    {
+      "name": "팡팡복권방",
+      "address": "전북 익산시 인북로 99",
+      "method": "자동"
+    },
+    {
+      "name": "로또복권판매",
+      "address": "경북 상주시 삼백로 159",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "경방필백화점라이츠21호",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "천안문복권방",
+      "address": "서울 영등포구 도림로 124 1층 103호",
+      "method": null
+    },
+    {
+      "name": "복권전문점",
+      "address": "서울 성북구 돌곶이로27길 48",
+      "method": null
+    },
+    {
+      "name": "GS25(양재공원점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "가판점",
+      "address": "서울 동작구 상도로 246 가판",
+      "method": null
+    },
+    {
+      "name": "현대복권방",
+      "address": "서울 동대문구 답십리로 9 1층",
+      "method": null
+    },
+    {
+      "name": "영훈슈퍼마켓",
+      "address": "서울 도봉구 덕릉로 222",
+      "method": null
+    },
+    {
+      "name": "신영정보통신",
+      "address": "서울 강서구 등촌로 61 세영빌딩1층",
+      "method": null
+    },
+    {
+      "name": "동원마트",
+      "address": "서울 강동구 풍성로 209",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "부산 사상구 사상로 527",
+      "method": null
+    },
+    {
+      "name": "대산슈퍼",
+      "address": "부산 북구 만덕대로 166",
+      "method": null
+    },
+    {
+      "name": "우리상회",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "훼밀리복권",
+      "address": "부산 금정구 중앙대로1719번길 37 우측 복권판매점",
+      "method": null
+    },
+    {
+      "name": "로또복현대로점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "GS25(칠곡미래점)",
+      "address": "대구 북구 동암로 181",
+      "method": null
+    },
+    {
+      "name": "일등복권편의점",
+      "address": "대구 달서구 대명천로 220 1층",
+      "method": null
+    },
+    {
+      "name": "복권대박안지랑역점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "버스매표소 복권판매소",
+      "address": "인천 제물포구 우현로 69 중앙로지하상가 163호",
+      "method": null
+    },
+    {
+      "name": "복권왕국",
+      "address": "인천 부평구 동수로 168",
+      "method": null
+    },
+    {
+      "name": "풍년로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "금강수여울목",
+      "address": "대전 대덕구 신탄진로 806-1",
+      "method": null
+    },
+    {
+      "name": "GS25(이천대월점)",
+      "address": "경기 이천시 사동로 173",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "경기 안산시 단원구 광덕동로 91 씨티프라자103호",
+      "method": null
+    },
+    {
+      "name": "로또24시편의점",
+      "address": "경기 안산시 단원구 달미로 85 1층101호",
+      "method": null
+    },
+    {
+      "name": "들꽃편의점",
+      "address": "경기 수원시 영통구 매탄로204번길 2 1층 일부(매탄동)",
+      "method": null
+    },
+    {
+      "name": "하늘채복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "반도프라자점 로또판매",
+      "address": "경기 남양주시 해밀예당3로 138 반도프라자",
+      "method": null
+    },
+    {
+      "name": "월드컵복권방",
+      "address": "경기 광주시 경안로 20",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "경기 고양시 일산동구 장항로 329 1층",
+      "method": null
+    },
+    {
+      "name": "행운편의점 복권방",
+      "address": "경기 고양시 일산동구 고풍로 33",
+      "method": null
+    },
+    {
+      "name": "서울복권",
+      "address": "강원 강릉시 솔올로5번길 47 103호(교동)",
+      "method": null
+    },
+    {
+      "name": "남원복권방",
+      "address": "전북 남원시 남문로 414",
+      "method": null
+    },
+    {
+      "name": "복권왕국",
+      "address": "전남광주 여수시 여수산단로 48 1층101호",
+      "method": null
+    },
+    {
+      "name": "미래유통",
+      "address": "전남광주 목포시 영산로 623",
+      "method": null
+    },
+    {
+      "name": "봉명주유소 복권전문점",
+      "address": "    SK봉명주유소 내",
+      "method": null
+    },
+    {
+      "name": "드림마트",
+      "address": "    DC마트내",
+      "method": null
+    },
+    {
+      "name": "희망슈퍼",
+      "address": "경남 창원시 의창구 원이대로279번길 17",
+      "method": null
+    },
+    {
+      "name": "소요(용담점)",
+      "address": "제주 제주시 서문로 18-1",
+      "method": null
+    }
+  ]
+}

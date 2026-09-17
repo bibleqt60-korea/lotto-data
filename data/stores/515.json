@@ -1,0 +1,189 @@
+{
+  "round": 515,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "청룡마트",
+      "address": "충남 천안시 동남구 풍세로 1010-31 현대아파트상가B-102호",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "몽곡사",
+      "address": "서울 영등포구 버드나루로 51 조광빌딩105호",
+      "method": null
+    },
+    {
+      "name": "명지복권방",
+      "address": "서울 송파구 거마로 55 101호",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "서울 송파구 백제고분로41길 7 1층",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "서울 성북구 돌곶이로 60",
+      "method": null
+    },
+    {
+      "name": "복권천국방",
+      "address": "서울 마포구 동교로 92 1층",
+      "method": null
+    },
+    {
+      "name": "가판점",
+      "address": "서울 노원구 동일로 1231-2",
+      "method": null
+    },
+    {
+      "name": "아이티텔랜드",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "스파",
+      "address": "서울 노원구 동일로 1493 주공10단지종합상가111",
+      "method": null
+    },
+    {
+      "name": "프로또마트",
+      "address": "서울 구로구 고척로 156 1층4호",
+      "method": null
+    },
+    {
+      "name": "로또 CU 대치본점",
+      "address": "    CU편의점",
+      "method": null
+    },
+    {
+      "name": "당신대박",
+      "address": "부산 북구 금곡대로285번길 19 리버사이드빌딩103-1호",
+      "method": null
+    },
+    {
+      "name": "부일카서비스",
+      "address": "부산 동구 자성로133번길 35",
+      "method": null
+    },
+    {
+      "name": "경북윤업사",
+      "address": "대구 남구 대명로 161",
+      "method": null
+    },
+    {
+      "name": "대부복권방",
+      "address": "    1동 128-1호",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "인천 서해구 염곡로 343-4",
+      "method": null
+    },
+    {
+      "name": "베스트올원당",
+      "address": "    골든벨프라자102호",
+      "method": null
+    },
+    {
+      "name": "신흥엑스포쇼핑",
+      "address": "인천 서해구 가석로156번길 20",
+      "method": null
+    },
+    {
+      "name": "복권전문점",
+      "address": "인천 부평구 원적로 437",
+      "method": null
+    },
+    {
+      "name": "e모든복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "명당복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "한꿈복권방",
+      "address": "울산 중구 번영로 586",
+      "method": null
+    },
+    {
+      "name": "로또안경",
+      "address": "울산 남구 돋질로 3 201동 114호",
+      "method": null
+    },
+    {
+      "name": "평택포승점로또",
+      "address": "경기 평택시 여술로 24 CU편의점 내",
+      "method": null
+    },
+    {
+      "name": "명진슈퍼",
+      "address": "경기 의왕시 효행로 15",
+      "method": null
+    },
+    {
+      "name": "황금 슈퍼",
+      "address": "경기 용인시 기흥구 어정로 129 어정프라자 103호",
+      "method": null
+    },
+    {
+      "name": "나라통신",
+      "address": "경기 오산시 오산로 200",
+      "method": null
+    },
+    {
+      "name": "CU(안산와동점)",
+      "address": "경기 안산시 단원구 와동로 20",
+      "method": null
+    },
+    {
+      "name": "GS25(분당정자점)",
+      "address": "    금산파킹프라자112호",
+      "method": null
+    },
+    {
+      "name": "신시가지명당복권방",
+      "address": "    개림프라자1층 104호",
+      "method": null
+    },
+    {
+      "name": "만물전파사",
+      "address": "경기 남양주시 마석중앙로 74",
+      "method": null
+    },
+    {
+      "name": "로또판매소",
+      "address": "강원 철원군 이평로 65",
+      "method": null
+    },
+    {
+      "name": "풀타임로또(두호점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "신진낚시 구미점",
+      "address": "경북 구미시 금오대로 357",
+      "method": null
+    },
+    {
+      "name": "오복할인마트",
+      "address": "경남 창원시 의창구 차상로150번길 44 팔용유통단지",
+      "method": null
+    },
+    {
+      "name": "GS25(양산혜인점)",
+      "address": "경남 양산시 웅상대로 955",
+      "method": null
+    }
+  ]
+}

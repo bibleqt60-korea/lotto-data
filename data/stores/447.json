@@ -1,0 +1,184 @@
+{
+  "round": 447,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "꽃돼지복권",
+      "address": "대전 동구 계족로 194-1",
+      "method": "자동"
+    },
+    {
+      "name": "훼밀리슈퍼",
+      "address": "경기 구리시 건원대로34번길 19 세신훼밀리타운102",
+      "method": "수동"
+    },
+    {
+      "name": "목화휴게소",
+      "address": "경남 사천시 사천대로 912",
+      "method": "자동"
+    },
+    {
+      "name": "외동복권",
+      "address": "경남 김해시 동남로49번길 83 GS25 김해대동점",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "가로매점",
+      "address": "서울 종로구 종로 186 우리은행앞 가판",
+      "method": null
+    },
+    {
+      "name": "목동식품상회",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "GS25(거여현대점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "서울 성북구 동소문로 86-21",
+      "method": null
+    },
+    {
+      "name": "가판점",
+      "address": "서울 강동구 천호대로 1073-1 앞 가판점",
+      "method": null
+    },
+    {
+      "name": "로또",
+      "address": "서울 강동구 올림픽로92길 66",
+      "method": null
+    },
+    {
+      "name": "강원도복권방",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "정원상회",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "우미슈퍼",
+      "address": "전남광주 서구 풍암순환로 183 우미아파트상가118동-101호",
+      "method": null
+    },
+    {
+      "name": "참조은복권",
+      "address": "    모아아파트 2차상가 가-101호",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "울산 울주군 태화8길 57",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "대박예감",
+      "address": "경기 화성시 병점구 영통로 36 1층",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "경기 안성시 승두길 62",
+      "method": null
+    },
+    {
+      "name": "엑스트라",
+      "address": "    1층 엑스트라비디오",
+      "method": null
+    },
+    {
+      "name": "드림메드",
+      "address": "경기 안산시 상록구 월피로 56 101호",
+      "method": null
+    },
+    {
+      "name": "천하명당",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "경기 남양주시 호평로 90 금강아파트제주상가104",
+      "method": null
+    },
+    {
+      "name": "다음마트",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "미호왕대박로또",
+      "address": "충북 청주시 흥덕구 태성탑연로 458 상가1층5호",
+      "method": null
+    },
+    {
+      "name": "해피복권",
+      "address": "충남 태안군 환동로 82 구터미널 태안 불가마사우나 건물 내",
+      "method": null
+    },
+    {
+      "name": "수레크레이션이벤트기획",
+      "address": "충남 천안시 서북구 성정중4길 3 증축 1층동 4호(동물병원 옆 복권방)",
+      "method": null
+    },
+    {
+      "name": "달성로또복권판매소",
+      "address": "충남 아산시 온천대로 1432 1층",
+      "method": null
+    },
+    {
+      "name": "굿데이복권방",
+      "address": "전남광주 목포시 백년대로337번길 20 CU편의점",
+      "method": null
+    },
+    {
+      "name": "구례로또",
+      "address": "전남광주 구례군 로터리길 2-1",
+      "method": null
+    },
+    {
+      "name": "복권명방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "세븐로또인동점",
+      "address": "    세븐일레븐 내",
+      "method": null
+    },
+    {
+      "name": "CU(송정점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "대동복권방",
+      "address": "경남 김해시 월산로 112-57 이마트편의점 좌측 복권판매점",
+      "method": null
+    },
+    {
+      "name": "로또",
+      "address": "경남 고성군 동외로167번길 11",
+      "method": null
+    }
+  ]
+}

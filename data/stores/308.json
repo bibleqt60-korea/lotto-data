@@ -1,0 +1,149 @@
+{
+  "round": 308,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "마이복권",
+      "address": "인천 서해구 탁옥로 76 한국상가제1층101호",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "종로3가1호선역2번출구가로판매점82호",
+      "address": "서울 종로구 돈화문로 23 가판",
+      "method": null
+    },
+    {
+      "name": "대창청과슈퍼",
+      "address": "서울 영등포구 신길로 203",
+      "method": null
+    },
+    {
+      "name": "롯데마트999(회기점)",
+      "address": "    롯데마트999내 위치함.",
+      "method": null
+    },
+    {
+      "name": "데일리",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "하늘담 복권",
+      "address": "서울 금천구 시흥대로 97 1동 116호",
+      "method": null
+    },
+    {
+      "name": "미래로또봉천",
+      "address": "    현대시장20호",
+      "method": null
+    },
+    {
+      "name": "버스카드판매대",
+      "address": "서울 관악구 신림로 145-2",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방화곡점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "성광복권명당",
+      "address": "부산 연제구 과정로 335",
+      "method": null
+    },
+    {
+      "name": "셀프카메라",
+      "address": "부산 부산진구 가야대로443번길 32 1층 101호",
+      "method": null
+    },
+    {
+      "name": "훼미리마트노원영성점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권이야기",
+      "address": "대구 동구 첨단로8길 16",
+      "method": null
+    },
+    {
+      "name": "진주식육 로또복권가든점",
+      "address": "대구 남구 중앙대로22길 179",
+      "method": null
+    },
+    {
+      "name": "대박복권",
+      "address": "인천 부평구 경인로 973",
+      "method": null
+    },
+    {
+      "name": "시네마복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권판매",
+      "address": "경기 하남시 신장로 157",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "경기 양주시 가래비길 57-1",
+      "method": null
+    },
+    {
+      "name": "복권마을",
+      "address": "경기 안양시 동안구 흥안대로133번길 4 제1동 제1층 제104호",
+      "method": null
+    },
+    {
+      "name": "복권마을",
+      "address": "경기 안양시 동안구 흥안대로133번길 4 제1동 제1층 제104호",
+      "method": null
+    },
+    {
+      "name": "가판점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권마을",
+      "address": "충북 충주시 봉황1길 2 1층",
+      "method": null
+    },
+    {
+      "name": "로또복권방",
+      "address": "충남 당진시 당진중앙1로 21",
+      "method": null
+    },
+    {
+      "name": "로또명당금산점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "팡팡복권마트.잡화슈퍼",
+      "address": "전북 전주시 덕진구 가리내로 26",
+      "method": null
+    },
+    {
+      "name": "조례로또복권방",
+      "address": "전남광주 순천시 봉화2길 58 조례로또복권방",
+      "method": null
+    },
+    {
+      "name": "복권천국",
+      "address": "전남광주 무안군 무안로 506 복권천국",
+      "method": null
+    },
+    {
+      "name": "취미의집",
+      "address": "경남 사천시 진삼로 1489",
+      "method": null
+    }
+  ]
+}

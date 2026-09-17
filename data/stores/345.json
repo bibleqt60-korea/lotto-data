@@ -1,0 +1,209 @@
+{
+  "round": 345,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "장군슈퍼",
+      "address": "경기 부천시 소사로 837",
+      "method": "자동"
+    },
+    {
+      "name": "고려슈퍼마켓",
+      "address": "경기 구리시 원수택로64번길 28 상가 1층",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "대상로또복권판매",
+      "address": "    대상인터몰지하B-207",
+      "method": null
+    },
+    {
+      "name": "석촌꿈나라",
+      "address": "    유천빌딩1층CU편의점내",
+      "method": null
+    },
+    {
+      "name": "데이앤나잇",
+      "address": "서울 성북구 종암로 132 종암우림카이저팰리스 1층 101호",
+      "method": null
+    },
+    {
+      "name": "가로판매점",
+      "address": "서울 서초구 신반포로 189 반포쇼핑4동 정문 앞 가로판매점",
+      "method": null
+    },
+    {
+      "name": "대구상회",
+      "address": "서울 마포구 토정로31길 51",
+      "method": null
+    },
+    {
+      "name": "진성미니슈퍼",
+      "address": "서울 마포구 월드컵로 205 성산임대상가104",
+      "method": null
+    },
+    {
+      "name": "버스표 담배",
+      "address": "서울 강동구 올림픽로 811-1",
+      "method": null
+    },
+    {
+      "name": "선릉복권방",
+      "address": "    101호",
+      "method": null
+    },
+    {
+      "name": "신사우리가판",
+      "address": "서울 강남구 강남대로 620",
+      "method": null
+    },
+    {
+      "name": "광림마트",
+      "address": "서울 강남구 도곡로 213",
+      "method": null
+    },
+    {
+      "name": "행운나눔로또",
+      "address": "부산 중구 구덕로34번길 4 가판집",
+      "method": null
+    },
+    {
+      "name": "로또복권방",
+      "address": "    CU고리원전점내",
+      "method": null
+    },
+    {
+      "name": "장전슈퍼",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "민들레로또",
+      "address": "    편의점내",
+      "method": null
+    },
+    {
+      "name": "가벨복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "인천 서해구 봉오재3로 104 엔시티타워2차 1층 115호",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "인천 계양구 주부토로 530 103호",
+      "method": null
+    },
+    {
+      "name": "부자나라",
+      "address": "인천 계양구 효서로112번길 3-1",
+      "method": null
+    },
+    {
+      "name": "현대25시편의점",
+      "address": "경기 파주시 봉천로 33-1",
+      "method": null
+    },
+    {
+      "name": "동원복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "양지복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "으뜸할인마트",
+      "address": "경기 안양시 동안구 관악대로287번길 27",
+      "method": null
+    },
+    {
+      "name": "드림오피스문구",
+      "address": "강원 춘천시 퇴계로 213 드림오피스 문구사",
+      "method": null
+    },
+    {
+      "name": "그린로또",
+      "address": "강원 양양군 양양로 71",
+      "method": null
+    },
+    {
+      "name": "로또복권방분평점",
+      "address": "충북 청주시 서원구 월평로 78",
+      "method": null
+    },
+    {
+      "name": "로또명당",
+      "address": "충북 진천군 생거진천로 1401 휴게소내",
+      "method": null
+    },
+    {
+      "name": "청룡마트",
+      "address": "충남 천안시 동남구 풍세로 1010-31 현대아파트상가B-102호",
+      "method": null
+    },
+    {
+      "name": "로또천안삼거리점",
+      "address": "    천안삼거리휴게소內 음반코너(화장실 앞)",
+      "method": null
+    },
+    {
+      "name": "GS25(천안역점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "777천하명당",
+      "address": "충남 서천군 충절로 54",
+      "method": null
+    },
+    {
+      "name": "시외버스터미널로또복권방",
+      "address": "충남 논산시 계백로 1000",
+      "method": null
+    },
+    {
+      "name": "행운을 찾는사람들",
+      "address": "전북 전주시 덕진구 아중로 148 1층",
+      "method": null
+    },
+    {
+      "name": "에이데이마트",
+      "address": "전남광주 목포시 백년대로375번길 42 에이데이마트",
+      "method": null
+    },
+    {
+      "name": "CU로또 상주터미널점",
+      "address": "    CU편의점 내",
+      "method": null
+    },
+    {
+      "name": "로또정량점",
+      "address": "경남 통영시 통영해안로 395",
+      "method": null
+    },
+    {
+      "name": "소라복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "서창복권나라",
+      "address": "경남 양산시 서창서2길 3",
+      "method": null
+    },
+    {
+      "name": "삼성복권마트",
+      "address": "경남 김해시 평전로 20 우리24시슈퍼 내 좌측 복권판매점",
+      "method": null
+    }
+  ]
+}

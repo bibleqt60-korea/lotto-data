@@ -1,0 +1,159 @@
+{
+  "round": 278,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "로또복권판매",
+      "address": "서울 강북구 솔샘로67길 71",
+      "method": "자동"
+    },
+    {
+      "name": "천하제일복권명당",
+      "address": "대전 중구 태평로 109",
+      "method": "자동"
+    },
+    {
+      "name": "플러스복권",
+      "address": "대전 서구 대덕대로168번길 82 편의점 내",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "명동2호점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또방",
+      "address": "서울 영등포구 영중로 14-3",
+      "method": null
+    },
+    {
+      "name": "G마트",
+      "address": "서울 영등포구 디지털로 387",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "서울 서대문구 충정로 73 1층",
+      "method": null
+    },
+    {
+      "name": "523마트",
+      "address": "서울 강서구 양천로 626 1층",
+      "method": null
+    },
+    {
+      "name": "로또명당 ",
+      "address": "대구 달서구 월성로 36 월성주공4단지 상가 나동 104호",
+      "method": null
+    },
+    {
+      "name": "복권전문점",
+      "address": "인천 부평구 원적로 437",
+      "method": null
+    },
+    {
+      "name": "행운복권편의점",
+      "address": "인천 남동구 구월남로 286-2 1층",
+      "method": null
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "광주 서구 상무대로 871",
+      "method": null
+    },
+    {
+      "name": "동키호테편의점",
+      "address": "전남광주 서구 풍금로38번길 23 1층",
+      "method": null
+    },
+    {
+      "name": "광주공항로또",
+      "address": "전남광주 광산구 상무대로 411 1층",
+      "method": null
+    },
+    {
+      "name": "가나25시",
+      "address": "대전 중구 선화로 8",
+      "method": null
+    },
+    {
+      "name": "영화유통(1등복권방)",
+      "address": "울산 남구 신정로 19 삼성아파트 상가 204-101",
+      "method": null
+    },
+    {
+      "name": "대박행진 복권랜드",
+      "address": "경기 파주시 금빛로 22 금촌프라자107호",
+      "method": null
+    },
+    {
+      "name": "플러스복권",
+      "address": "경기 시흥시 큰솔로 42 102호",
+      "method": null
+    },
+    {
+      "name": "왕대박복권",
+      "address": "경기 수원시 장안구 연무로 52-2",
+      "method": null
+    },
+    {
+      "name": "이플러스",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "은하복권방",
+      "address": "    우신빌딩101호GS25중동은하점",
+      "method": null
+    },
+    {
+      "name": "한국슈퍼",
+      "address": "경기 부천시 원종로35번길 24 한울빌리지 상가101호",
+      "method": null
+    },
+    {
+      "name": "명동슈퍼",
+      "address": "경기 광명시 디지털로 17 1동 107호(철산동, (주)티오티비 오렌지타운)",
+      "method": null
+    },
+    {
+      "name": "버스표판매소",
+      "address": "경기 고양시 덕양구 화신로 76 가라뫼 사거리 변전소 앞 버스정류장 앞 가판대",
+      "method": null
+    },
+    {
+      "name": "로또한마당",
+      "address": "강원 철원군 명성로 172-1",
+      "method": null
+    },
+    {
+      "name": "희망복권방",
+      "address": "강원 강릉시 임영로 165",
+      "method": null
+    },
+    {
+      "name": "천금복권방",
+      "address": "충북 청주시 상당구 쇠내로 150-1",
+      "method": null
+    },
+    {
+      "name": "현대장미슈퍼",
+      "address": "전북 익산시 동서로61길 41 어양동 현대A 상가동 108호",
+      "method": null
+    },
+    {
+      "name": "미래유통",
+      "address": "전남광주 목포시 영산로 623",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "경북 경산시 경안로 214",
+      "method": null
+    }
+  ]
+}

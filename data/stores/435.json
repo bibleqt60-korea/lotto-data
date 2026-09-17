@@ -1,0 +1,214 @@
+{
+  "round": 435,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "나라시스컴",
+      "address": "서울 영등포구 영등포로 225 영신상가1호",
+      "method": "자동"
+    },
+    {
+      "name": "복드림복권방",
+      "address": "서울 강동구 상암로 99",
+      "method": "수동"
+    },
+    {
+      "name": "로또복권",
+      "address": "대구 북구 연암로22길 1 1층 복권판매점",
+      "method": "수동"
+    },
+    {
+      "name": "드림로또",
+      "address": "대전 중구 대둔산로 365-2",
+      "method": "자동"
+    },
+    {
+      "name": "복권천국",
+      "address": "   ",
+      "method": "수동"
+    },
+    {
+      "name": "희망을주는사람",
+      "address": "경기 용인시 처인구 양지로 111 1층 상가",
+      "method": "자동"
+    },
+    {
+      "name": "복권마을",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "서울로또방",
+      "address": "충북 옥천군 삼금로 8",
+      "method": "자동"
+    },
+    {
+      "name": "로또온양온천점",
+      "address": "    1호",
+      "method": "수동"
+    },
+    {
+      "name": "봉명주유소 복권전문점",
+      "address": "    SK봉명주유소 내",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "양천24시마트",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "송파트루빌",
+      "address": "    동인트루빌오피스텔101호",
+      "method": null
+    },
+    {
+      "name": "뉴서울슈퍼",
+      "address": "서울 서대문구 서소문로 63",
+      "method": null
+    },
+    {
+      "name": "연세",
+      "address": "    1층 24시편의점",
+      "method": null
+    },
+    {
+      "name": "코사마트",
+      "address": "서울 동작구 상도로 10-7",
+      "method": null
+    },
+    {
+      "name": "살맛나는 세상",
+      "address": "서울 동대문구 한천로46길 56-4",
+      "method": null
+    },
+    {
+      "name": "로또복권판매소",
+      "address": "서울 구로구 디지털로27길 103 1층(가리봉동)",
+      "method": null
+    },
+    {
+      "name": "1번가로또",
+      "address": "    상가1동 105호",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "부산 북구 덕천로 287",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "부산 부산진구 엄광로 246 1층",
+      "method": null
+    },
+    {
+      "name": "현아상회",
+      "address": "부산 남구 동명로145번길 3",
+      "method": null
+    },
+    {
+      "name": "LG25시구서삼백점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "짱25시",
+      "address": "대구 수성구 달구벌대로 2610 세븐일레븐남부점내(좌측2번째상가)",
+      "method": null
+    },
+    {
+      "name": "CU(연안비취점)",
+      "address": "인천 중구 연안부두로33번길 36",
+      "method": null
+    },
+    {
+      "name": "만수주공본점 로또판매",
+      "address": "    1층4호편의점내",
+      "method": null
+    },
+    {
+      "name": "GS25(계산동경점)",
+      "address": "인천 계양구 계양문화로 55 도쿄프라자1층2호",
+      "method": null
+    },
+    {
+      "name": "복슈퍼",
+      "address": "인천 계양구 계산로108번길 4",
+      "method": null
+    },
+    {
+      "name": "금집복권",
+      "address": "전남광주 북구 첨단연신로108번길 146 101호",
+      "method": null
+    },
+    {
+      "name": "대박로또복권방",
+      "address": "대전 중구 보문로 32-5",
+      "method": null
+    },
+    {
+      "name": "해피타임",
+      "address": "경기 평택시 서동대로 2044",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "경기 안양시 동안구 경수대로  927 삼익상가 1층, 123호",
+      "method": null
+    },
+    {
+      "name": "코끼리 복권방",
+      "address": "경기 수원시 팔달구 매산로 17 1층 우측",
+      "method": null
+    },
+    {
+      "name": "GS25(수원우영점)",
+      "address": "경기 수원시 영통구 매탄로100번길 17 103호",
+      "method": null
+    },
+    {
+      "name": "디딤슈퍼",
+      "address": "경기 부천시 도약로 279",
+      "method": null
+    },
+    {
+      "name": "로또판매점(복권방)",
+      "address": "    금강프라자1-110호",
+      "method": null
+    },
+    {
+      "name": "역전복권방",
+      "address": "강원 춘천시 영서로 2259 1층",
+      "method": null
+    },
+    {
+      "name": "한성슈퍼",
+      "address": "전북 익산시 익산대로 52",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "경북 구미시 구미중앙로 72",
+      "method": null
+    },
+    {
+      "name": "기적의복권",
+      "address": "경남 창원시 진해구 진해대로776번길 15 501동 102호",
+      "method": null
+    },
+    {
+      "name": "폭스일레븐(창원점)",
+      "address": "경남 창원시 성산구 가양로136번길 14 대양빌딩102호",
+      "method": null
+    },
+    {
+      "name": "CU(거제신정점)",
+      "address": "경남 거제시 장평로4길 18",
+      "method": null
+    }
+  ]
+}

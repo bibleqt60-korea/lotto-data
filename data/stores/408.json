@@ -1,0 +1,199 @@
+{
+  "round": 408,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "부자랑복권방",
+      "address": "서울 중랑구 사가정로 359",
+      "method": "자동"
+    },
+    {
+      "name": "우정식품",
+      "address": "부산 동래구 온천장로 33 1층",
+      "method": "수동"
+    },
+    {
+      "name": "복권나라(매곡동)",
+      "address": "전남광주 북구 서하로 117 101호 (매곡동)",
+      "method": "자동"
+    },
+    {
+      "name": "알리바이",
+      "address": "전남광주 광산구 수등로 253 1층 알리바이",
+      "method": "자동"
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "경기 수원시 팔달구 매산로 2",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "토큰박스45",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "GS25(명륜아남점)",
+      "address": "서울 종로구 혜화로 9",
+      "method": null
+    },
+    {
+      "name": "데스콤㈜영등포영업소",
+      "address": "서울 영등포구 영중로 48",
+      "method": null
+    },
+    {
+      "name": "목동식품상회",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "덕성식품",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "꽃돼지복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "스파",
+      "address": "서울 노원구 동일로 1493 주공10단지종합상가111",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "복권마을",
+      "address": "서울 구로구 구로동로 72",
+      "method": null
+    },
+    {
+      "name": "씨스페이스(미아3점)",
+      "address": "서울 강북구 솔매로 124",
+      "method": null
+    },
+    {
+      "name": "이마트24 강동본점",
+      "address": "서울 강동구 천호옛길 84",
+      "method": null
+    },
+    {
+      "name": "이마트24 강동본점",
+      "address": "서울 강동구 천호옛길 84",
+      "method": null
+    },
+    {
+      "name": "이마트24 강동본점",
+      "address": "서울 강동구 천호옛길 84",
+      "method": null
+    },
+    {
+      "name": "왕대박(복권방)",
+      "address": "대구 북구 칠성남로 143 1층전체",
+      "method": null
+    },
+    {
+      "name": "풍년로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "프렌드24시",
+      "address": "전남광주 광산구 첨단중앙로 164 빌리오네2  제1층 106호",
+      "method": null
+    },
+    {
+      "name": "복권백화점",
+      "address": "경기 파주시 평화로 70",
+      "method": null
+    },
+    {
+      "name": "태극로또전문점",
+      "address": "경기 이천시 애련정로 124-2 1층",
+      "method": null
+    },
+    {
+      "name": "북클럽",
+      "address": "경기 의정부시 용민로 122 103호",
+      "method": null
+    },
+    {
+      "name": "해피랜드",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "경기 남양주시 호평로 90 금강아파트제주상가104",
+      "method": null
+    },
+    {
+      "name": "대박로또복권",
+      "address": "경기 김포시 김포대로 2449",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "경기 광명시 범안로 1043 (하안동, 원촌빌딩 1층)",
+      "method": null
+    },
+    {
+      "name": "코사마트한양점",
+      "address": "경기 고양시 덕양구 마상로 156 1층",
+      "method": null
+    },
+    {
+      "name": "행운의시작복권전문점",
+      "address": "강원 삼척시 사대안길 5 8통1반",
+      "method": null
+    },
+    {
+      "name": "그린24시편의점",
+      "address": "충북 청주시 서원구 수곡로 12",
+      "method": null
+    },
+    {
+      "name": "로또명당매화점",
+      "address": "충북 옥천군 옥천동이로 234-15 옥천휴게소 상행",
+      "method": null
+    },
+    {
+      "name": "로또복권망향",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또방",
+      "address": "전북 전주시 완산구 소대배기로 9",
+      "method": null
+    },
+    {
+      "name": "로또명당덕산제일점",
+      "address": "경남 창원시 진해구 충장로 505",
+      "method": null
+    },
+    {
+      "name": "복권명당2호점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또명당",
+      "address": "    남명프라자1층 CU편의점내",
+      "method": null
+    },
+    {
+      "name": "나우리고현점",
+      "address": "경남 거제시 거제중앙로 1904",
+      "method": null
+    }
+  ]
+}

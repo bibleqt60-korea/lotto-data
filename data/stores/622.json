@@ -1,0 +1,224 @@
+{
+  "round": 622,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "대박천하복권방",
+      "address": "서울 은평구 연서로 150 1층 1호",
+      "method": "자동"
+    },
+    {
+      "name": "베네시티앞가판",
+      "address": "서울 강동구 올림픽로 664-1 대우베네시티cafe7gram앞",
+      "method": "자동"
+    },
+    {
+      "name": "월드사진관",
+      "address": "부산 사하구 윤공단로14번길 53",
+      "method": "자동"
+    },
+    {
+      "name": "인천상회",
+      "address": "인천 제물포구 차이나타운로 42",
+      "method": "자동"
+    },
+    {
+      "name": "CU(영종BCD몰)",
+      "address": "인천 중구 하늘별빛로65번길 8",
+      "method": "수동"
+    },
+    {
+      "name": "라이프마트",
+      "address": "인천 제물포구 연안부두로53번길 36 5호",
+      "method": "자동"
+    },
+    {
+      "name": "복터진날",
+      "address": "경기 안성시 진사길 31 우림아파트상가 B-03호",
+      "method": "자동"
+    },
+    {
+      "name": "코코블루",
+      "address": "경기 성남시 분당구 서현로210번길 20 코코프라자지하2호",
+      "method": "자동"
+    },
+    {
+      "name": "복권천국",
+      "address": "경기 부천시 고강로92번길 41",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "가로대가판점",
+      "address": "서울 은평구 통일로 741-2 롯데리아앞가판",
+      "method": null
+    },
+    {
+      "name": "CU(대림중앙점)",
+      "address": "서울 영등포구 대림로 209 1층",
+      "method": null
+    },
+    {
+      "name": "이마트24 서울고속터미널4호점",
+      "address": "서울 서초구 신반포로 194 본관1층 쇼케이스4호",
+      "method": null
+    },
+    {
+      "name": "왕산 로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "신촌역로또",
+      "address": "서울 마포구 신촌로 지하 90 서울메트로신촌역지하가판",
+      "method": null
+    },
+    {
+      "name": "서울식품",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "스파",
+      "address": "서울 노원구 동일로 1493 주공10단지종합상가111",
+      "method": null
+    },
+    {
+      "name": "로또샹스카페",
+      "address": "서울 구로구 남부순환로105길 14 인화오벨리아102호",
+      "method": null
+    },
+    {
+      "name": "미나식품(로또판매점)",
+      "address": "서울 강서구 금낭화로 91-12",
+      "method": null
+    },
+    {
+      "name": "GS25(가양2점)",
+      "address": "서울 강서구 허준로 47 2단지상가1층106호",
+      "method": null
+    },
+    {
+      "name": "성내 해뜨는 복권방",
+      "address": "서울 강동구 양재대로89길 52 102호",
+      "method": null
+    },
+    {
+      "name": "대진",
+      "address": "대구 동구 안심로22길 40-3 제1동 제1층 제109호",
+      "method": null
+    },
+    {
+      "name": "행운 마트",
+      "address": "인천 남동구 만수로 65",
+      "method": null
+    },
+    {
+      "name": "모아드림복권방",
+      "address": "광주 광산구 소촌로 90 1층 복권방",
+      "method": null
+    },
+    {
+      "name": "현암꽃플라워",
+      "address": "대전 동구 태전로 167",
+      "method": null
+    },
+    {
+      "name": "샘내로또판매",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "경기 안성시 중앙로 424",
+      "method": null
+    },
+    {
+      "name": "Q복권방",
+      "address": "경기 부천시 옥산로 152",
+      "method": null
+    },
+    {
+      "name": "대명로또편의점",
+      "address": "경기 동두천시 중앙로227번길 3 1층",
+      "method": null
+    },
+    {
+      "name": "정기사",
+      "address": "경기 동두천시 동광로 88 1층",
+      "method": null
+    },
+    {
+      "name": "CU(군포덕산점)",
+      "address": "경기 군포시 고산로250번길 32 덕산아파트상가 1층",
+      "method": null
+    },
+    {
+      "name": "서울로또방",
+      "address": "충북 옥천군 삼금로 8",
+      "method": null
+    },
+    {
+      "name": "청룡마트",
+      "address": "충남 천안시 동남구 풍세로 1010-31 현대아파트상가B-102호",
+      "method": null
+    },
+    {
+      "name": "동덕로또방",
+      "address": "충남 아산시 시장남길 26 1층",
+      "method": null
+    },
+    {
+      "name": "서산 터미널복권방",
+      "address": "충남 서산시 안견로 190",
+      "method": null
+    },
+    {
+      "name": "GOOD25시편의마트",
+      "address": "충남 보령시 번영로 38-1",
+      "method": null
+    },
+    {
+      "name": "당진복권방",
+      "address": "충남 당진시 교동길 140",
+      "method": null
+    },
+    {
+      "name": "다농현대보석",
+      "address": "전북 전주시 덕진구 시천로 96-14",
+      "method": null
+    },
+    {
+      "name": "로또송학",
+      "address": "    휴먼시아 상가104호",
+      "method": null
+    },
+    {
+      "name": "희망복권",
+      "address": "전북 익산시 선화로 329",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "전남광주 여수시 중앙로 62 1층",
+      "method": null
+    },
+    {
+      "name": "복권판매점",
+      "address": "경북 경산시 하양로 65",
+      "method": null
+    },
+    {
+      "name": "월드복권방",
+      "address": "경남 통영시 북신시장1길 12 월드마트 내",
+      "method": null
+    },
+    {
+      "name": "노다지(남지점)",
+      "address": "   ",
+      "method": null
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "round": 366,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "가로판매점",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "가판점",
+      "address": "경기 부천시 부일로 461 1층 일부",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "행운복권방",
+      "address": "서울 은평구 서오릉로 10",
+      "method": null
+    },
+    {
+      "name": "하이로또복권방",
+      "address": "서울 은평구 응암로 282 1층 가장 좌측",
+      "method": null
+    },
+    {
+      "name": "하이로또복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "서울 성북구 동소문로20길 28-4",
+      "method": null
+    },
+    {
+      "name": "가로판매점(B형)3호",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "북가좌2호점로또판매",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "가판대",
+      "address": "    1층 세븐일레븐 점포내 일부",
+      "method": null
+    },
+    {
+      "name": "대박나라",
+      "address": "서울 강남구 밤고개로 219 강남블루지움 105호",
+      "method": null
+    },
+    {
+      "name": "행운마트",
+      "address": "대구 수성구 만촌로 51",
+      "method": null
+    },
+    {
+      "name": "화원로또방",
+      "address": "대구 달성군 비슬로 2625 1층  복권방",
+      "method": null
+    },
+    {
+      "name": "스타편의점",
+      "address": "인천 부평구 부평대로 146",
+      "method": null
+    },
+    {
+      "name": "버스매표소가판대",
+      "address": "    갈산역1번출구 앞 가판",
+      "method": null
+    },
+    {
+      "name": "제일복권",
+      "address": "인천 제물포구 송림로162번길 10 B107",
+      "method": null
+    },
+    {
+      "name": "인천주안점로또판매",
+      "address": "    321 1~2호",
+      "method": null
+    },
+    {
+      "name": "차밍플라워 로또",
+      "address": "전남광주 광산구 풍영로 41 동구빌딩1층",
+      "method": null
+    },
+    {
+      "name": "알리바이",
+      "address": "전남광주 광산구 수등로 253 1층 알리바이",
+      "method": null
+    },
+    {
+      "name": "파크애비뉴",
+      "address": "경기 화성시 만세구 화성로 1215 가동 1호",
+      "method": null
+    },
+    {
+      "name": "희망복권",
+      "address": "경기 평택시 평택1로20번길 39 1층 복권방",
+      "method": null
+    },
+    {
+      "name": "우리로또복권",
+      "address": "경기 연천군 청신로 91",
+      "method": null
+    },
+    {
+      "name": "대박미니수퍼",
+      "address": "경기 안성시 중앙대학로 121",
+      "method": null
+    },
+    {
+      "name": "스타로또",
+      "address": "경기 안산시 상록구 화랑로 513 102호",
+      "method": null
+    },
+    {
+      "name": "데이앤나잇",
+      "address": "    메가쇼핑타운103",
+      "method": null
+    },
+    {
+      "name": "-",
+      "address": "    정자역프라자111호",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "팬시코아",
+      "address": "경기 남양주시 퇴계원로 48",
+      "method": null
+    },
+    {
+      "name": "삼일통신",
+      "address": "경기 구리시 동구릉로 112-1",
+      "method": null
+    },
+    {
+      "name": "백석교판매점",
+      "address": "    백석고교앞정류소",
+      "method": null
+    },
+    {
+      "name": "로또판매점",
+      "address": "충북 음성군 신내로 443 거성모터스 1층",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "충남 홍성군 아문길 57",
+      "method": null
+    },
+    {
+      "name": "(sk)대박상회",
+      "address": "전북 전주시 완산구 홍산1길 7",
+      "method": null
+    },
+    {
+      "name": "텔레콤&로또",
+      "address": "전남 장성군 영천로 150-1",
+      "method": null
+    },
+    {
+      "name": "학동복권나라",
+      "address": "전남광주 여수시 흥국로 6",
+      "method": null
+    },
+    {
+      "name": "포시즌마트",
+      "address": "전남광주 순천시 장천3길 10 포시즌마트",
+      "method": null
+    },
+    {
+      "name": "굿데이복권방",
+      "address": "전남광주 목포시 백년대로337번길 20 CU편의점",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "전남광주 목포시 원산로 64 대박복권방",
+      "method": null
+    },
+    {
+      "name": "복권명방",
+      "address": "경북 울진군 후포삼율로 115-1 1층",
+      "method": null
+    },
+    {
+      "name": "대박로또",
+      "address": "경북 구미시 문성로 18 상가동101호",
+      "method": null
+    },
+    {
+      "name": "로또복권애니타임점",
+      "address": "경북 구미시 인동중앙로11길 24 애니타임편의점 내",
+      "method": null
+    },
+    {
+      "name": "로또복권애니타임점",
+      "address": "경북 구미시 인동중앙로11길 24 애니타임편의점 내",
+      "method": null
+    }
+  ]
+}

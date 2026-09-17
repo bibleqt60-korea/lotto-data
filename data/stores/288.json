@@ -1,0 +1,149 @@
+{
+  "round": 288,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "성원로또판매점",
+      "address": "    서초지웰 상가동 세븐일레븐 내",
+      "method": "자동"
+    },
+    {
+      "name": "엔타임편의점(대승복권)",
+      "address": "    세종월드프라자 137 엔타임편의점내",
+      "method": "자동"
+    },
+    {
+      "name": "씨스페이스(다대제일점)",
+      "address": "부산 사하구 다대동로 31",
+      "method": "수동"
+    },
+    {
+      "name": "로또명당",
+      "address": "충북 진천군 생거진천로 1401 휴게소내",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "월드24시",
+      "address": "서울 은평구 통일로 855-15 1층",
+      "method": null
+    },
+    {
+      "name": "만나식품",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "대진",
+      "address": "서울 노원구 동일로 1355 1층,105호(상계동,상계주공2단지아파트)",
+      "method": null
+    },
+    {
+      "name": "원바이원",
+      "address": "부산 중구 흑교로 18",
+      "method": null
+    },
+    {
+      "name": "아이라인안경원",
+      "address": "부산 연제구 거제시장로22번길 5 1층 101호(거제동, 희망센트럴뷰)",
+      "method": null
+    },
+    {
+      "name": "셀프카메라",
+      "address": "부산 부산진구 가야대로443번길 32 1층 101호",
+      "method": null
+    },
+    {
+      "name": "영화사랑",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "지에스(GS)25 신가부영점",
+      "address": "전남광주 광산구 수등로 287 부영상가1층112호",
+      "method": null
+    },
+    {
+      "name": "영화유통(1등복권방)",
+      "address": "울산 남구 신정로 19 삼성아파트 상가 204-101",
+      "method": null
+    },
+    {
+      "name": "인덕원가판점",
+      "address": "경기 안양시 동안구 관악대로 478",
+      "method": null
+    },
+    {
+      "name": "GS25(안산산호점)",
+      "address": "경기 안산시 단원구 선부광장1로 69",
+      "method": null
+    },
+    {
+      "name": "은행복권방",
+      "address": "경기 시흥시 은계호수로 49 1층 1062호",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "경기 동두천시 삼육사로 945",
+      "method": null
+    },
+    {
+      "name": "웃는로또방",
+      "address": "경기 고양시 덕양구 토당로 102",
+      "method": null
+    },
+    {
+      "name": "대박찬스",
+      "address": "충북 청주시 흥덕구 가경로161번길 3",
+      "method": null
+    },
+    {
+      "name": "로또판매점",
+      "address": "전북 장수군 싸리재로 18",
+      "method": null
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "전북 군산시 공항로 61",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "대구 군위군 중앙길 32",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "경북 경산시 경안로 214",
+      "method": null
+    },
+    {
+      "name": "GS25(진주터미널점)",
+      "address": "경남 진주시 남강로 705-1 GS편의점 내",
+      "method": null
+    },
+    {
+      "name": "씨스페이스(삼계가야점)",
+      "address": "    102호",
+      "method": null
+    },
+    {
+      "name": "GS25(장유무계점)",
+      "address": "    청학프라자 1-107호",
+      "method": null
+    },
+    {
+      "name": "만물가게",
+      "address": "제주 제주시 신성로10길 3",
+      "method": null
+    }
+  ]
+}

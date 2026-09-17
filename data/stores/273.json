@@ -1,0 +1,129 @@
+{
+  "round": 273,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "에스에프마트",
+      "address": "울산 북구 동대17길 2",
+      "method": "수동"
+    },
+    {
+      "name": "행운복권마트",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "삼성로또복권방슈퍼",
+      "address": "전북 남원시 네마실1길 10-5",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "스포츠토토",
+      "address": "서울 구로구 시흥대로 577-11 103호",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "대박골드",
+      "address": "부산 중구 흑교로 51 1층 101호",
+      "method": null
+    },
+    {
+      "name": "무지개복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "GS25(경성중앙점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "씨유송도프라자",
+      "address": "    송도프라자108호",
+      "method": null
+    },
+    {
+      "name": "하이마트",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또복권판매점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "티켓세상(복권방)",
+      "address": "    쌍촌시영아파트상가 101호",
+      "method": null
+    },
+    {
+      "name": "대광광고사",
+      "address": "대전 유성구 구즉로 54",
+      "method": null
+    },
+    {
+      "name": "대한민국마트",
+      "address": "대전 유성구 전민로46번길 40",
+      "method": null
+    },
+    {
+      "name": "춤추는로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "오또로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "한보라로또",
+      "address": "    세븐일레븐",
+      "method": null
+    },
+    {
+      "name": "안양1번가버스표가판점",
+      "address": "    안양이안과병원 앞 가판점",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "강원 원주시 원일로 219 1층",
+      "method": null
+    },
+    {
+      "name": "데일리 씨브이에스(DAILY CVS)",
+      "address": "강원 원주시 신지정로 322-1 1층 101호",
+      "method": null
+    },
+    {
+      "name": "서산로또명당점",
+      "address": "충남 서산시 서해로 3207 공림삼거리",
+      "method": null
+    },
+    {
+      "name": "로터리편의마트",
+      "address": "경북 포항시 북구 서동로 85 육거리",
+      "method": null
+    },
+    {
+      "name": "명덕사 복권판매점",
+      "address": "경북 구미시 봉곡남로 77",
+      "method": null
+    },
+    {
+      "name": "개미복권",
+      "address": "   ",
+      "method": null
+    }
+  ]
+}

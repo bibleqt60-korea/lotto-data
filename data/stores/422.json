@@ -1,0 +1,144 @@
+{
+  "round": 422,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "동작대로 정금마을앞 가판점",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "새시대복권방",
+      "address": "서울 금천구 탑골로 6-1",
+      "method": "수동"
+    },
+    {
+      "name": "세원로또복권방",
+      "address": "부산 수영구 수영로725번길 53 101호",
+      "method": "자동"
+    },
+    {
+      "name": "코만도",
+      "address": "대전 대덕구 석봉로43번길 1",
+      "method": "자동"
+    },
+    {
+      "name": "우리들덕신점",
+      "address": "울산 울주군 덕신로 273",
+      "method": "자동"
+    },
+    {
+      "name": "나라통신",
+      "address": "경기 오산시 오산로 200",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "장원에이스",
+      "address": "    서울고속버스터미널경부선대합식2H로또판매점",
+      "method": null
+    },
+    {
+      "name": "프로토베팅샵",
+      "address": "부산 중구 국제시장2길 5 4호",
+      "method": null
+    },
+    {
+      "name": "글샘서점",
+      "address": "부산 동래구 충렬대로428번길 69-1",
+      "method": null
+    },
+    {
+      "name": "부일카서비스",
+      "address": "부산 동구 자성로133번길 35",
+      "method": null
+    },
+    {
+      "name": "돈벼락맞는곳",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "프랜즈주안2호점",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "세븐일레븐 인천효성점",
+      "address": "인천 계양구 안남로 551",
+      "method": null
+    },
+    {
+      "name": "프라임24시편의점",
+      "address": "울산 북구 아진로 78",
+      "method": null
+    },
+    {
+      "name": "개그스토리마트(평택본점)",
+      "address": "경기 평택시 평택항로 1-6 1층 개그스토리편의점",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "경기 파주시 문향로 39",
+      "method": null
+    },
+    {
+      "name": "오또로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "포유25다농점",
+      "address": "경기 오산시 운천로 80-5 거성그린프라자114호",
+      "method": null
+    },
+    {
+      "name": "쿠아안경원",
+      "address": "경기 안산시 단원구 신각길 44 휴먼빌2차아파트상가102호",
+      "method": null
+    },
+    {
+      "name": "L-마트",
+      "address": "경기 부천시 오정구 삼작로 22 부천테크노파크100-103",
+      "method": null
+    },
+    {
+      "name": "패밀리복권방",
+      "address": "경기 남양주시 늘을1로16번길 29 늘봄타워 107호",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "경기 광명시 금당로 36 8단지종합상가공유지",
+      "method": null
+    },
+    {
+      "name": "GS25(천안성지점)",
+      "address": "충남 천안시 동남구 일봉로 12-4 우정빌딩1층",
+      "method": null
+    },
+    {
+      "name": "로또명당해미점",
+      "address": "충남 서산시 남문2로 108",
+      "method": null
+    },
+    {
+      "name": "복돼지복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "전남광주 목포시 당가두로14번길 47-1 103호(옥암동) 복권나라",
+      "method": null
+    },
+    {
+      "name": "로터리편의마트",
+      "address": "경북 포항시 북구 서동로 85 육거리",
+      "method": null
+    }
+  ]
+}

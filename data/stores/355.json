@@ -1,0 +1,154 @@
+{
+  "round": 355,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "복권천국",
+      "address": "대구 남구 대명로 269-3",
+      "method": "자동"
+    },
+    {
+      "name": "천우로또복권방",
+      "address": "경기 화성시 사강로 172",
+      "method": "수동"
+    },
+    {
+      "name": "빙고복권점",
+      "address": "경기 평택시 송탄로 191",
+      "method": "자동"
+    },
+    {
+      "name": "나이키로또복권방",
+      "address": "경기 광주시 경충대로 899 1층 111-1호(초월프라자)",
+      "method": "자동"
+    },
+    {
+      "name": "버스판매소",
+      "address": "    865선 신안아파트앞",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "신문가판대뚝섬역에스콰이야본사앞",
+      "address": "서울 성동구 왕십리로 114",
+      "method": null
+    },
+    {
+      "name": "영광생활유통",
+      "address": "서울 금천구 범안로 1186",
+      "method": null
+    },
+    {
+      "name": "삼정그린환경",
+      "address": "서울 강동구 양재대로 1355 오스카상가136호",
+      "method": null
+    },
+    {
+      "name": "농심슈퍼",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또판매 및 세탁서비스",
+      "address": "대구 수성구 공경로 71",
+      "method": null
+    },
+    {
+      "name": "토토죤",
+      "address": "전남광주 광산구 비아중앙로31번길 10 1층",
+      "method": null
+    },
+    {
+      "name": "호정복권방",
+      "address": "대전 중구 목척8길 16",
+      "method": null
+    },
+    {
+      "name": "로또복권롯데점",
+      "address": "    GS25 편의점",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "대전 대덕구 아리랑로 213 대영상가 1층",
+      "method": null
+    },
+    {
+      "name": "행운나라복권방",
+      "address": "경기 안양시 만안구 충훈로 95",
+      "method": null
+    },
+    {
+      "name": "로또명당가두판매점",
+      "address": "경기 안양시 동안구 경수대로 848-2",
+      "method": null
+    },
+    {
+      "name": "아름다운슈퍼",
+      "address": "경기 시흥시 도일로 136",
+      "method": null
+    },
+    {
+      "name": "명당골복권방",
+      "address": "경기 수원시 권선구 동수원로242번길 15 104호",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "경기 수원시 권선구 매송고색로 720-1",
+      "method": null
+    },
+    {
+      "name": "성남양지2호점로또판매",
+      "address": "    양지파크빌딩101호",
+      "method": null
+    },
+    {
+      "name": "한성로또복권",
+      "address": "강원 정선군 고한9길 40",
+      "method": null
+    },
+    {
+      "name": "인생역전로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또복권방",
+      "address": "충남 당진시 신복운로4길 21",
+      "method": null
+    },
+    {
+      "name": "알리바이(나주점)",
+      "address": "전남광주 나주시 나주로 142 알리바이",
+      "method": null
+    },
+    {
+      "name": "행복나눔 복권 ",
+      "address": "경북 포항시 남구 문예로 68 우측상가",
+      "method": null
+    },
+    {
+      "name": "NG24",
+      "address": "경북 칠곡군 북중리3길 59",
+      "method": null
+    },
+    {
+      "name": "노다지(남지점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "영화복권",
+      "address": "경남 창원시 진해구 안청남로 14",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "경남 거제시 옥포성안로 60",
+      "method": null
+    }
+  ]
+}

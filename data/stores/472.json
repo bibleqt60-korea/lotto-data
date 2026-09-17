@@ -1,0 +1,159 @@
+{
+  "round": 472,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "바이더웨이편의점",
+      "address": "    세븐일레븐편의점",
+      "method": "자동"
+    },
+    {
+      "name": "가인안경",
+      "address": "대구 동구 아양로50길 68",
+      "method": "자동"
+    },
+    {
+      "name": "따봉복권방",
+      "address": "인천 부평구 주부토로 109",
+      "method": "자동"
+    },
+    {
+      "name": "E편한마트",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "예인기획",
+      "address": "경기 화성시 만세구 3.1만세로 1127",
+      "method": "자동"
+    },
+    {
+      "name": "사리현 복권",
+      "address": "경기 고양시 일산동구 성현로 536 1층",
+      "method": "자동"
+    },
+    {
+      "name": "올인로또복권",
+      "address": "    코끼리마트 상가 내",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "다연복권방 (윈윈스토어)",
+      "address": "서울 중랑구 겸재로 122",
+      "method": null
+    },
+    {
+      "name": "가판점80호",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또로또",
+      "address": "서울 영등포구 선유로52길 11",
+      "method": null
+    },
+    {
+      "name": "현대비디오",
+      "address": "서울 동대문구 장한로25길 45",
+      "method": null
+    },
+    {
+      "name": "로또수락산점",
+      "address": "서울 노원구 동일로 1689 대덕하이베라스101호",
+      "method": null
+    },
+    {
+      "name": "황금복권방",
+      "address": "부산 사상구 새벽로202번길 5",
+      "method": null
+    },
+    {
+      "name": "천하명당복권",
+      "address": "대구 북구 칠곡중앙대로 545",
+      "method": null
+    },
+    {
+      "name": "복권천국(성서점)",
+      "address": "대구 달서구 성서로 377",
+      "method": null
+    },
+    {
+      "name": "대박로또",
+      "address": "인천 계양구 아나지로 417 106호",
+      "method": null
+    },
+    {
+      "name": "인생대역전",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "천하복권방",
+      "address": "울산 동구 전하로 29",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "가수로또복권",
+      "address": "경기 오산시 발안로 1354",
+      "method": null
+    },
+    {
+      "name": "로또복권방",
+      "address": "경기 안양시 만안구 경수대로 1265 103호",
+      "method": null
+    },
+    {
+      "name": "웅진",
+      "address": "경기 수원시 영통구 효원로 393 101호(매탄동, 밀래니엄프라자)",
+      "method": null
+    },
+    {
+      "name": "왕대박복권",
+      "address": "경기 수원시 장안구 연무로 52-2",
+      "method": null
+    },
+    {
+      "name": "한아름복권방(매탄점)",
+      "address": "경기 수원시 영통구 권선로 808",
+      "method": null
+    },
+    {
+      "name": "꿈의실현",
+      "address": "경기 성남시 분당구 야탑로139번길 6-14 B02호",
+      "method": null
+    },
+    {
+      "name": "가판점",
+      "address": "경기 부천시 자유로 33 이마트앞 지하도입구",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "경기 광명시 광명로832번길 15",
+      "method": null
+    },
+    {
+      "name": "KOREA마트",
+      "address": "경북 구미시 임은길 64",
+      "method": null
+    },
+    {
+      "name": "GS25(진주상평드림점)",
+      "address": "경남 진주시 공단로 139 1층 GS편의점 내",
+      "method": null
+    },
+    {
+      "name": "로또한라점",
+      "address": "    해월정",
+      "method": null
+    }
+  ]
+}

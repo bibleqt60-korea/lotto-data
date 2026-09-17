@@ -1,0 +1,94 @@
+{
+  "round": 284,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "하이마트",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "대박나라베팅숍",
+      "address": "경기 부천시 성주로 84",
+      "method": "자동"
+    },
+    {
+      "name": "다농현대보석",
+      "address": "전북 전주시 덕진구 시천로 96-14",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "복권방",
+      "address": "서울 성북구 동소문로20길 28-4",
+      "method": null
+    },
+    {
+      "name": "복권천국(성서점)",
+      "address": "대구 달서구 성서로 377",
+      "method": null
+    },
+    {
+      "name": "무한대박",
+      "address": "인천 연수구 새말로 107",
+      "method": null
+    },
+    {
+      "name": "소망복권방",
+      "address": "    진우빌딩101호",
+      "method": null
+    },
+    {
+      "name": "일등로또",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "대박(토토)",
+      "address": "전남광주 북구 군왕로 196",
+      "method": null
+    },
+    {
+      "name": "대한민국마트",
+      "address": "대전 유성구 전민로46번길 40",
+      "method": null
+    },
+    {
+      "name": "로또판매점",
+      "address": "경기 포천시 호국로 1900",
+      "method": null
+    },
+    {
+      "name": "유방매표소",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또토토대박",
+      "address": "강원 원주시 무실로 78 1층",
+      "method": null
+    },
+    {
+      "name": "복권마을",
+      "address": "충북 충주시 봉황1길 2 1층",
+      "method": null
+    },
+    {
+      "name": "프로포즈배방점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "강경복권방",
+      "address": "충남 논산시 계백로 126-1",
+      "method": null
+    },
+    {
+      "name": "정우빌딩",
+      "address": "경남 진주시 평거로 38 세븐일레븐 내",
+      "method": null
+    }
+  ]
+}

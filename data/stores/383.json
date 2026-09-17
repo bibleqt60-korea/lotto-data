@@ -1,0 +1,164 @@
+{
+  "round": 383,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "천하명가",
+      "address": "    길빌딩101호",
+      "method": "자동"
+    },
+    {
+      "name": "피쉬복권방",
+      "address": "충북 청주시 흥덕구 1순환로513번길 4 휴대폰매장",
+      "method": "자동"
+    },
+    {
+      "name": "NG24",
+      "address": "경북 칠곡군 북중리3길 59",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "CU(포레스트힐점)",
+      "address": "서울 종로구 대학로 33 1층 101호 씨유포레스트힐점",
+      "method": null
+    },
+    {
+      "name": "불광가판점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "버스카드충전소",
+      "address": "서울 영등포구 여의대방로62길 2 가판",
+      "method": null
+    },
+    {
+      "name": "로또행운마트",
+      "address": "서울 양천구 남부순환로 327 1층",
+      "method": null
+    },
+    {
+      "name": "다터져복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "해운대온천복권방",
+      "address": "부산 해운대구 해운대해변로 323",
+      "method": null
+    },
+    {
+      "name": "수천하명당",
+      "address": "부산 부산진구 대학로 20-1 1층 복권방",
+      "method": null
+    },
+    {
+      "name": "세븐일레븐 현풍대로점",
+      "address": "대구 달성군 비슬로 581 세븐일레븐현풍대로점",
+      "method": null
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "인천 연수구 앵고개로 242 제일상가112호",
+      "method": null
+    },
+    {
+      "name": "로또나라",
+      "address": "    세븐일레븐 용봉점내",
+      "method": null
+    },
+    {
+      "name": "알리바이 공항",
+      "address": "전남광주 광산구 송도로 262 1층 알리바이",
+      "method": null
+    },
+    {
+      "name": "파크애비뉴",
+      "address": "경기 화성시 만세구 화성로 1215 가동 1호",
+      "method": null
+    },
+    {
+      "name": "황금복권마트",
+      "address": "경기 이천시 증신로325번길 5 1층",
+      "method": null
+    },
+    {
+      "name": "죽전열쇠 로또복권방",
+      "address": "경기 용인시 수지구 대지로 36 신흥빌딩101",
+      "method": null
+    },
+    {
+      "name": "송추장흥로또",
+      "address": "경기 양주시 호국로 511",
+      "method": null
+    },
+    {
+      "name": "행운이랑대박이랑",
+      "address": "경기 수원시 장안구 만석로 99",
+      "method": null
+    },
+    {
+      "name": "천사로또방",
+      "address": "경기 남양주시 사릉로34번길 24 1층 7호",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "경기 남양주시 도농로 13 1층",
+      "method": null
+    },
+    {
+      "name": "굳프렌즈 일산현대-24시편의점",
+      "address": "경기 고양시 일산서구 일청로 40-1 1층",
+      "method": null
+    },
+    {
+      "name": "백마 사거리 로또판매점",
+      "address": "경기 고양시 일산동구 일산로 196 1층 104호",
+      "method": null
+    },
+    {
+      "name": "또이대박로또",
+      "address": "강원 원주시 입춘로 73 103호",
+      "method": null
+    },
+    {
+      "name": "심마니대박복권방",
+      "address": "충북 충주시 국원대로 68",
+      "method": null
+    },
+    {
+      "name": "하이그린마트",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "대박찬스",
+      "address": "충북 청주시 흥덕구 가경로161번길 3",
+      "method": null
+    },
+    {
+      "name": "광시당",
+      "address": "경북 영주시 원당로 121",
+      "method": null
+    },
+    {
+      "name": "팡팡복권방",
+      "address": "경남 창원시 성산구 신촌로 101",
+      "method": null
+    },
+    {
+      "name": "씨유고현점",
+      "address": "경남 거제시 거제중앙로 1841",
+      "method": null
+    },
+    {
+      "name": "GS25(제주칼호텔점)",
+      "address": "   ",
+      "method": null
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "round": 268,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "행운복권방",
+      "address": "서울 은평구 연서로 258 상가102호",
+      "method": "수동"
+    },
+    {
+      "name": "자양사거리가로매점",
+      "address": "서울 광진구 자양로13길 6 1층",
+      "method": "수동"
+    },
+    {
+      "name": "공단휴게실",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "사랑의꽃집",
+      "address": "   ",
+      "method": "수동"
+    },
+    {
+      "name": "영덕로또복권",
+      "address": "경북 영덕군 덕곡길 128",
+      "method": "수동"
+    },
+    {
+      "name": "로또안경콘택트",
+      "address": "경북 구미시 구미중앙로5길 2",
+      "method": "수동"
+    },
+    {
+      "name": "GS25(창원서광점)",
+      "address": "경남 창원시 성산구 중앙대로 49 서광오피스텔111-1호111-2호",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "하나은행별관앞가판43호",
+      "address": "서울 중구 을지로 57-2 하나은행별관앞가판",
+      "method": null
+    },
+    {
+      "name": "삼우식품",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "롯데가판점",
+      "address": "    롯데백화점옆가판점",
+      "method": null
+    },
+    {
+      "name": "가로판매점",
+      "address": "    가락시장건너편가판점",
+      "method": null
+    },
+    {
+      "name": "복권만화",
+      "address": "서울 서초구 사임당로 39 1층 102호",
+      "method": null
+    },
+    {
+      "name": "버스충전소",
+      "address": "서울 서초구 신반포로 177 반포쇼핑3동정문앞",
+      "method": null
+    },
+    {
+      "name": "웨이스탑(전농점)",
+      "address": "서울 동대문구 전농로 129",
+      "method": null
+    },
+    {
+      "name": "가판점",
+      "address": "서울 노원구 동일로 1231-2",
+      "method": null
+    },
+    {
+      "name": "화인서비스",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "서울 관악구 은천로 40-1 1층",
+      "method": null
+    },
+    {
+      "name": "디오니스",
+      "address": "    1층 세븐일레븐",
+      "method": null
+    },
+    {
+      "name": "-",
+      "address": "    대현지하상가 복권판매대제4번 가판",
+      "method": null
+    },
+    {
+      "name": "대박찬스복권방",
+      "address": "부산 금정구 서동로 130",
+      "method": null
+    },
+    {
+      "name": "칠곡스포츠",
+      "address": "대구 북구 칠곡중앙대로 311",
+      "method": null
+    },
+    {
+      "name": "행운마트",
+      "address": "인천 부평구 배곶남로9번길 4",
+      "method": null
+    },
+    {
+      "name": "복권천국",
+      "address": "인천 부평구 평천로391번길 4 102호",
+      "method": null
+    },
+    {
+      "name": "로또생삼겹",
+      "address": "인천 남동구 논고개로 77",
+      "method": null
+    },
+    {
+      "name": "동천로또",
+      "address": "    상가101-103호",
+      "method": null
+    },
+    {
+      "name": "복권천하문화점",
+      "address": "대전 중구 천근로 23 1층",
+      "method": null
+    },
+    {
+      "name": "오렌지24시마트",
+      "address": "울산 북구 명촌4길 10",
+      "method": null
+    },
+    {
+      "name": "천하명당",
+      "address": "경기 화성시 남양시장로 83",
+      "method": null
+    },
+    {
+      "name": "율암25시편의점",
+      "address": "경기 화성시 만세구 시청로 822",
+      "method": null
+    },
+    {
+      "name": "행운복권마트",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "경기 양평군 양근로190번길 2 1층",
+      "method": null
+    },
+    {
+      "name": "복권식품",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "21세기복권나라",
+      "address": "경기 성남시 중원구 희망로 388 101호",
+      "method": null
+    },
+    {
+      "name": "황제복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또복권장항점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "천하제일복권명당연무점",
+      "address": "충남 논산시 안심로 163",
+      "method": null
+    },
+    {
+      "name": "모현로또방",
+      "address": "전북 익산시 고현로 109",
+      "method": null
+    },
+    {
+      "name": "춘향로또",
+      "address": "전북 남원시 동림로 102-1",
+      "method": null
+    },
+    {
+      "name": "GS25(양산신평점)",
+      "address": "경남 양산시 신평중앙길 1",
+      "method": null
+    },
+    {
+      "name": "꿈의가게",
+      "address": "경남 김해시 계동로 220 102호 복권판매점",
+      "method": null
+    }
+  ]
+}

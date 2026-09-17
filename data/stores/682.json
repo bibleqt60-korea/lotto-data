@@ -1,0 +1,309 @@
+{
+  "round": 682,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "대박",
+      "address": "서울 강남구 일원로3길 66 1층",
+      "method": "자동"
+    },
+    {
+      "name": "복권명당(서부점)",
+      "address": "대구 달서구 월배로 452",
+      "method": "자동"
+    },
+    {
+      "name": "버스표가판점",
+      "address": "경기 안양시 동안구 동안로 125-2 범계역4-1출구앞 버스표가판점",
+      "method": "자동"
+    },
+    {
+      "name": "김포로또",
+      "address": "경기 김포시 돌문로 48 한솔프라자101",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "구두로또",
+      "address": "서울 용산구 효창원로 112 1층",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "    훼미리마트",
+      "method": null
+    },
+    {
+      "name": "신문가판대",
+      "address": "    가판",
+      "method": null
+    },
+    {
+      "name": "신문가판대뚝섬역에스콰이야본사앞",
+      "address": "서울 성동구 왕십리로 114",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "서울 동작구 동작대로7길 11",
+      "method": null
+    },
+    {
+      "name": "형제상회",
+      "address": "서울 동대문구 무학로 92",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "서울 도봉구 도봉로113길 15",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "서울 도봉구 노해로63길 79 우림빌딩 112호",
+      "method": null
+    },
+    {
+      "name": "가로판매점",
+      "address": "서울 금천구 시흥대로 217",
+      "method": null
+    },
+    {
+      "name": "미나식품(로또판매점)",
+      "address": "서울 강서구 금낭화로 91-12",
+      "method": null
+    },
+    {
+      "name": "씨스페이스(삼성1점)",
+      "address": "    대광빌딩1층101호",
+      "method": null
+    },
+    {
+      "name": "황금돼지로또판매점",
+      "address": "부산 사하구 낙동대로 395",
+      "method": null
+    },
+    {
+      "name": "화랑복권",
+      "address": "    오렌지데이점포 내",
+      "method": null
+    },
+    {
+      "name": "훼미리마트남구청점로또판매점",
+      "address": "    세븐일레븐내",
+      "method": null
+    },
+    {
+      "name": "복권명당(효동점)",
+      "address": "대구 동구 효동로 101 동촌 강나루아파트 건너편",
+      "method": null
+    },
+    {
+      "name": "CU(남대구ＩＣ점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "찬스센타백운점",
+      "address": "인천 부평구 마장로 76 1층",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "전남광주 서구 화운로 11-1",
+      "method": null
+    },
+    {
+      "name": "로또꽃방",
+      "address": "광주 서구 상무버들로40번길 13",
+      "method": null
+    },
+    {
+      "name": "에이스복권방",
+      "address": "전남광주 북구 임방울대로 1059 1층 101호",
+      "method": null
+    },
+    {
+      "name": "돼지의꿈",
+      "address": "전남광주 북구 경열로 212",
+      "method": null
+    },
+    {
+      "name": "백억평동타운점",
+      "address": "광주 광산구 사암로340번길 31 102호",
+      "method": null
+    },
+    {
+      "name": "행운노다지복권방",
+      "address": "    다세대주택 1층",
+      "method": null
+    },
+    {
+      "name": "금산인삼엑스포",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "모닝마트 주한점",
+      "address": "    미니스톱편의점내",
+      "method": null
+    },
+    {
+      "name": "한꿈복권방",
+      "address": "울산 중구 번영로 586",
+      "method": null
+    },
+    {
+      "name": "준복권방",
+      "address": "울산 북구 명촌로 85",
+      "method": null
+    },
+    {
+      "name": "세븐일레븐 울산동진점",
+      "address": "울산 동구 동진로 4",
+      "method": null
+    },
+    {
+      "name": "우리들삼호점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로뎀",
+      "address": "경기 화성시 만세구 주석로 237 1층 GS25편의점내",
+      "method": null
+    },
+    {
+      "name": "대박찬스복권전문점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "진성복권방",
+      "address": "경기 포천시 가산로 380",
+      "method": null
+    },
+    {
+      "name": "천하명당",
+      "address": "경기 이천시 경충대로 3145 1층",
+      "method": null
+    },
+    {
+      "name": "행운복권",
+      "address": "경기 의정부시 평화로 359 상가동 110호",
+      "method": null
+    },
+    {
+      "name": "왕대박복권방",
+      "address": "경기 오산시 오산로 13",
+      "method": null
+    },
+    {
+      "name": "버스표가판점",
+      "address": "경기 안양시 동안구 동안로 125-2 범계역4-1출구앞 버스표가판점",
+      "method": null
+    },
+    {
+      "name": "로또판매선부점",
+      "address": "경기 안산시 단원구 선부광장로 27 122-2호",
+      "method": null
+    },
+    {
+      "name": "로또명당",
+      "address": "경기 시흥시 대골안길 60",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "경기 시흥시 복지로 103-1 1층상가",
+      "method": null
+    },
+    {
+      "name": "분당정자점로또판매점",
+      "address": "    1층 109호 이마트24",
+      "method": null
+    },
+    {
+      "name": "굿타임편의점",
+      "address": "    엘레강스A109호",
+      "method": null
+    },
+    {
+      "name": "약이본가",
+      "address": "    테크노2차201동113호",
+      "method": null
+    },
+    {
+      "name": "GS25(하안연서점)",
+      "address": "경기 광명시 안현로 52",
+      "method": null
+    },
+    {
+      "name": "맨투맨복권방",
+      "address": "충북 청주시 흥덕구 송화로166번길 14 편의점",
+      "method": null
+    },
+    {
+      "name": "GS25(청주수곡점)",
+      "address": "충북 청주시 서원구 수곡로 45",
+      "method": null
+    },
+    {
+      "name": "제이민온천복권",
+      "address": "충남 아산시 번영로217번길 25 1층 웨이스탑 편의점",
+      "method": null
+    },
+    {
+      "name": "777천하명당",
+      "address": "충남 서천군 충절로 54",
+      "method": null
+    },
+    {
+      "name": "공주복권방",
+      "address": "충남 공주시 웅진로 210-2",
+      "method": null
+    },
+    {
+      "name": "플러스복권방",
+      "address": "전북 익산시 하나로13길 18",
+      "method": null
+    },
+    {
+      "name": "구례로또",
+      "address": "전남광주 구례군 로터리길 2-1",
+      "method": null
+    },
+    {
+      "name": "창원병원앞매표소",
+      "address": "경남 창원시 성산구 창원대로 721 가판",
+      "method": null
+    },
+    {
+      "name": "금산로또",
+      "address": "경남 진주시 금산로 36 1층",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "제주 제주시 한림중앙로 12",
+      "method": null
+    },
+    {
+      "name": "한라점",
+      "address": "    씨유대화점내",
+      "method": null
+    },
+    {
+      "name": "돌하르방복권",
+      "address": "제주 서귀포시 태평로353번길 9",
+      "method": null
+    }
+  ]
+}

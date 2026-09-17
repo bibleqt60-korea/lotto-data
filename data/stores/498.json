@@ -1,0 +1,204 @@
+{
+  "round": 498,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "CU(소피텔점)",
+      "address": "서울 중구 동호로27길 25",
+      "method": "자동"
+    },
+    {
+      "name": "복권명당",
+      "address": "서울 관악구 장군봉1길 43 1층",
+      "method": "자동"
+    },
+    {
+      "name": "뉴빅마트",
+      "address": "부산 기장군 정관중앙로 48 106호",
+      "method": "자동"
+    },
+    {
+      "name": "황금복권마트",
+      "address": "경기 이천시 증신로325번길 5 1층",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "신안할인마트",
+      "address": "서울 중랑구 공릉로2나길 44 신안2차아파트상가101",
+      "method": null
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "서울 용산구 후암로 52",
+      "method": null
+    },
+    {
+      "name": "종합",
+      "address": "서울 용산구 새창로 156 3층큰길가장오른쪽네번째칸",
+      "method": null
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "서울 용산구 후암로 52",
+      "method": null
+    },
+    {
+      "name": "드림파크",
+      "address": "서울 영등포구 여의대방로 45 삼성상가1층10호",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "서울 동작구 상도로 178 1층 101호",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "서울 관악구 남부순환로 1739-9 1층",
+      "method": null
+    },
+    {
+      "name": "CU(성내중앙점)",
+      "address": "서울 강동구 강동대로53길 22 동양타워",
+      "method": null
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "부산 부산진구 가야대로 643",
+      "method": null
+    },
+    {
+      "name": "훼밀리복권",
+      "address": "부산 금정구 중앙대로1719번길 37 우측 복권판매점",
+      "method": null
+    },
+    {
+      "name": "복권뱅크",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "승차권판매소(서구청2호점)",
+      "address": "    토근박스",
+      "method": null
+    },
+    {
+      "name": "토큰박스(퀸스로드점)",
+      "address": "대구 서구 당산로 289 가로판매대 7-1",
+      "method": null
+    },
+    {
+      "name": "CU(대명청구점)",
+      "address": "대구 남구 중앙대로 245",
+      "method": null
+    },
+    {
+      "name": "CU(연수청학점)",
+      "address": "인천 연수구 용담로 93",
+      "method": null
+    },
+    {
+      "name": "버스매표소",
+      "address": "인천 부평구 부평대로 3 가판",
+      "method": null
+    },
+    {
+      "name": "프랜즈주안2호점",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "나성복권",
+      "address": "광주 북구 용봉택지로 22 106호",
+      "method": null
+    },
+    {
+      "name": "로또카페",
+      "address": "전남광주 광산구 하남산단4번로 172 로또카페",
+      "method": null
+    },
+    {
+      "name": "CN마트",
+      "address": "울산 중구 곽남4길 2",
+      "method": null
+    },
+    {
+      "name": "대박복권 편의점",
+      "address": "울산 울주군 구영로 162 1층 102호",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "경기 오산시 오산로 298-1",
+      "method": null
+    },
+    {
+      "name": "코아복권방",
+      "address": "    GS25궐동코아점",
+      "method": null
+    },
+    {
+      "name": "하이로또복권방",
+      "address": "경기 안양시 동안구 흥안대로 450",
+      "method": null
+    },
+    {
+      "name": "로또명당가두판매점",
+      "address": "경기 안양시 동안구 경수대로 848-2",
+      "method": null
+    },
+    {
+      "name": "김포마트로또방",
+      "address": "경기 안산시 상록구 오목로 50",
+      "method": null
+    },
+    {
+      "name": "㈜현대택배권선영업소",
+      "address": "경기 수원시 권선구 곡반정로 95-1 104호",
+      "method": null
+    },
+    {
+      "name": "자수정슈퍼",
+      "address": "전북 전주시 완산구 용머리로 152",
+      "method": null
+    },
+    {
+      "name": "롯데마트",
+      "address": "전북 군산시 하나운로 43",
+      "method": null
+    },
+    {
+      "name": "불국사명당복권",
+      "address": "경북 경주시 산업로 3033",
+      "method": null
+    },
+    {
+      "name": "하동로또명당",
+      "address": "경남 하동군 중앙로 26",
+      "method": null
+    },
+    {
+      "name": "이마트24 마산만복점",
+      "address": "경남 창원시 마산회원구 합성옛길 152 1층 이마트24 편의점내",
+      "method": null
+    },
+    {
+      "name": "목화휴게소",
+      "address": "경남 사천시 사천대로 912",
+      "method": null
+    },
+    {
+      "name": "목화휴게소",
+      "address": "경남 사천시 사천대로 912",
+      "method": null
+    },
+    {
+      "name": "팔도로또방",
+      "address": "   ",
+      "method": null
+    }
+  ]
+}

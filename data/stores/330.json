@@ -1,0 +1,214 @@
+{
+  "round": 330,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "빌딩매점",
+      "address": "서울 영등포구 신길로 108 남서울아파트상가 13동 103-나호",
+      "method": "자동"
+    },
+    {
+      "name": "오목미니슈퍼",
+      "address": "서울 양천구 신목로 119 1층",
+      "method": "자동"
+    },
+    {
+      "name": "가로판매점",
+      "address": "서울 서초구 신반포로 189 반포쇼핑4동 정문 앞 가로판매점",
+      "method": "수동"
+    },
+    {
+      "name": "노다지복권방",
+      "address": "부산 해운대구 신반송로 179",
+      "method": "수동"
+    },
+    {
+      "name": "욱일슈퍼",
+      "address": "인천 부평구 경인로 1144",
+      "method": "자동"
+    },
+    {
+      "name": "따봉복권방",
+      "address": "인천 부평구 주부토로 109",
+      "method": "수동"
+    },
+    {
+      "name": "행운이가득한집",
+      "address": "경기 안산시 상록구 건건로 28 동호상가B-14호",
+      "method": "수동"
+    },
+    {
+      "name": "행운복권",
+      "address": "경기 수원시 권선구 권선로 774-1",
+      "method": "수동"
+    },
+    {
+      "name": "서창복권나라",
+      "address": "경남 양산시 서창서2길 3",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "우리식품점",
+      "address": "서울 종로구 종로 393",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "서울 성북구 화랑로13길 20",
+      "method": null
+    },
+    {
+      "name": "GS25(사당역점)",
+      "address": "서울 동작구 동작대로1길 27",
+      "method": null
+    },
+    {
+      "name": "경성식품",
+      "address": "서울 동대문구 망우로21길 52",
+      "method": null
+    },
+    {
+      "name": "가로판매대",
+      "address": "    못된고양이 앞 가판",
+      "method": null
+    },
+    {
+      "name": "문구박사",
+      "address": "서울 광진구 능동로13길 60",
+      "method": null
+    },
+    {
+      "name": "MS마트",
+      "address": "서울 광진구 광나루로 546",
+      "method": null
+    },
+    {
+      "name": "만복가판",
+      "address": "서울 강서구 화곡로 200 화곡시장입구 가판",
+      "method": null
+    },
+    {
+      "name": "대박천하",
+      "address": "    CU편의점",
+      "method": null
+    },
+    {
+      "name": "위드미(with me)",
+      "address": "    에브리데이편의점",
+      "method": null
+    },
+    {
+      "name": "GS25(부산미남점)",
+      "address": "부산 동래구 미남로 131",
+      "method": null
+    },
+    {
+      "name": "정원상회",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "씨유 송도점",
+      "address": "인천 연수구 인권로 9 1층 CU",
+      "method": null
+    },
+    {
+      "name": "오천억복권방",
+      "address": "전남광주 서구 상무대로 1087",
+      "method": null
+    },
+    {
+      "name": "천하명당복권전문점",
+      "address": "전남광주 광산구 사암로216번길 10-9",
+      "method": null
+    },
+    {
+      "name": "동부슈퍼",
+      "address": "대전 동구 동서대로 1706",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "빙고복권점",
+      "address": "경기 평택시 송탄로 191",
+      "method": null
+    },
+    {
+      "name": "심봤다복권방",
+      "address": "경기 오산시 청학로5번길 6 같은건물내에서 이전",
+      "method": null
+    },
+    {
+      "name": "롯또복권방",
+      "address": "    다운타운상가110호",
+      "method": null
+    },
+    {
+      "name": "송내매표소",
+      "address": "경기 부천시 송내대로 37 104호",
+      "method": null
+    },
+    {
+      "name": "태양정보통신",
+      "address": "경기 광주시 고불로 56 상가1층",
+      "method": null
+    },
+    {
+      "name": "행운부동산공인중개사사무소",
+      "address": "경기 고양시 덕양구 푸른마을로 11 푸른마을3단지상가동106",
+      "method": null
+    },
+    {
+      "name": "다음마트",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또복권방",
+      "address": "    라데팡스빌딩101호",
+      "method": null
+    },
+    {
+      "name": "와이복권판매점",
+      "address": "전북 전주시 완산구 유연로 268 101, 102, 103호",
+      "method": null
+    },
+    {
+      "name": "학동복권나라",
+      "address": "전남광주 여수시 흥국로 6",
+      "method": null
+    },
+    {
+      "name": "CU(두호점)",
+      "address": "경북 포항시 북구 삼호로 247",
+      "method": null
+    },
+    {
+      "name": "팬더복권",
+      "address": "경북 포항시 남구 충무로 39-1 1층,우측상가",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "경북 영천시 호국로 31",
+      "method": null
+    },
+    {
+      "name": "백만불 복권전문점",
+      "address": "경북 문경시 중앙로 79-2 1층",
+      "method": null
+    },
+    {
+      "name": "CU(통영북신에이스점)",
+      "address": "경남 통영시 무전8길 14-12",
+      "method": null
+    }
+  ]
+}

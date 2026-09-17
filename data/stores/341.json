@@ -1,0 +1,209 @@
+{
+  "round": 341,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "부일카서비스",
+      "address": "부산 동구 자성로133번길 35",
+      "method": "자동"
+    },
+    {
+      "name": "복권명당",
+      "address": "대구 수성구 들안로 243",
+      "method": "수동"
+    },
+    {
+      "name": "CU칠곡점",
+      "address": "대구 북구 칠곡중앙대로 475",
+      "method": "수동"
+    },
+    {
+      "name": "재우텔레콤",
+      "address": "경기 하남시 신평로 74",
+      "method": "수동"
+    },
+    {
+      "name": "GS25(수원삼성점)",
+      "address": "    104호 GS25",
+      "method": "자동"
+    },
+    {
+      "name": "드림복권",
+      "address": "전북 익산시 무왕로20길 20-2",
+      "method": "수동"
+    },
+    {
+      "name": "GS25(창원극동점)",
+      "address": "    GS25편의점",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "늘푸른복권방",
+      "address": "서울 중구 을지로36길 35 572 B호 1층 (오장동, 중부시장 14공구)",
+      "method": null
+    },
+    {
+      "name": "꽃이활짝피는복권방",
+      "address": "서울 영등포구 당산로 26 상가동 1호. 문래역 7번출구 옆",
+      "method": null
+    },
+    {
+      "name": "행운로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "잠실연쇄점",
+      "address": "서울 송파구 삼전로 99 이마트 24편의점",
+      "method": null
+    },
+    {
+      "name": "명당복권방",
+      "address": "서울 동대문구 사가정로25길 17 1층 로또복권방",
+      "method": null
+    },
+    {
+      "name": "한일복권",
+      "address": "서울 도봉구 도봉로155길 20",
+      "method": null
+    },
+    {
+      "name": "스파",
+      "address": "서울 노원구 동일로 1493 주공10단지종합상가111",
+      "method": null
+    },
+    {
+      "name": "CU(공릉점)",
+      "address": "    1층 CU공릉점",
+      "method": null
+    },
+    {
+      "name": "가로판매소",
+      "address": "서울 구로구 새말로 117-24 (신도림역2번출구)(구로동)",
+      "method": null
+    },
+    {
+      "name": "대박복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "교통카드충전소",
+      "address": "서울 강남구 선릉로 309-2",
+      "method": null
+    },
+    {
+      "name": "거제현대점로또판매",
+      "address": "    세븐일레븐거제현대점 내",
+      "method": null
+    },
+    {
+      "name": "세원로또복권방",
+      "address": "부산 수영구 수영로725번길 53 101호",
+      "method": null
+    },
+    {
+      "name": "대학도슈퍼",
+      "address": "부산 사상구 가야대로 366-1",
+      "method": null
+    },
+    {
+      "name": "부산쌀상회",
+      "address": "부산 남구 우암로 238",
+      "method": null
+    },
+    {
+      "name": "짱25시",
+      "address": "대구 수성구 달구벌대로 2610 세븐일레븐남부점내(좌측2번째상가)",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "대구 동구 경안로 751",
+      "method": null
+    },
+    {
+      "name": "인생대역전",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "우리마트",
+      "address": "인천 계양구 봉오대로743번길 25 한아름상가101 102호",
+      "method": null
+    },
+    {
+      "name": "파란만장복권방",
+      "address": "경기 화성시 효행로 1016 101호",
+      "method": null
+    },
+    {
+      "name": "천우로또복권방",
+      "address": "경기 화성시 사강로 172",
+      "method": null
+    },
+    {
+      "name": "화성복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "영통매표소",
+      "address": "경기 수원시 영통구 청명북로 61 청명역3번출구 매표소",
+      "method": null
+    },
+    {
+      "name": "상동복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권만당",
+      "address": "경기 군포시 군포로 489-2",
+      "method": null
+    },
+    {
+      "name": "로또복권방",
+      "address": "경기 군포시 산본로323번길 16-6 신명빌딩1층1005호",
+      "method": null
+    },
+    {
+      "name": "한성로또복권",
+      "address": "강원 정선군 고한9길 40",
+      "method": null
+    },
+    {
+      "name": "동명수퍼",
+      "address": "강원 속초시 중앙로 205 GS25동명점",
+      "method": null
+    },
+    {
+      "name": "소라복권방",
+      "address": "전북 익산시 인북로 327-4",
+      "method": null
+    },
+    {
+      "name": "로또만사통사",
+      "address": "전남광주 화순군 광덕로 212 5번째칸",
+      "method": null
+    },
+    {
+      "name": "명성복권방",
+      "address": "전남광주 순천시 기적의도서관길 25 명성복권방",
+      "method": null
+    },
+    {
+      "name": "목화휴게소",
+      "address": "경남 사천시 사천대로 912",
+      "method": null
+    },
+    {
+      "name": "씨스페이스(삼계가야점)",
+      "address": "    102호",
+      "method": null
+    }
+  ]
+}

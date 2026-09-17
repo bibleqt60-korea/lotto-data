@@ -1,0 +1,179 @@
+{
+  "round": 271,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "대원슈퍼마켓",
+      "address": "부산 수영구 수영로 524",
+      "method": "수동"
+    },
+    {
+      "name": "팬레코드",
+      "address": "부산 남구 수영로 253",
+      "method": "수동"
+    },
+    {
+      "name": "선마트로또점",
+      "address": "    275-2번지 105",
+      "method": "자동"
+    },
+    {
+      "name": "GS25(안산팔곡점)",
+      "address": "경기 안산시 상록구 본이로 83 1층 101호",
+      "method": "수동"
+    },
+    {
+      "name": "복권나라",
+      "address": "충북 청주시 청원구 율봉로176번길 8-2",
+      "method": "자동"
+    },
+    {
+      "name": "로터리편의마트",
+      "address": "경북 포항시 북구 서동로 85 육거리",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "가판점(신문)",
+      "address": "서울 영등포구 양평로 50-2",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "서울 송파구 백제고분로41길 7 1층",
+      "method": null
+    },
+    {
+      "name": "럭키복권샵",
+      "address": "서울 송파구 성내천로 218",
+      "method": null
+    },
+    {
+      "name": "가로판매점",
+      "address": "서울 서초구 신반포로 189 반포쇼핑4동 정문 앞 가로판매점",
+      "method": null
+    },
+    {
+      "name": "GS25(방학점)",
+      "address": "서울 도봉구 시루봉로 219",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "서울 관악구 남부순환로 1739-9 1층",
+      "method": null
+    },
+    {
+      "name": "목동로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "대박찬스복권방",
+      "address": "    대림상가1층111호cu편의점내",
+      "method": null
+    },
+    {
+      "name": "찬스센타백운점",
+      "address": "인천 부평구 마장로 76 1층",
+      "method": null
+    },
+    {
+      "name": "경기상회",
+      "address": "인천 남동구 장승남로 42 104호",
+      "method": null
+    },
+    {
+      "name": "형제당복권방",
+      "address": "전남광주 광산구 월계로 58 1층",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "경기 포천시 죽엽산로35번길 1",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "경기 용인시 수지구 상현로 114 1층 2호",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "경기 양평군 양근로190번길 2 1층",
+      "method": null
+    },
+    {
+      "name": "대선",
+      "address": "경기 안산시 상록구 석호로 189 101호",
+      "method": null
+    },
+    {
+      "name": "패밀리복권방",
+      "address": "경기 광주시 오포로 122",
+      "method": null
+    },
+    {
+      "name": "프리웨이스토어",
+      "address": "경기 광주시 회안대로 605 1층",
+      "method": null
+    },
+    {
+      "name": "이마트24 일산식사점",
+      "address": "경기 고양시 일산동구 견달산로 249 1층",
+      "method": null
+    },
+    {
+      "name": "훼미리마트(강릉경포점)",
+      "address": null,
+      "method": null
+    },
+    {
+      "name": "대박명당",
+      "address": "충남 천안시 동남구 옛시청길 29 힐스테이트아파트 상가 207호",
+      "method": null
+    },
+    {
+      "name": "에덴마트",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "용미사진관(로또)",
+      "address": "전남광주 순천시 팔마로 113-1 용미사진관",
+      "method": null
+    },
+    {
+      "name": "노다지",
+      "address": "    1층 GS25내",
+      "method": null
+    },
+    {
+      "name": "알짜마트왕지점",
+      "address": "전남광주 순천시 왕궁길 60 중흥파크상가 309-101호",
+      "method": null
+    },
+    {
+      "name": "행복나눔 복권 ",
+      "address": "경북 포항시 남구 문예로 68 우측상가",
+      "method": null
+    },
+    {
+      "name": "일등복권",
+      "address": "경북 구미시 신시로10길 80 1층",
+      "method": null
+    },
+    {
+      "name": "대우할인매장",
+      "address": "경남 창원시 성산구 정동로162번길 74 대우상가 1층 대우할인마트",
+      "method": null
+    },
+    {
+      "name": "나눔로또방",
+      "address": "   ",
+      "method": null
+    }
+  ]
+}

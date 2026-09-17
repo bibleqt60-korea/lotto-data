@@ -1,0 +1,209 @@
+{
+  "round": 348,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "행운로또복권",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "GS25(파빌리온점)",
+      "address": "경기 성남시 분당구 성남대로 393 두산위브파빌리온상가1층A103호",
+      "method": "자동"
+    },
+    {
+      "name": "L-마트",
+      "address": "경기 부천시 오정구 삼작로 22 부천테크노파크100-103",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "가판점80호",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "돈다발복권방",
+      "address": "서울 종로구 종로 352",
+      "method": null
+    },
+    {
+      "name": "까치복권",
+      "address": "서울 양천구 화곡로 103 1층",
+      "method": null
+    },
+    {
+      "name": "하니마트",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "삼화식품",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권마을(사당점)",
+      "address": "서울 동작구 사당로 215 101호",
+      "method": null
+    },
+    {
+      "name": "대박로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "삼정그린환경",
+      "address": "서울 강동구 양재대로 1355 오스카상가136호",
+      "method": null
+    },
+    {
+      "name": "로또 강남스타일",
+      "address": "서울 강남구 테헤란로14길 31 1층",
+      "method": null
+    },
+    {
+      "name": "터서점",
+      "address": "부산 동래구 아시아드대로 227",
+      "method": null
+    },
+    {
+      "name": "슈퍼복권나라수정점",
+      "address": "부산 동구 고관로 95",
+      "method": null
+    },
+    {
+      "name": "행운마트",
+      "address": "인천 부평구 배곶남로9번길 4",
+      "method": null
+    },
+    {
+      "name": "GS25(인천광장점)",
+      "address": "인천 남동구 미래로 45",
+      "method": null
+    },
+    {
+      "name": "로또명당",
+      "address": "인천 미추홀구 인주대로 423 101호",
+      "method": null
+    },
+    {
+      "name": "우미슈퍼",
+      "address": "전남광주 서구 풍암순환로 183 우미아파트상가118동-101호",
+      "method": null
+    },
+    {
+      "name": "금성티아이에스(TIS)",
+      "address": "광주 북구 독립로 416 1층 금성TIS",
+      "method": null
+    },
+    {
+      "name": "두꺼비복권방",
+      "address": "    굿앤월드빌딩 102호",
+      "method": null
+    },
+    {
+      "name": "승차권판매소",
+      "address": "대전 동구 중앙로 191-1 가판대",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "울산 중구 번영로 455 GS편의점 내",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "울산 울주군 연안1길 3 상아아파트상가107",
+      "method": null
+    },
+    {
+      "name": "요술상자",
+      "address": "경기 평택시 평택3로 109 동일건물내 이전",
+      "method": null
+    },
+    {
+      "name": "GS25(안산본점)",
+      "address": "경기 안산시 상록구 샘골로 148",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "경기 수원시 장안구 장안로 288 1층",
+      "method": null
+    },
+    {
+      "name": "대박나라베팅숍",
+      "address": "경기 부천시 성주로 84",
+      "method": null
+    },
+    {
+      "name": "슈퍼복권",
+      "address": "경기 구리시 검배로 55",
+      "method": null
+    },
+    {
+      "name": "성심편의점",
+      "address": "    명동상가100호",
+      "method": null
+    },
+    {
+      "name": "패밀리복권방",
+      "address": "경기 광주시 오포로 122",
+      "method": null
+    },
+    {
+      "name": "대박찬스",
+      "address": "경기 광주시 송정로 69 나산상가1층4호",
+      "method": null
+    },
+    {
+      "name": "굳프렌즈 일산현대-24시편의점",
+      "address": "경기 고양시 일산서구 일청로 40-1 1층",
+      "method": null
+    },
+    {
+      "name": "신운복권",
+      "address": "강원 정선군 정선로 1333-1 복권방",
+      "method": null
+    },
+    {
+      "name": "로또복권방",
+      "address": "충남 천안시 서북구 쌍용대로 190 상가3호",
+      "method": null
+    },
+    {
+      "name": "로또복권방",
+      "address": "충남 당진시 신복운로4길 21",
+      "method": null
+    },
+    {
+      "name": "영약국",
+      "address": "충남 금산군 인삼로 104",
+      "method": null
+    },
+    {
+      "name": "행운복권방(동아마트연일점)",
+      "address": "    동아마트",
+      "method": null
+    },
+    {
+      "name": "로또 토토 편의점",
+      "address": "경남 창원시 마산합포구 문화남11길 12 이마트24 편의점내",
+      "method": null
+    },
+    {
+      "name": "강남25시편의점",
+      "address": "경남 거제시 옥포대첩로2길 56",
+      "method": null
+    },
+    {
+      "name": "씨유고현점",
+      "address": "경남 거제시 거제중앙로 1841",
+      "method": null
+    }
+  ]
+}

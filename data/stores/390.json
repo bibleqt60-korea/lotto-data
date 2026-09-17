@@ -1,0 +1,199 @@
+{
+  "round": 390,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "행복공간",
+      "address": "서울 강동구 풍성로 115",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "가판14호",
+      "address": "서울 중구 퇴계로 35-1 가판",
+      "method": null
+    },
+    {
+      "name": "성지로또",
+      "address": "서울 송파구 마천로7길 6 대림아파트상가115호",
+      "method": null
+    },
+    {
+      "name": "행복슈퍼",
+      "address": "서울 성북구 동소문로 49",
+      "method": null
+    },
+    {
+      "name": "그루터기(상일쉼터)",
+      "address": "서울 강동구 아리수로76길 21",
+      "method": null
+    },
+    {
+      "name": "광림마트",
+      "address": "서울 강남구 도곡로 213",
+      "method": null
+    },
+    {
+      "name": "부자",
+      "address": "부산 중구 대청로 95 1층담배포",
+      "method": null
+    },
+    {
+      "name": "훼미리마트영도모닝점",
+      "address": "부산 영도구 태종로100번길 3",
+      "method": null
+    },
+    {
+      "name": "CU(서면점)",
+      "address": "부산 부산진구 서면문화로 29",
+      "method": null
+    },
+    {
+      "name": "메트로센터점",
+      "address": "대구 중구 달구벌대로 지하 2100 메트로센터C412호",
+      "method": null
+    },
+    {
+      "name": "L마트",
+      "address": "인천 서해구 승학로 528 아카데미프라자107호",
+      "method": null
+    },
+    {
+      "name": "위앤조이 유천점",
+      "address": "대전 중구 계백로 1624",
+      "method": null
+    },
+    {
+      "name": "GS25(대전선사점)",
+      "address": "대전 서구 월평북로 87",
+      "method": null
+    },
+    {
+      "name": "복권판매소",
+      "address": "대전 동구 동대전로 68",
+      "method": null
+    },
+    {
+      "name": "운천대박복권방",
+      "address": "경기 포천시 영북로 171-1",
+      "method": null
+    },
+    {
+      "name": "에스마트평택점",
+      "address": "경기 평택시 평택로76번길 3 코사마트 편의점",
+      "method": null
+    },
+    {
+      "name": "대박찬스복권방",
+      "address": "경기 용인시 기흥구 상갈로 1",
+      "method": null
+    },
+    {
+      "name": "행운로또복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "행운로또복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "행운로또복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "우리로또복권",
+      "address": "경기 연천군 청신로 91",
+      "method": null
+    },
+    {
+      "name": "영일종합장식",
+      "address": "경기 안산시 단원구 고잔로 112 신광프라자102호",
+      "method": null
+    },
+    {
+      "name": "가판점",
+      "address": "경기 부천시 자유로 33 이마트앞 지하도입구",
+      "method": null
+    },
+    {
+      "name": "복권마트",
+      "address": "경기 부천시 소사로 253 1층",
+      "method": null
+    },
+    {
+      "name": "송내매표소",
+      "address": "경기 부천시 송내대로 37 104호",
+      "method": null
+    },
+    {
+      "name": "로또부자세상",
+      "address": "강원 원주시 천사로 286 1층",
+      "method": null
+    },
+    {
+      "name": "토토군로또양",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "용꿈돼지꿈복권전문점",
+      "address": "강원 동해시 중앙로 234 이주민상가1층15호",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "충북 청주시 청원구 율봉로176번길 8-2",
+      "method": null
+    },
+    {
+      "name": "Letsgo복권유통",
+      "address": "전북 전주시 덕진구 무삼지로 29",
+      "method": null
+    },
+    {
+      "name": "CU(익산동산점)",
+      "address": "전북 익산시 서동로2길 26",
+      "method": null
+    },
+    {
+      "name": "복권왕국",
+      "address": "전남광주 여수시 여수산단로 48 1층101호",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "경북 김천시 신음새동네길 13",
+      "method": null
+    },
+    {
+      "name": "천하명당(용강점)",
+      "address": "경북 경주시 유림로 60",
+      "method": null
+    },
+    {
+      "name": "한아름복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "끌레리띠",
+      "address": "경남 창원시 마산회원구 구암서6길 12",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "경남 김해시 함박로 121 109호 복권판매점",
+      "method": null
+    },
+    {
+      "name": "CU(거제신정점)",
+      "address": "경남 거제시 장평로4길 18",
+      "method": null
+    }
+  ]
+}

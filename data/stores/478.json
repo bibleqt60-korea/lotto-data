@@ -1,0 +1,254 @@
+{
+  "round": 478,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "중구-가로가판대-37",
+      "address": "서울 중구 남대문로 20-2 가판",
+      "method": "자동"
+    },
+    {
+      "name": "GS25(당산역점)",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "G마트",
+      "address": "서울 영등포구 디지털로 387",
+      "method": "수동"
+    },
+    {
+      "name": "로또킹",
+      "address": "서울 영등포구 영중로 2 1층(영등포동3가)",
+      "method": "자동"
+    },
+    {
+      "name": "아트라인",
+      "address": "    화성빌딩104호",
+      "method": "자동"
+    },
+    {
+      "name": "하늘아래명당",
+      "address": "부산 남구 용호로 34 상가동 103호",
+      "method": "자동"
+    },
+    {
+      "name": "이마트24침산명성점",
+      "address": "대구 북구 침산로 153 상가 103동 B2호",
+      "method": "자동"
+    },
+    {
+      "name": "세이마트",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "복권경제연구소",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "돼지네슈퍼",
+      "address": "경기 부천시 소사로 141",
+      "method": "수동"
+    },
+    {
+      "name": "바로전산",
+      "address": "경기 광명시 오리로 1000 (광명동)",
+      "method": "자동"
+    },
+    {
+      "name": "행운복권방 보생당건강원",
+      "address": "전북 익산시 무왕로 1268",
+      "method": "자동"
+    },
+    {
+      "name": "복권천국",
+      "address": "전남광주 목포시 비파로 29 복권천국",
+      "method": "자동"
+    },
+    {
+      "name": "NJOY로또텔레콤",
+      "address": "경북 포항시 남구 상공로 42",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "행운식품",
+      "address": "서울 성북구 동소문로6길 4",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "서울 동대문구 한빛로 1-1",
+      "method": null
+    },
+    {
+      "name": "대박복권마트",
+      "address": "서울 강서구 화곡로 238 1층 104호",
+      "method": null
+    },
+    {
+      "name": "황금돼지",
+      "address": "    이마트 에브리데이 내 위치함.",
+      "method": null
+    },
+    {
+      "name": "황금돼지",
+      "address": "    이마트 에브리데이 내 위치함.",
+      "method": null
+    },
+    {
+      "name": "황금돼지",
+      "address": "    이마트 에브리데이 내 위치함.",
+      "method": null
+    },
+    {
+      "name": "나도대박",
+      "address": "    CU편의점",
+      "method": null
+    },
+    {
+      "name": "꿈꾸는 복권",
+      "address": "    CU엄궁농산물시장점 내",
+      "method": null
+    },
+    {
+      "name": "기장슈퍼",
+      "address": "부산 기장군 차성동로 69",
+      "method": null
+    },
+    {
+      "name": "로또일도점",
+      "address": "대구 북구 학정로 421 일도프라자101호",
+      "method": null
+    },
+    {
+      "name": "복권전문점",
+      "address": "인천 부평구 원적로 437",
+      "method": null
+    },
+    {
+      "name": "훼미리그랜드",
+      "address": "전남광주 동구 의재로 34-1 CU그랜드점내",
+      "method": null
+    },
+    {
+      "name": "로또복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "보람복권방",
+      "address": "울산 남구 화합로194번길 18-1",
+      "method": null
+    },
+    {
+      "name": "수암완구",
+      "address": "울산 남구 수암로 118",
+      "method": null
+    },
+    {
+      "name": "파란만장복권방",
+      "address": "경기 화성시 효행로 1016 101호",
+      "method": null
+    },
+    {
+      "name": "복돼지복권방",
+      "address": "경기 화성시 만세구 3.1만세로 43",
+      "method": null
+    },
+    {
+      "name": "로또복권판매점",
+      "address": "경기 평택시 서정로 237",
+      "method": null
+    },
+    {
+      "name": "로또판매소(비발디점)",
+      "address": "    한라비발디아파트상가101-1호",
+      "method": null
+    },
+    {
+      "name": "복권마을",
+      "address": "경기 안양시 동안구 흥안대로133번길 4 제1동 제1층 제104호",
+      "method": null
+    },
+    {
+      "name": "GS25오리점",
+      "address": "    하나이지타워107호",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "경기 김포시 김포대로 1764 누산마트내",
+      "method": null
+    },
+    {
+      "name": "월드컵복권방",
+      "address": "경기 광주시 경안로 20",
+      "method": null
+    },
+    {
+      "name": "우리별텔레콤(SK백석점)",
+      "address": "충남 천안시 서북구 백석로 116 상가101호",
+      "method": null
+    },
+    {
+      "name": "로또명당인주점",
+      "address": "충남 아산시 서해로 519-2",
+      "method": null
+    },
+    {
+      "name": "돈방석복권방",
+      "address": "충남 논산시 시민로 304",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "전북 익산시 신동로 75 1층",
+      "method": null
+    },
+    {
+      "name": "고인돌대박천국",
+      "address": "전북 고창군 성산2길 7",
+      "method": null
+    },
+    {
+      "name": "화이트마트",
+      "address": "전남광주 여수시 동문로 90-1",
+      "method": null
+    },
+    {
+      "name": "제일마트",
+      "address": "전남광주 나주시 중앙로 21 제일마트",
+      "method": null
+    },
+    {
+      "name": "CU(통영항남점)",
+      "address": "경남 통영시 항남2길 15-11",
+      "method": null
+    },
+    {
+      "name": "CU(마산경남대점)",
+      "address": "경남 창원시 마산합포구 월영북16길 5 1층 CU편의점",
+      "method": null
+    },
+    {
+      "name": "삼삼마트",
+      "address": "경남 진주시 진주대로 1165-1",
+      "method": null
+    },
+    {
+      "name": "GS25 밀양영광점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "티켓코리아",
+      "address": "제주 제주시 관덕로 54-3",
+      "method": null
+    }
+  ]
+}

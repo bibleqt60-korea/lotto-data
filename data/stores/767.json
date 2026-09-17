@@ -1,0 +1,314 @@
+{
+  "round": 767,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "CU(망우점)",
+      "address": "서울 중랑구 망우로 410",
+      "method": "자동"
+    },
+    {
+      "name": "평안당",
+      "address": "서울 종로구 종로 219",
+      "method": "자동"
+    },
+    {
+      "name": "가로판매점",
+      "address": "서울 서대문구 신촌로 99-1 신촌역 3번,4번출구 중앙 가로판매점",
+      "method": "자동"
+    },
+    {
+      "name": "진흥수퍼",
+      "address": "서울 강남구 논현로150길 31",
+      "method": "자동"
+    },
+    {
+      "name": "로또3공단",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "이마트편의점(달서송현)",
+      "address": "대구 달서구 송현로 32",
+      "method": "자동"
+    },
+    {
+      "name": "GS25(대전시네마점)",
+      "address": "대전 서구 용문로 41-88",
+      "method": "수동"
+    },
+    {
+      "name": "GS25(대전시네마점)",
+      "address": "대전 서구 용문로 41-88",
+      "method": "수동"
+    },
+    {
+      "name": "GS25(대전시네마점)",
+      "address": "대전 서구 용문로 41-88",
+      "method": "수동"
+    },
+    {
+      "name": "GS25(대전시네마점)",
+      "address": "대전 서구 용문로 41-88",
+      "method": "수동"
+    },
+    {
+      "name": "GS25(대전시네마점)",
+      "address": "대전 서구 용문로 41-88",
+      "method": "수동"
+    },
+    {
+      "name": "인덕원복권방",
+      "address": "경기 안양시 동안구 흥안대로 523",
+      "method": "수동"
+    },
+    {
+      "name": "CU(정동진모래시계점)",
+      "address": "강원 강릉시 헌화로 1018",
+      "method": "자동"
+    },
+    {
+      "name": "행운복권방",
+      "address": "    1층 편의점",
+      "method": "수동"
+    },
+    {
+      "name": "천하명당(팔용점)",
+      "address": "경남 창원시 의창구 사화로 25",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "바로정보",
+      "address": "서울 양천구 공항대로 562 1층",
+      "method": null
+    },
+    {
+      "name": "그랜드마트앞가판점",
+      "address": "서울 마포구 신촌로 96-1 신촌 전철역 7번출구앞 가판점",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "서울 동작구 국사봉길 26",
+      "method": null
+    },
+    {
+      "name": "스파",
+      "address": "서울 노원구 동일로 1493 주공10단지종합상가111",
+      "method": null
+    },
+    {
+      "name": "스파",
+      "address": "서울 노원구 동일로 1493 주공10단지종합상가111",
+      "method": null
+    },
+    {
+      "name": "동해마트",
+      "address": "부산 동래구 사직북로57번길 58 애니타임 내",
+      "method": null
+    },
+    {
+      "name": "로또판매점(바이더웨이)",
+      "address": "    세븐일레븐내",
+      "method": null
+    },
+    {
+      "name": "국민은행대구지점앞토큰판매소",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "이마트24침산명성점",
+      "address": "대구 북구 침산로 153 상가 103동 B2호",
+      "method": null
+    },
+    {
+      "name": "씨유서구연희로또",
+      "address": "인천 서구 간촌로 3 1층 편의점",
+      "method": null
+    },
+    {
+      "name": "케이(k)천하복권",
+      "address": "인천 부평구 길주로 376",
+      "method": null
+    },
+    {
+      "name": "행운마트",
+      "address": "인천 제물포구 송림로 71-1",
+      "method": null
+    },
+    {
+      "name": "GS25(만수길목점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "세븐일레븐 주안역 지하상가점",
+      "address": "인천 미추홀구 주안로 86 28,29,46,47호",
+      "method": null
+    },
+    {
+      "name": "인천문학점로또판매",
+      "address": "    편의점내",
+      "method": null
+    },
+    {
+      "name": "행복드림로또",
+      "address": "전남광주 광산구 왕버들로 265 1층 103-1호",
+      "method": null
+    },
+    {
+      "name": "모닝마트로또점",
+      "address": "울산 남구 번영로 50",
+      "method": null
+    },
+    {
+      "name": "파란만장복권방",
+      "address": "경기 화성시 효행로 1016 101호",
+      "method": null
+    },
+    {
+      "name": "열두보석복권방",
+      "address": "경기 용인시 기흥구 구갈로 74 구갈스포츠센터106호",
+      "method": null
+    },
+    {
+      "name": "열두보석복권방",
+      "address": "경기 용인시 기흥구 구갈로 74 구갈스포츠센터106호",
+      "method": null
+    },
+    {
+      "name": "코아복권방",
+      "address": "    GS25궐동코아점",
+      "method": null
+    },
+    {
+      "name": "행운복권마트",
+      "address": "경기 안산시 단원구 예술대학로1길 7 근린생활시설동 1층 112호(고잔동. 포레나 안산고잔)",
+      "method": null
+    },
+    {
+      "name": "천하명당안산",
+      "address": "경기 안산시 상록구 수인로 2020 103호",
+      "method": null
+    },
+    {
+      "name": "GS25(안산성포점)",
+      "address": "    선경아파트B상가101호",
+      "method": null
+    },
+    {
+      "name": "드림",
+      "address": "경기 수원시 권선구 정조로613번길 2",
+      "method": null
+    },
+    {
+      "name": "만인의방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "성남양지2호점로또판매",
+      "address": "    양지파크빌딩101호",
+      "method": null
+    },
+    {
+      "name": "복권천국",
+      "address": "경기 부천시 부일로 502",
+      "method": null
+    },
+    {
+      "name": "감정리매표소",
+      "address": "경기 김포시 감정로 13 비 03호",
+      "method": null
+    },
+    {
+      "name": "진우행운복권방",
+      "address": "경기 광주시 도척로 332 1층 5호",
+      "method": null
+    },
+    {
+      "name": "25편의점",
+      "address": "경기 광주시 오포로 514 25편의점",
+      "method": null
+    },
+    {
+      "name": "현대25시편의점",
+      "address": "경기 고양시 일산서구 경의로 862 1층",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "강원 춘천시 춘천로 286-1 1층",
+      "method": null
+    },
+    {
+      "name": "D-마트담배",
+      "address": "강원 속초시 조양상가길 25 롯데마트속초점, 1층 복권판매점",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "충북 청주시 상당구 단재로 119",
+      "method": null
+    },
+    {
+      "name": "참좋은로또판매점",
+      "address": "    참좋은 마트내",
+      "method": null
+    },
+    {
+      "name": "종합복권방",
+      "address": "전남광주 해남군 해남로 34",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "전남광주 순천시 중앙로 61 복권나라",
+      "method": null
+    },
+    {
+      "name": "로또나라",
+      "address": "전남광주 광양시 중마중앙로 126 1층",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "경북 경주시 동문로 46",
+      "method": null
+    },
+    {
+      "name": "피터팬",
+      "address": "경남 창원시 진해구 웅동로 76 1호 복권판매점",
+      "method": null
+    },
+    {
+      "name": "로또방",
+      "address": "경남 창원시 의창구 봉곡로 81",
+      "method": null
+    },
+    {
+      "name": "명당",
+      "address": "경남 진주시 동부로 1356 1층 일부호",
+      "method": null
+    },
+    {
+      "name": "현대로또",
+      "address": "경남 진주시 대신로 195 CU편의점 내",
+      "method": null
+    },
+    {
+      "name": "GS25(양산덕계점)",
+      "address": "경남 양산시 덕계로 85",
+      "method": null
+    },
+    {
+      "name": "CU(사천평화점)",
+      "address": "경남 사천시 수양로 26",
+      "method": null
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "round": 297,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "GS25(명륜중앙점)",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "행운로또복권",
+      "address": "   ",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "하임마트",
+      "address": "서울 중구 퇴계로 439-4 1층",
+      "method": null
+    },
+    {
+      "name": "해피원",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "CU(용산신창점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또판매점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "Q마트",
+      "address": "서울 동작구 장승배기로 146",
+      "method": null
+    },
+    {
+      "name": "버스카드판매대",
+      "address": "서울 관악구 신림로 145-2",
+      "method": null
+    },
+    {
+      "name": "버스카드충전소",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "GS25(대연중앙점)",
+      "address": "부산 남구 수영로 244",
+      "method": null
+    },
+    {
+      "name": "성림슈퍼",
+      "address": "부산 금정구 금강로335번길 106 이마트24편의점 내",
+      "method": null
+    },
+    {
+      "name": "대명편의점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권천하(읍내점)",
+      "address": "    프라임프라자1층코너101",
+      "method": null
+    },
+    {
+      "name": "행운복권",
+      "address": "인천 미추홀구 인하로 354",
+      "method": null
+    },
+    {
+      "name": "프라임24시편의점",
+      "address": "울산 북구 아진로 78",
+      "method": null
+    },
+    {
+      "name": "삼일",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "    새재타운1층101호",
+      "method": null
+    },
+    {
+      "name": "꿈에본그자리",
+      "address": "경기 성남시 중원구 산성대로 458",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "경기 부천시 양지로 205 1층 118호",
+      "method": null
+    },
+    {
+      "name": "팬시코아",
+      "address": "경기 남양주시 퇴계원로 48",
+      "method": null
+    },
+    {
+      "name": "로토피아",
+      "address": "경기 광명시 오리로 371 상가1층102호",
+      "method": null
+    },
+    {
+      "name": "예미로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "행운유통",
+      "address": "강원 원주시 남원로 656 1층",
+      "method": null
+    },
+    {
+      "name": "충청복권전문점",
+      "address": "충남 천안시 서북구 성환2로 108",
+      "method": null
+    },
+    {
+      "name": "777천하명당",
+      "address": "충남 서천군 충절로 54",
+      "method": null
+    },
+    {
+      "name": "학동복권나라",
+      "address": "전남광주 여수시 흥국로 6",
+      "method": null
+    },
+    {
+      "name": "씨스페이스 경주세방매점",
+      "address": "경북 경주시 산업로 4447 (용강동)",
+      "method": null
+    },
+    {
+      "name": "대길통상",
+      "address": "경북 경산시 공단로 478",
+      "method": null
+    },
+    {
+      "name": "GS25(마산창동점)",
+      "address": "경남 창원시 마산합포구 3·15대로 376",
+      "method": null
+    },
+    {
+      "name": "덕산로또",
+      "address": "    덕산베스트타운101",
+      "method": null
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "round": 531,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "일등복권편의점",
+      "address": "대구 달서구 대명천로 220 1층",
+      "method": "자동"
+    },
+    {
+      "name": "GS25(부평여산점)",
+      "address": "인천 부평구 부평대로 90 여산빌딩",
+      "method": "자동"
+    },
+    {
+      "name": "왕대박복권편의점",
+      "address": "인천 부평구 동수천로 108 1층",
+      "method": "자동"
+    },
+    {
+      "name": "운수대통",
+      "address": "인천 남동구 석정로 479",
+      "method": "자동"
+    },
+    {
+      "name": "로또복권방",
+      "address": "경기 평택시 지산로37번길 76",
+      "method": "수동"
+    },
+    {
+      "name": "노다지복권방",
+      "address": "경기 용인시 처인구 금령로 130",
+      "method": "자동"
+    },
+    {
+      "name": "메트로복권",
+      "address": "경기 성남시 분당구 성남대로916번길 5 1층 112호",
+      "method": "자동"
+    },
+    {
+      "name": "CU(포남뷰티점)",
+      "address": "강원 강릉시 남구길18번길 44",
+      "method": "자동"
+    },
+    {
+      "name": "불국사명당복권",
+      "address": "경북 경주시 산업로 3033",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "센타포인트명동앞복지가판점",
+      "address": "서울 중구 남대문로 84-3 가판",
+      "method": null
+    },
+    {
+      "name": "센타포인트명동앞복지가판점",
+      "address": "서울 중구 남대문로 84-3 가판",
+      "method": null
+    },
+    {
+      "name": "가로판매대제152호(신)",
+      "address": "서울 중구 남대문로 112-3 가판",
+      "method": null
+    },
+    {
+      "name": "델타슈퍼",
+      "address": "서울 용산구 한강대로38가길 11 1층",
+      "method": null
+    },
+    {
+      "name": "씨스페이스(영등포점)",
+      "address": "서울 영등포구 시흥대로 607 1동 9호",
+      "method": null
+    },
+    {
+      "name": "노다지",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "제이마트 (J-Mart)",
+      "address": "    센트럴씨티101호",
+      "method": null
+    },
+    {
+      "name": "청수마트",
+      "address": "서울 서초구 강남대로10길 36",
+      "method": null
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "경성식품",
+      "address": "서울 동대문구 망우로21길 52",
+      "method": null
+    },
+    {
+      "name": "노다지방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "서울 강북구 삼양로 306",
+      "method": null
+    },
+    {
+      "name": "가로판매점",
+      "address": "    가판",
+      "method": null
+    },
+    {
+      "name": "쌍둥이네복권방",
+      "address": "서울 강동구 올림픽로 800 1층",
+      "method": null
+    },
+    {
+      "name": "현대상회로또점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "훼밀리복권",
+      "address": "부산 금정구 중앙대로1719번길 37 우측 복권판매점",
+      "method": null
+    },
+    {
+      "name": "매표소",
+      "address": "인천 부평구 마장로 296 롯데마트앞",
+      "method": null
+    },
+    {
+      "name": "찬스센터",
+      "address": "인천 남동구 남동대로370번길 114 상가동 1층 101호",
+      "method": null
+    },
+    {
+      "name": "명당편의점",
+      "address": "광주 서구 유림로98번길 39",
+      "method": null
+    },
+    {
+      "name": "풍향동복권나라",
+      "address": "전남광주 북구 필문대로 79",
+      "method": null
+    },
+    {
+      "name": "대광광고사",
+      "address": "대전 유성구 구즉로 54",
+      "method": null
+    },
+    {
+      "name": "로또.토토.블루베리",
+      "address": "경기 평택시 안현로서6길 7 105호",
+      "method": null
+    },
+    {
+      "name": "해피타임",
+      "address": "경기 평택시 서동대로 2044",
+      "method": null
+    },
+    {
+      "name": "OK편의점",
+      "address": "경기 이천시 중리천로 56 1층",
+      "method": null
+    },
+    {
+      "name": "안양1번가버스표가판점",
+      "address": "    안양이안과병원 앞 가판점",
+      "method": null
+    },
+    {
+      "name": "봉의산마트",
+      "address": "강원 춘천시 춘천로 326 1층",
+      "method": null
+    },
+    {
+      "name": "충주복권명당",
+      "address": "충북 충주시 예성로 23",
+      "method": null
+    },
+    {
+      "name": "행운복권방공단오거리점",
+      "address": "충북 청주시 흥덕구 산단로 4",
+      "method": null
+    },
+    {
+      "name": "복권왕국",
+      "address": "충북 제천시 풍양로 108 지하145",
+      "method": null
+    },
+    {
+      "name": "청룡마트",
+      "address": "충남 천안시 동남구 풍세로 1010-31 현대아파트상가B-102호",
+      "method": null
+    },
+    {
+      "name": "팡팡복권마트.잡화슈퍼",
+      "address": "전북 전주시 덕진구 가리내로 26",
+      "method": null
+    },
+    {
+      "name": "복권매니아",
+      "address": "전북 전주시 덕진구 기린대로 523",
+      "method": null
+    },
+    {
+      "name": "복권천국",
+      "address": "전남광주 무안군 무안로 506 복권천국",
+      "method": null
+    },
+    {
+      "name": "한솔복권방",
+      "address": "전남 목포시 수문로 62 한솔복권방",
+      "method": null
+    },
+    {
+      "name": "GS25(포항시청점)",
+      "address": "경북 포항시 남구 대이로 58",
+      "method": null
+    },
+    {
+      "name": "로또복권로손김천역점",
+      "address": "경북 김천시 영남대로 1294",
+      "method": null
+    },
+    {
+      "name": "양지서점",
+      "address": "경북 김천시 평화길 152",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "경북 경주시 동문로 46",
+      "method": null
+    },
+    {
+      "name": "씨스페이스 경주세방매점",
+      "address": "경북 경주시 산업로 4447 (용강동)",
+      "method": null
+    },
+    {
+      "name": "나리복권방",
+      "address": "    개나리3차아파트상가 113호 이마트24편의점",
+      "method": null
+    },
+    {
+      "name": "나리복권방",
+      "address": "    개나리3차아파트상가 113호 이마트24편의점",
+      "method": null
+    },
+    {
+      "name": "씨유 거창마리점",
+      "address": "경남 거창군 거안로 838 CU편의점 내",
+      "method": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "round": 269,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "서울복권방",
+      "address": "서울 중랑구 동일로 809-1",
+      "method": "자동"
+    },
+    {
+      "name": "가판",
+      "address": "서울 마포구 마포대로 58 가든호텔정문옆가판",
+      "method": "자동"
+    },
+    {
+      "name": "스파",
+      "address": "서울 노원구 동일로 1493 주공10단지종합상가111",
+      "method": "자동"
+    },
+    {
+      "name": "제일통신",
+      "address": "    대호프라자1층106",
+      "method": "자동"
+    },
+    {
+      "name": "버스카드판매대",
+      "address": "서울 관악구 신림로 145-2",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "훼미리마트(신당대성점)",
+      "address": null,
+      "method": null
+    },
+    {
+      "name": "통일기금닷컴",
+      "address": "    이삭토스트",
+      "method": null
+    },
+    {
+      "name": "방배세양로또",
+      "address": "    세양아르비체 1층 미니스톱마트",
+      "method": null
+    },
+    {
+      "name": "공덕알파",
+      "address": "서울 마포구 독막로 146 1층 102호",
+      "method": null
+    },
+    {
+      "name": "정우로또",
+      "address": "서울 강동구 양재대로112길 23 1층",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "서울 강동구 천호대로170길 47 1층",
+      "method": null
+    },
+    {
+      "name": "버스카드충전소",
+      "address": "서울 강남구 테헤란로 625 삼성동 덕명빌딩 앞",
+      "method": null
+    },
+    {
+      "name": "한울마트",
+      "address": "    1층GS편의점",
+      "method": null
+    },
+    {
+      "name": "복권왕국",
+      "address": "대구 북구 칠곡중앙대로 632",
+      "method": null
+    },
+    {
+      "name": "천하복권방",
+      "address": "인천 제물포구 신포로 19",
+      "method": null
+    },
+    {
+      "name": "천하제일복권명당",
+      "address": "대전 동구 새울로 93",
+      "method": null
+    },
+    {
+      "name": "아트플라워",
+      "address": "경기 용인시 처인구 백옥대로 1109",
+      "method": null
+    },
+    {
+      "name": "대호상사",
+      "address": "    GS25",
+      "method": null
+    },
+    {
+      "name": "로또전문점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "하나로 복권",
+      "address": "강원 춘천시 지석로 11 하나로마트 퇴계점(정문출입구 왼쪽첫번째 상가)",
+      "method": null
+    },
+    {
+      "name": "황금복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "삼팔로또",
+      "address": "충남 서천군 충절로 34",
+      "method": null
+    },
+    {
+      "name": "영약국",
+      "address": "충남 금산군 인삼로 104",
+      "method": null
+    },
+    {
+      "name": "나주대호로또복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "우주로또판매",
+      "address": "    가야빌딩1층",
+      "method": null
+    },
+    {
+      "name": "울트라마트",
+      "address": "    갑오마을부영아파트8차상가지하101호",
+      "method": null
+    },
+    {
+      "name": "로또통신",
+      "address": "경남 김해시 함박로101번길 22 삼우빌딩104호 복권판매점",
+      "method": null
+    }
+  ]
+}

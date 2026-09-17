@@ -1,0 +1,159 @@
+{
+  "round": 314,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "가로판매점117호",
+      "address": "서울 중구 장충단로 253-1 가판대",
+      "method": "자동"
+    },
+    {
+      "name": "팡팡복권방",
+      "address": "    1층",
+      "method": "수동"
+    },
+    {
+      "name": "탑포인트부평점",
+      "address": "    1층",
+      "method": "자동"
+    },
+    {
+      "name": "로또주안점",
+      "address": "    편의점내",
+      "method": "자동"
+    },
+    {
+      "name": "천하제일복권명당",
+      "address": "대전 동구 새울로 93",
+      "method": "수동"
+    },
+    {
+      "name": "훼미리마트(원주터미널)",
+      "address": null,
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "삼우식품",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "지에스25신트리1단지점",
+      "address": "서울 양천구 신정로 293 상가 103호 GS25신트리1단지점",
+      "method": null
+    },
+    {
+      "name": "소리텔레콤",
+      "address": "    영빌딩104호",
+      "method": null
+    },
+    {
+      "name": "스파",
+      "address": "서울 노원구 동일로 1493 주공10단지종합상가111",
+      "method": null
+    },
+    {
+      "name": "대박가판장",
+      "address": "서울 강동구 양재대로 1627 가판점",
+      "method": null
+    },
+    {
+      "name": "대박",
+      "address": "서울 강남구 일원로3길 66 1층",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "    기장아름공원점내",
+      "method": null
+    },
+    {
+      "name": "드림존",
+      "address": "인천 제물포구 방축로83번길 23 인천산업용품센터편익상가B-102",
+      "method": null
+    },
+    {
+      "name": "CU(달동초이스점)",
+      "address": "울산 남구 화합로125번길 9",
+      "method": null
+    },
+    {
+      "name": "광성슈퍼",
+      "address": "경기 이천시 단월로 33 1층",
+      "method": null
+    },
+    {
+      "name": "광성슈퍼",
+      "address": "경기 이천시 단월로 33 1층",
+      "method": null
+    },
+    {
+      "name": "대박미니수퍼",
+      "address": "경기 안성시 중앙대학로 121",
+      "method": null
+    },
+    {
+      "name": "산본로또복권",
+      "address": "    산본타운빌딩GS25편의점",
+      "method": null
+    },
+    {
+      "name": "창원편의점",
+      "address": "강원 원주시 모란1길 69 1층",
+      "method": null
+    },
+    {
+      "name": "CU(태장점)",
+      "address": "강원 원주시 북원로 2718-1 1층 CU편의점",
+      "method": null
+    },
+    {
+      "name": "양수로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또",
+      "address": "충남 홍성군 조양로 162",
+      "method": null
+    },
+    {
+      "name": "대영멋쟁이마트",
+      "address": "전북 완주군 왕궁로 10",
+      "method": null
+    },
+    {
+      "name": "도깨비방망이",
+      "address": "전남광주 완도군 장보고대로 220 도깨비방망이",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "경북 포항시 남구 중섬로 26",
+      "method": null
+    },
+    {
+      "name": "일등복권",
+      "address": "경북 구미시 신시로10길 80 1층",
+      "method": null
+    },
+    {
+      "name": "세븐마트",
+      "address": "경남 진주시 가좌길 71",
+      "method": null
+    },
+    {
+      "name": "구산복권방",
+      "address": "경남 김해시 가락로 291 보보스빌딩 107호",
+      "method": null
+    },
+    {
+      "name": "씨스페이스(삼정점)",
+      "address": "   ",
+      "method": null
+    }
+  ]
+}

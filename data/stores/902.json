@@ -1,0 +1,409 @@
+{
+  "round": 902,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "로또",
+      "address": "서울 중구 퇴계로86길 42",
+      "method": "자동"
+    },
+    {
+      "name": "인터넷 복권판매사이트",
+      "address": "동행복권(dhlottery.co.kr)",
+      "method": "수동"
+    },
+    {
+      "name": "복권나라",
+      "address": "서울 관악구 남부순환로 1739-9 1층",
+      "method": "수동"
+    },
+    {
+      "name": "코코마켓",
+      "address": "서울 강서구 화곡로 137",
+      "method": "자동"
+    },
+    {
+      "name": "동일통신",
+      "address": "부산 해운대구 선수촌로 16",
+      "method": "자동"
+    },
+    {
+      "name": "GS25(부산미남점)",
+      "address": "부산 동래구 미남로 131",
+      "method": "자동"
+    },
+    {
+      "name": "연우로또",
+      "address": "인천 계양구 향교로 32-1 1층",
+      "method": "자동"
+    },
+    {
+      "name": "부자로또",
+      "address": "울산 남구 월평로 238 지바트카프라자",
+      "method": "자동"
+    },
+    {
+      "name": "아이지에이마트 부천심곡본점",
+      "address": "경기 부천시 경인로224번길 91 1층 슈퍼",
+      "method": "자동"
+    },
+    {
+      "name": "나래복권",
+      "address": "충북 충주시 충원대로 952 1층",
+      "method": "수동"
+    },
+    {
+      "name": "승일유통",
+      "address": "충북 청주시 흥덕구 월명로 42",
+      "method": "자동"
+    },
+    {
+      "name": "복권나라",
+      "address": "충북 증평군 중앙로 199-1",
+      "method": "수동"
+    },
+    {
+      "name": "서울로또방",
+      "address": "충북 옥천군 삼금로 8",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "로또복권(서일타운)",
+      "address": "서울 중랑구 상봉로 7 105호",
+      "method": null
+    },
+    {
+      "name": "행운마트",
+      "address": "서울 중구 마른내로 54-1 1층",
+      "method": null
+    },
+    {
+      "name": "일공일사(1014)",
+      "address": "서울 성북구 성북로 31",
+      "method": null
+    },
+    {
+      "name": "네잎클로버복권방",
+      "address": "서울 동대문구 사가정로 230 편의점 부분임차",
+      "method": null
+    },
+    {
+      "name": "스파",
+      "address": "서울 노원구 동일로 1493 주공10단지종합상가111",
+      "method": null
+    },
+    {
+      "name": "지원물산",
+      "address": "서울 노원구 공릉로 108",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방독산점",
+      "address": "서울 금천구 독산로85길 16",
+      "method": null
+    },
+    {
+      "name": "로또 光복권",
+      "address": "서울 구로구 개봉로23가길 37",
+      "method": null
+    },
+    {
+      "name": "대성미니슈퍼",
+      "address": "서울 관악구 남부순환로 1413 1층",
+      "method": null
+    },
+    {
+      "name": "명당마트",
+      "address": "서울 강서구 양천로 91",
+      "method": null
+    },
+    {
+      "name": "또와식품",
+      "address": "서울 강서구 양천로 694",
+      "method": null
+    },
+    {
+      "name": "성내 해뜨는 복권방",
+      "address": "서울 강동구 양재대로89길 52 102호",
+      "method": null
+    },
+    {
+      "name": "행운로또",
+      "address": "부산 사하구 다대로 435 603호",
+      "method": null
+    },
+    {
+      "name": "GS25(사하중앙점)",
+      "address": "부산 사하구 감천로 55",
+      "method": null
+    },
+    {
+      "name": "감전복권방",
+      "address": "부산 사상구 새벽시장로 59",
+      "method": null
+    },
+    {
+      "name": "스파편의점",
+      "address": "부산 사상구 가야대로 288 창조상가106호",
+      "method": null
+    },
+    {
+      "name": "감전복권방",
+      "address": "부산 사상구 새벽시장로 59",
+      "method": null
+    },
+    {
+      "name": "신암편의점",
+      "address": "부산 금정구 중앙대로 2002 복권판매점",
+      "method": null
+    },
+    {
+      "name": "진슈퍼",
+      "address": "대구 수성구 무열로 159 (만촌동)1층,우측상가",
+      "method": null
+    },
+    {
+      "name": "세진전자통신",
+      "address": "대구 서구 서대구로 156",
+      "method": null
+    },
+    {
+      "name": "GS25(성서이곡점)",
+      "address": "대구 달서구 선원남로 90",
+      "method": null
+    },
+    {
+      "name": "CU(경서1지구점)",
+      "address": "인천 서구 경서로 70",
+      "method": null
+    },
+    {
+      "name": "마이복권",
+      "address": "인천 서해구 탁옥로 76 한국상가제1층101호",
+      "method": null
+    },
+    {
+      "name": "서창동 로또방",
+      "address": "인천 남동구 서창남순환로 222 1층 106호",
+      "method": null
+    },
+    {
+      "name": "복권왕국",
+      "address": "인천 남동구 백범로360번길 2",
+      "method": null
+    },
+    {
+      "name": "한마음병원앞버스매표소",
+      "address": "인천 계양구 계양대로 53",
+      "method": null
+    },
+    {
+      "name": "일등복권슈퍼",
+      "address": "전남광주 동구 제봉로 98",
+      "method": null
+    },
+    {
+      "name": "지에스(GS)25 신가부영점",
+      "address": "전남광주 광산구 수등로 287 부영상가1층112호",
+      "method": null
+    },
+    {
+      "name": "프렌드24시",
+      "address": "전남광주 광산구 첨단중앙로 164 빌리오네2  제1층 106호",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방역전점",
+      "address": "대전 동구 대전로 815",
+      "method": null
+    },
+    {
+      "name": "영24시",
+      "address": "울산 동구 월봉로 60",
+      "method": null
+    },
+    {
+      "name": "나눔로또",
+      "address": "세종   운주산로 1164 2동",
+      "method": null
+    },
+    {
+      "name": "대박예감",
+      "address": "경기 화성시 병점구 영통로 36 1층",
+      "method": null
+    },
+    {
+      "name": "GS25(안양병목점)",
+      "address": "경기 안양시 만안구 병목안로 8 신광빌딩",
+      "method": null
+    },
+    {
+      "name": "세븐일레븐 홍익점",
+      "address": "경기 안성시 종합운동장로 161",
+      "method": null
+    },
+    {
+      "name": "GS25(안산팔곡점)",
+      "address": "경기 안산시 상록구 본이로 83 1층 101호",
+      "method": null
+    },
+    {
+      "name": "도깨비방망이 로또",
+      "address": "경기 안산시 상록구 이동로 36 107호",
+      "method": null
+    },
+    {
+      "name": "따따블 대박로또",
+      "address": "경기 시흥시 서울대학로278번길 26 110호",
+      "method": null
+    },
+    {
+      "name": "로또명당",
+      "address": "경기 시흥시 신현로 21-1 101호",
+      "method": null
+    },
+    {
+      "name": "GS25(수원행복점)",
+      "address": "경기 수원시 영통구 덕영대로1555번길 13 세일빌딩111호",
+      "method": null
+    },
+    {
+      "name": "쌍굴다리슈퍼",
+      "address": "경기 부천시 부천로 173 1층 일부",
+      "method": null
+    },
+    {
+      "name": "복권마트",
+      "address": "경기 부천시 소사로 253 1층",
+      "method": null
+    },
+    {
+      "name": "가판점",
+      "address": "경기 부천시 자유로 33 이마트앞 지하도입구",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "경기 부천시 삼작로 305 성진그린타운102-102",
+      "method": null
+    },
+    {
+      "name": "복권판매점 중대물빛공원점",
+      "address": "경기 광주시 순암로 289 시진상가 맞은편 1층",
+      "method": null
+    },
+    {
+      "name": "복권명당(광주시청점)",
+      "address": "경기 광주시 회안대로 900 로얄프라자 115호",
+      "method": null
+    },
+    {
+      "name": "천하명당",
+      "address": "강원 철원군 금학로 195-2",
+      "method": null
+    },
+    {
+      "name": "부광로또토토대박점",
+      "address": "충북 청주시 서원구 창신로25번길 7",
+      "method": null
+    },
+    {
+      "name": "에벤에셀복권방",
+      "address": "충북 청주시 상당구 중고개로142번길 31 시티프라디움1단지 상가3동 1층 118호",
+      "method": null
+    },
+    {
+      "name": "크로바슈퍼",
+      "address": "충북 제천시 의병대로 232 1층 크로바슈퍼",
+      "method": null
+    },
+    {
+      "name": "로또복권나눔커피",
+      "address": "충남 아산시 모산로 163 1층",
+      "method": null
+    },
+    {
+      "name": "로또명당인주점",
+      "address": "충남 아산시 서해로 519-2",
+      "method": null
+    },
+    {
+      "name": "필로또복권",
+      "address": "충남 서산시 호수공원6로 64 1층",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "충남 부여군 사비로 45 1층",
+      "method": null
+    },
+    {
+      "name": "행운로또",
+      "address": "전남광주 여수시 상암로 627-1 상암초 부근",
+      "method": null
+    },
+    {
+      "name": "조례로또복권방",
+      "address": "전남광주 순천시 봉화2길 58 조례로또복권방",
+      "method": null
+    },
+    {
+      "name": "성심상회",
+      "address": "경북 포항시 북구 불종로 78",
+      "method": null
+    },
+    {
+      "name": "CU(구미사곡점)",
+      "address": "경북 구미시 상사동로 151-4",
+      "method": null
+    },
+    {
+      "name": "복권천하명당(선산점)",
+      "address": "경북 구미시 남문로4길 19",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "경북 구미시 구미중앙로 72",
+      "method": null
+    },
+    {
+      "name": "행운복권",
+      "address": "경북 구미시 야은로 763",
+      "method": null
+    },
+    {
+      "name": "이마트24 R창원상남점",
+      "address": "경남 창원시 성산구 마디미로 10 이마트24 R창원상남점",
+      "method": null
+    },
+    {
+      "name": "영건",
+      "address": "경남 양산시 새실로 159 A동113호 복권판매점",
+      "method": null
+    },
+    {
+      "name": "목화휴게소",
+      "address": "경남 사천시 사천대로 912",
+      "method": null
+    },
+    {
+      "name": "빙그레 돈벼락 맞는곳",
+      "address": "경남 김해시 김해대로 910 좌측 복권판매점",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "경남 거제시 옥포성안로 60",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "경남 거제시 옥포성안로 60",
+      "method": null
+    }
+  ]
+}

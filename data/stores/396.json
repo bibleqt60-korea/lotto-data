@@ -1,0 +1,189 @@
+{
+  "round": 396,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "영광정보통신",
+      "address": "서울 성북구 화랑로 92 1층 우측1호",
+      "method": "자동"
+    },
+    {
+      "name": "CU(여주ＩＣ점)",
+      "address": "경기 여주시 세종로 390",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "해태24시",
+      "address": "서울 양천구 곰달래로 11 1층 2호",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "서울 성동구 연무장7길 5 1층 1호",
+      "method": null
+    },
+    {
+      "name": "-",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "다모아복권명당",
+      "address": "서울 구로구 서해안로30길 13-7 1층",
+      "method": null
+    },
+    {
+      "name": "한마음",
+      "address": "서울 관악구 관악로 211 봉천중앙시장라열4호",
+      "method": null
+    },
+    {
+      "name": "복권천국",
+      "address": "서울 강서구 방화대로33길 66",
+      "method": null
+    },
+    {
+      "name": "로또",
+      "address": "서울 강동구 올림픽로92길 66",
+      "method": null
+    },
+    {
+      "name": "행복이가득한집",
+      "address": "부산 영도구 동삼로 89 1층 복권방",
+      "method": null
+    },
+    {
+      "name": "셀프카메라",
+      "address": "부산 부산진구 가야대로443번길 32 1층 101호",
+      "method": null
+    },
+    {
+      "name": "녹산로또",
+      "address": "부산 강서구 녹산산단335로 12-7 1층",
+      "method": null
+    },
+    {
+      "name": "승차권판매소",
+      "address": "    지선도로",
+      "method": null
+    },
+    {
+      "name": "돈벼락복권방",
+      "address": "대구 북구 동변로 82-1 1층",
+      "method": null
+    },
+    {
+      "name": "훼미리로또(성서공단)",
+      "address": "    CU편의점 내",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "인천 미추홀구 토금북로 47",
+      "method": null
+    },
+    {
+      "name": "인생대역전",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "SM정보통신",
+      "address": "전남광주 북구 북문대로 242",
+      "method": null
+    },
+    {
+      "name": "한꿈복권방",
+      "address": "울산 중구 번영로 586",
+      "method": null
+    },
+    {
+      "name": "신행운로또방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또판매점",
+      "address": "    디엔씨빌딩104호",
+      "method": null
+    },
+    {
+      "name": "대박행진 복권랜드",
+      "address": "경기 파주시 금빛로 22 금촌프라자107호",
+      "method": null
+    },
+    {
+      "name": "정우",
+      "address": "경기 용인시 처인구 백옥대로 574 C동상가",
+      "method": null
+    },
+    {
+      "name": "행운방",
+      "address": "    엔림프라자101호",
+      "method": null
+    },
+    {
+      "name": "플러스원(복권방)",
+      "address": "경기 오산시 오산로 214 1층 107호",
+      "method": null
+    },
+    {
+      "name": "안산삼성홈플러스로또복권판매점",
+      "address": "경기 안산시 단원구 광덕대로 175 홈플러스 내 1층",
+      "method": null
+    },
+    {
+      "name": "내동마트24시복권방",
+      "address": "경기 부천시 평천로751번길 18 1층",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "경기 김포시 김포대로 1764 누산마트내",
+      "method": null
+    },
+    {
+      "name": "SoundWave",
+      "address": "경기 광명시 오리로 956",
+      "method": null
+    },
+    {
+      "name": "이마트24백석동문점",
+      "address": "경기 고양시 일산동구 호수로 358-26 203동1층 101호",
+      "method": null
+    },
+    {
+      "name": "맨투맨복권방",
+      "address": "충북 청주시 흥덕구 송화로166번길 14 편의점",
+      "method": null
+    },
+    {
+      "name": "복덩어리",
+      "address": "충북 청주시 서원구 1순환로1107번길 21 1층 110호",
+      "method": null
+    },
+    {
+      "name": "토토와로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "LH로또",
+      "address": "전북 전주시 완산구 호암로 91",
+      "method": null
+    },
+    {
+      "name": "대박찬스",
+      "address": "전북 군산시 칠성로 164",
+      "method": null
+    },
+    {
+      "name": "대박휴게소",
+      "address": "    남해고속도로 문산휴게소",
+      "method": null
+    }
+  ]
+}

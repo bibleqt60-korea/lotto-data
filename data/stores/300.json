@@ -1,0 +1,239 @@
+{
+  "round": 300,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "로또복권판매소",
+      "address": "서울 구로구 디지털로27길 103 1층(가리봉동)",
+      "method": "자동"
+    },
+    {
+      "name": "부일카서비스",
+      "address": "부산 동구 자성로133번길 35",
+      "method": "자동"
+    },
+    {
+      "name": "로또복권신매점 ",
+      "address": "대구 수성구 달구벌대로 3233 신매동 효성백년가약상가 401동7호",
+      "method": "수동"
+    },
+    {
+      "name": "로또복권",
+      "address": "대구 동구 아양로 294 1층",
+      "method": "자동"
+    },
+    {
+      "name": "일등복권편의점",
+      "address": "대구 달서구 대명천로 220 1층",
+      "method": "수동"
+    },
+    {
+      "name": "풍향동복권나라",
+      "address": "전남광주 북구 필문대로 79",
+      "method": "자동"
+    },
+    {
+      "name": "행운방",
+      "address": "    엔림프라자101호",
+      "method": "자동"
+    },
+    {
+      "name": "일록로또복권방",
+      "address": "경기 수원시 장안구 파장로 70 1층 브레페",
+      "method": "수동"
+    },
+    {
+      "name": "일록로또복권방",
+      "address": "경기 수원시 장안구 파장로 70 1층 브레페",
+      "method": "수동"
+    },
+    {
+      "name": "오렌지25",
+      "address": "경기 고양시 일산서구 고봉로 291 양우에이스스타디움109",
+      "method": "자동"
+    },
+    {
+      "name": "씨유 함양한주점",
+      "address": "경남 함양군 고운로 80-1",
+      "method": "자동"
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "경남 거제시 옥포성안로 60",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "대박로또",
+      "address": "서울 영등포구 영등포로53길 17 1층 (영등포동2가)",
+      "method": null
+    },
+    {
+      "name": "뉴현대칼라",
+      "address": "서울 동작구 상도로 143 1층 3호",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "서울 광진구 자양로18길 34 1층",
+      "method": null
+    },
+    {
+      "name": "난향복권방",
+      "address": "서울 관악구 난곡로 82 1층",
+      "method": null
+    },
+    {
+      "name": "현대마트",
+      "address": "서울 강서구 공항대로 649 103호",
+      "method": null
+    },
+    {
+      "name": "현아상회",
+      "address": "부산 남구 동명로145번길 3",
+      "method": null
+    },
+    {
+      "name": "복권명당(서변점)",
+      "address": "대구 북구 서변로 91",
+      "method": null
+    },
+    {
+      "name": "성공마트",
+      "address": "대구 달서구 비슬로 2694",
+      "method": null
+    },
+    {
+      "name": "운천점(복권나라)",
+      "address": "전남광주 서구 운천로 153 1층",
+      "method": null
+    },
+    {
+      "name": "송정복권명당",
+      "address": "울산 북구 화산6길 8 1층. 106호",
+      "method": null
+    },
+    {
+      "name": "울트라복권방",
+      "address": "    김밥천국 내",
+      "method": null
+    },
+    {
+      "name": "로또왕대박",
+      "address": "경기 화성시 효행구 와우안길 46 1층",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "경기 포천시 죽엽산로35번길 1",
+      "method": null
+    },
+    {
+      "name": "25시로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "둔전행운복권방",
+      "address": "경기 용인시 처인구 포곡로 110",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "경기 안성시 중앙로 424",
+      "method": null
+    },
+    {
+      "name": "GS25(안산산호점)",
+      "address": "경기 안산시 단원구 선부광장1로 69",
+      "method": null
+    },
+    {
+      "name": "썬마트서현점",
+      "address": "    126호",
+      "method": null
+    },
+    {
+      "name": "GS25(구리하나점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "엔젤로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "대박로또복권방",
+      "address": "충북 청주시 흥덕구 직지대로 623 신한은행 옆 가판점",
+      "method": null
+    },
+    {
+      "name": "왕대박복권방",
+      "address": "충북 청주시 청원구 두릉유리로 1119",
+      "method": null
+    },
+    {
+      "name": "로또명당 청원점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "영화마을복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "작은신부",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또명당금산점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "하나복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "전북 익산시 선화로 130",
+      "method": null
+    },
+    {
+      "name": "꿈동산복권방",
+      "address": "    세븐일레븐",
+      "method": null
+    },
+    {
+      "name": "로터리편의마트",
+      "address": "경북 포항시 북구 서동로 85 육거리",
+      "method": null
+    },
+    {
+      "name": "태금편의점",
+      "address": "경남 창원시 마산회원구 옥정3길 25 신축건물1층",
+      "method": null
+    },
+    {
+      "name": "시네마천국",
+      "address": "경남 거창군 거열로 143-1",
+      "method": null
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "round": 603,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "복권파티",
+      "address": "서울 송파구 오금로 516",
+      "method": "자동"
+    },
+    {
+      "name": "삼정그린환경",
+      "address": "서울 강동구 양재대로 1355 오스카상가136호",
+      "method": "수동"
+    },
+    {
+      "name": "HX복권방",
+      "address": "경기 이천시 경충대로 2106 현대시티플라자106호",
+      "method": "자동"
+    },
+    {
+      "name": "청룡마트",
+      "address": "충남 천안시 동남구 풍세로 1010-31 현대아파트상가B-102호",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "바로정보",
+      "address": "서울 양천구 공항대로 562 1층",
+      "method": null
+    },
+    {
+      "name": "미래통신",
+      "address": "서울 성북구 장월로 118-1",
+      "method": null
+    },
+    {
+      "name": "신문가판대",
+      "address": "    가판",
+      "method": null
+    },
+    {
+      "name": "꽃돼지복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "서울 동대문구 천호대로 10 광일빌딩102호",
+      "method": null
+    },
+    {
+      "name": "스파",
+      "address": "서울 노원구 동일로 1493 주공10단지종합상가111",
+      "method": null
+    },
+    {
+      "name": "세븐일레븐 강변테크노마트점",
+      "address": "서울 광진구 광나루로56길 85 테크노마트지하판매동1층D004",
+      "method": null
+    },
+    {
+      "name": "교통카드판매소",
+      "address": "서울 강북구 도봉로 345 가판",
+      "method": null
+    },
+    {
+      "name": "행운플러스",
+      "address": "부산 사상구 괘감로 97 1층",
+      "method": null
+    },
+    {
+      "name": "동원무지개로또",
+      "address": "    남영상가3-1호 해피타임편의점",
+      "method": null
+    },
+    {
+      "name": "슈퍼복권나라",
+      "address": "부산 부산진구 범일로142번길 31 1층 복권방",
+      "method": null
+    },
+    {
+      "name": "대박베팅샾",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "1등다수복권마트",
+      "address": "대구 북구 팔달로27길 81 1층",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "대전 중구 목중로 47",
+      "method": null
+    },
+    {
+      "name": "코만도",
+      "address": "대전 대덕구 석봉로43번길 1",
+      "method": null
+    },
+    {
+      "name": "그린복권방",
+      "address": "울산 북구 상방로 88",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "경기 포천시 솔모루로 86-1",
+      "method": null
+    },
+    {
+      "name": "1등 되는날",
+      "address": "경기 안성시 기업단지로 2 1층",
+      "method": null
+    },
+    {
+      "name": "로또복권판매",
+      "address": "경기 부천시 신흥로 190 위브더스테이트 102동 111호 CU부천위브점",
+      "method": null
+    },
+    {
+      "name": "복권닷컴",
+      "address": "경기 부천시 중동로 404 1층",
+      "method": null
+    },
+    {
+      "name": "세희사랑방",
+      "address": "경기 남양주시 경춘로1350번길 35 리치플러스빌딩 110",
+      "method": null
+    },
+    {
+      "name": "화인",
+      "address": "경기 구리시 원수택로 38",
+      "method": null
+    },
+    {
+      "name": "바른 복권판매점",
+      "address": "경기 고양시 일산서구 현중로 32",
+      "method": null
+    },
+    {
+      "name": "굿프랜드로또",
+      "address": "    101호",
+      "method": null
+    },
+    {
+      "name": "서울복권",
+      "address": "강원 강릉시 솔올로5번길 47 103호(교동)",
+      "method": null
+    },
+    {
+      "name": "진평양행",
+      "address": "강원 강릉시 임영로 107 1층",
+      "method": null
+    },
+    {
+      "name": "로또복권장항점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "필로또복권",
+      "address": "충남 서산시 호수공원6로 64 1층",
+      "method": null
+    },
+    {
+      "name": "베스트올수성점",
+      "address": "전북 정읍시 수성2로 28",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "전남광주 순천시 우석로 189 대도아파트 상가1호",
+      "method": null
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "round": 367,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "신문가판대",
+      "address": "    가판",
+      "method": "자동"
+    },
+    {
+      "name": "소리창고",
+      "address": "서울 강서구 강서로 306",
+      "method": "자동"
+    },
+    {
+      "name": "로또1등봉덕대박집 ",
+      "address": "대구 남구 봉덕로 120",
+      "method": "자동"
+    },
+    {
+      "name": "행운복권방",
+      "address": "인천 부평구 경인로 745 102호",
+      "method": "자동"
+    },
+    {
+      "name": "석수로또대박나라",
+      "address": "    104호",
+      "method": "자동"
+    },
+    {
+      "name": "신시가지명당복권방",
+      "address": "    개림프라자1층 104호",
+      "method": "자동"
+    },
+    {
+      "name": "제일복권",
+      "address": "충남 논산시 중앙로 235",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "묵동식품",
+      "address": "서울 중랑구 동일로 919",
+      "method": null
+    },
+    {
+      "name": "이대병원옆가판점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "왕대박복권방",
+      "address": "서울 은평구 갈현로 7",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "스파",
+      "address": "서울 노원구 동일로 1493 주공10단지종합상가111",
+      "method": null
+    },
+    {
+      "name": "가로매점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "가로판매점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "대박복권마트",
+      "address": "서울 강서구 화곡로 238 1층 104호",
+      "method": null
+    },
+    {
+      "name": "고덕로또복권",
+      "address": "서울 강동구 상일로15길 18 1층",
+      "method": null
+    },
+    {
+      "name": "강원도복권방",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "평화(북구사수점)",
+      "address": "대구 북구 한강로 92 1층 101호",
+      "method": null
+    },
+    {
+      "name": "복권이야기",
+      "address": "대구 동구 첨단로8길 16",
+      "method": null
+    },
+    {
+      "name": "복권이야기",
+      "address": "대구 동구 첨단로8길 16",
+      "method": null
+    },
+    {
+      "name": "세븐일레븐 현풍대로점",
+      "address": "대구 달성군 비슬로 581 세븐일레븐현풍대로점",
+      "method": null
+    },
+    {
+      "name": "GS25(성서공단점)",
+      "address": "대구 달서구 성서서로 176",
+      "method": null
+    },
+    {
+      "name": "복권휴게실",
+      "address": "    원더풀스파랜드상가1층 115호,116호일부",
+      "method": null
+    },
+    {
+      "name": "C&S대곡점",
+      "address": "대구 달서구 한실로 99 1층",
+      "method": null
+    },
+    {
+      "name": "민들레로또",
+      "address": "    편의점내",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "울산 중구 반구정6길 18-4",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "울산 동구 진성8길 133",
+      "method": null
+    },
+    {
+      "name": "훼미리마트평택덕동행운점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "김포마트로또방",
+      "address": "경기 안산시 상록구 오목로 50",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "로또삼성복권방",
+      "address": "경기 수원시 영통구 매영로 141 원천훼미리타운105호",
+      "method": null
+    },
+    {
+      "name": "성지슈퍼",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "와우통신",
+      "address": "    럭키아파트상가1층104호",
+      "method": null
+    },
+    {
+      "name": "로또토토대박",
+      "address": "강원 원주시 무실로 78 1층",
+      "method": null
+    },
+    {
+      "name": "그린로또",
+      "address": "강원 양양군 양양로 71",
+      "method": null
+    },
+    {
+      "name": "오창중앙복권",
+      "address": "충북 청주시 청원구 중심상업로 47 103호",
+      "method": null
+    },
+    {
+      "name": "영진상사",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "천안역아시아마트",
+      "address": "충남 천안시 동남구 대흥로 237 아시아마트내",
+      "method": null
+    },
+    {
+      "name": "필로또복권",
+      "address": "충남 서산시 호수공원6로 64 1층",
+      "method": null
+    },
+    {
+      "name": "원동슈퍼",
+      "address": "충남 보령시 대천로 28",
+      "method": null
+    },
+    {
+      "name": "천하명당",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "삼호마트",
+      "address": "전남광주 영암군 신항로 76 1층",
+      "method": null
+    },
+    {
+      "name": "목화휴게소",
+      "address": "경남 사천시 사천대로 912",
+      "method": null
+    }
+  ]
+}

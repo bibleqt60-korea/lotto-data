@@ -1,0 +1,174 @@
+{
+  "round": 540,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "가판점(신문)",
+      "address": "서울 영등포구 양평로 50-2",
+      "method": "자동"
+    },
+    {
+      "name": "옥수정로또판매",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "행운복권방",
+      "address": "경기 포천시 솔모루로 86-1",
+      "method": "자동"
+    },
+    {
+      "name": "복권왕국",
+      "address": "경기 부천시 조마루로105번길 34-7",
+      "method": "자동"
+    },
+    {
+      "name": "ALWAYS MART",
+      "address": "경기 고양시 일산동구 백마로 501-2 1층",
+      "method": "자동"
+    },
+    {
+      "name": "아산도고명당점",
+      "address": "충남 아산시 온천대로 104 1층 103호",
+      "method": "수동"
+    },
+    {
+      "name": "월드복권방",
+      "address": "경남 통영시 북신시장1길 12 월드마트 내",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "약수마트",
+      "address": "서울 중구 동호로 163 1층",
+      "method": null
+    },
+    {
+      "name": "그랜드마트앞가판점",
+      "address": "서울 마포구 신촌로 96-1 신촌 전철역 7번출구앞 가판점",
+      "method": null
+    },
+    {
+      "name": "황금대박점",
+      "address": "서울 노원구 공릉로 328",
+      "method": null
+    },
+    {
+      "name": "복권마을",
+      "address": "서울 광진구 뚝섬로 493",
+      "method": null
+    },
+    {
+      "name": "복터진나라",
+      "address": "부산 서구 대영로 27 1층 복권판매점",
+      "method": null
+    },
+    {
+      "name": "씨엔에스",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "찬스센타백운점",
+      "address": "인천 부평구 마장로 76 1층",
+      "method": null
+    },
+    {
+      "name": "CU(상무중흥점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "미보라복권방",
+      "address": "울산 중구 염포로 15",
+      "method": null
+    },
+    {
+      "name": "태암로또",
+      "address": "    위드미편의점",
+      "method": null
+    },
+    {
+      "name": "수암완구",
+      "address": "울산 남구 수암로 118",
+      "method": null
+    },
+    {
+      "name": "부발대박복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "경기 용인시 처인구 용문로 142 1층",
+      "method": null
+    },
+    {
+      "name": "대박찬스복권전문점",
+      "address": "경기 용인시 처인구 금령로 70",
+      "method": null
+    },
+    {
+      "name": "행운방",
+      "address": "    엔림프라자101호",
+      "method": null
+    },
+    {
+      "name": "대선",
+      "address": "경기 안산시 상록구 석호로 189 101호",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "경기 시흥시 복지로 103-1 1층상가",
+      "method": null
+    },
+    {
+      "name": "㈜현대택배권선영업소",
+      "address": "경기 수원시 권선구 곡반정로 95-1 104호",
+      "method": null
+    },
+    {
+      "name": "백석교판매점",
+      "address": "    백석고교앞정류소",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "    1층 편의점",
+      "method": null
+    },
+    {
+      "name": "위앤조이",
+      "address": "충남 천안시 서북구 천안대로 1391",
+      "method": null
+    },
+    {
+      "name": "충청복권전문점",
+      "address": "충남 천안시 서북구 성환2로 108",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "전북 김제시 화동길 51",
+      "method": null
+    },
+    {
+      "name": "치산로또명당",
+      "address": "경북 영천시 충효로 118 좌측일부",
+      "method": null
+    },
+    {
+      "name": "씨스페이스(어방가야점)",
+      "address": "경남 김해시 인제로170번길 15-6",
+      "method": null
+    }
+  ]
+}

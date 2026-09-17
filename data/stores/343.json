@@ -1,0 +1,184 @@
+{
+  "round": 343,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "종로슈퍼",
+      "address": "서울 종로구 돈화문로10길 14",
+      "method": "자동"
+    },
+    {
+      "name": "씨스페이스(영등포점)",
+      "address": "서울 영등포구 시흥대로 607 1동 9호",
+      "method": "자동"
+    },
+    {
+      "name": "천하복권방",
+      "address": "울산 동구 전하로 29",
+      "method": "수동"
+    },
+    {
+      "name": "영화유통(1등복권방)",
+      "address": "울산 남구 신정로 19 삼성아파트 상가 204-101",
+      "method": "자동"
+    },
+    {
+      "name": "아이비존",
+      "address": "전북 전주시 덕진구 쪽구름로 34",
+      "method": "자동"
+    },
+    {
+      "name": "남평로또점",
+      "address": "전남광주 나주시 남평1로 12 파평회관 1층",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "로또판매점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "성동구가로판매",
+      "address": "    앞도로가로판매",
+      "method": null
+    },
+    {
+      "name": "은혜기획사로또",
+      "address": "서울 광진구 영화사로 15",
+      "method": null
+    },
+    {
+      "name": "로또하는날",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방(행운을주는사람들)",
+      "address": "부산 사상구 광장로38번길 25",
+      "method": null
+    },
+    {
+      "name": "GS25(부대정문점)",
+      "address": "부산 금정구 부산대학로 61",
+      "method": null
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "인천 연수구 앵고개로 242 제일상가112호",
+      "method": null
+    },
+    {
+      "name": "길벗",
+      "address": "전남광주 북구 송월로 26",
+      "method": null
+    },
+    {
+      "name": "큰마을복권방",
+      "address": "    1층 슈퍼",
+      "method": null
+    },
+    {
+      "name": "이마트24울산삼산현대점",
+      "address": "울산 남구 삼산로267번길 6-6 1층 101호",
+      "method": null
+    },
+    {
+      "name": "창미슈퍼",
+      "address": "경기 화성시 서해로 434 1층 102호",
+      "method": null
+    },
+    {
+      "name": "현대25시편의점",
+      "address": "경기 파주시 봉천로 33-1",
+      "method": null
+    },
+    {
+      "name": "컴닥터 복권방",
+      "address": "    108호",
+      "method": null
+    },
+    {
+      "name": "태평매표소",
+      "address": "경기 용인시 기흥구 중부대로 323",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "경기 연천군 온골로 57-1 1층",
+      "method": null
+    },
+    {
+      "name": "송가상사",
+      "address": "경기 안산시 단원구 중앙대로 462 안산역사쇼핑몰1층131-3호",
+      "method": null
+    },
+    {
+      "name": "로또명당상동점",
+      "address": "경기 부천시 송내대로265번길 17 효성프라자108호",
+      "method": null
+    },
+    {
+      "name": "송내매표소",
+      "address": "경기 부천시 송내대로 37 104호",
+      "method": null
+    },
+    {
+      "name": "복권만당",
+      "address": "경기 군포시 군포로 489-2",
+      "method": null
+    },
+    {
+      "name": "CU(원주구곡중앙점)",
+      "address": "    1층 (CU)",
+      "method": null
+    },
+    {
+      "name": "지에스25 인주행운점",
+      "address": "충남 아산시 서해로 654 1층 GS편의점",
+      "method": null
+    },
+    {
+      "name": "중앙복권방",
+      "address": "전북 전주시 완산구 공북로 95",
+      "method": null
+    },
+    {
+      "name": "운수대통복권샵",
+      "address": "전북 전주시 완산구 중화산로 101",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "전북 전주시 완산구 전주천서로 145",
+      "method": null
+    },
+    {
+      "name": "동아전업사",
+      "address": "전북 전주시 덕진구 기린대로 691-2",
+      "method": null
+    },
+    {
+      "name": "용미사진관(로또)",
+      "address": "전남광주 순천시 팔마로 113-1 용미사진관",
+      "method": null
+    },
+    {
+      "name": "동일설비 명성복권",
+      "address": "경북 안동시 경동로 913",
+      "method": null
+    },
+    {
+      "name": "왕대박복권방",
+      "address": "경북 문경시 중앙로 15",
+      "method": null
+    },
+    {
+      "name": "복권명당도량2호점",
+      "address": "경북 구미시 문장로8길 1",
+      "method": null
+    }
+  ]
+}

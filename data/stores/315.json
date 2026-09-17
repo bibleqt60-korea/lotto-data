@@ -1,0 +1,209 @@
+{
+  "round": 315,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "해태24시",
+      "address": "서울 양천구 곰달래로 11 1층 2호",
+      "method": "자동"
+    },
+    {
+      "name": "천하명당복권방화곡점",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "아카데미안경",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "부일카서비스",
+      "address": "부산 동구 자성로133번길 35",
+      "method": "자동"
+    },
+    {
+      "name": "보람복권방",
+      "address": "울산 남구 화합로194번길 18-1",
+      "method": "자동"
+    },
+    {
+      "name": "대박복권방",
+      "address": "경기 연천군 온골로 57-1 1층",
+      "method": "자동"
+    },
+    {
+      "name": "GS25(안산산호점)",
+      "address": "경기 안산시 단원구 선부광장1로 69",
+      "method": "자동"
+    },
+    {
+      "name": "이마트24진주강남점(다솜방)",
+      "address": "경남 진주시 진주대로 883 1층",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "그랜드마트앞가판점",
+      "address": "서울 마포구 신촌로 96-1 신촌 전철역 7번출구앞 가판점",
+      "method": null
+    },
+    {
+      "name": "정훈슈퍼",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "넘버원",
+      "address": "서울 도봉구 도봉로165길 2 1층",
+      "method": null
+    },
+    {
+      "name": "가판대",
+      "address": "    1층 세븐일레븐 점포내 일부",
+      "method": null
+    },
+    {
+      "name": "유창슈퍼",
+      "address": "서울 금천구 범안로17길 41 진도아파트상가101호",
+      "method": null
+    },
+    {
+      "name": "목동로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "행복공간",
+      "address": "서울 강동구 풍성로 115",
+      "method": null
+    },
+    {
+      "name": "현대마트",
+      "address": "서울 강남구 일원로 45 101호",
+      "method": null
+    },
+    {
+      "name": "-",
+      "address": "    대현지하상가 복권판매대제4번 가판",
+      "method": null
+    },
+    {
+      "name": "세븐남산시장점(1616호)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권천국(성서점)",
+      "address": "대구 달서구 성서로 377",
+      "method": null
+    },
+    {
+      "name": "복권백화점(대백.한라앞)",
+      "address": "대구 달서구 달구벌대로 1223",
+      "method": null
+    },
+    {
+      "name": "동광슈퍼",
+      "address": "광주 서구 천변좌로 228",
+      "method": null
+    },
+    {
+      "name": "풍향동복권나라",
+      "address": "전남광주 북구 필문대로 79",
+      "method": null
+    },
+    {
+      "name": "GS25(대전선사점)",
+      "address": "대전 서구 월평북로 87",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "울산 중구 반구정6길 18-4",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "경기 하남시 하남대로 795 1층6호",
+      "method": null
+    },
+    {
+      "name": "싱싱마트",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "가두판매 단대오거리점",
+      "address": "경기 성남시 수정구 산성대로 345-1 가로판매대",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "경기 부천시 은성로68번길 43 1층",
+      "method": null
+    },
+    {
+      "name": "로또복권방 웨스턴점",
+      "address": "경기 고양시 일산동구 정발산로 24 1층 k-115(1,2호)",
+      "method": null
+    },
+    {
+      "name": "현대25시편의점",
+      "address": "경기 고양시 덕양구 지도로 75 101호",
+      "method": null
+    },
+    {
+      "name": "한성로또복권",
+      "address": "강원 정선군 고한9길 40",
+      "method": null
+    },
+    {
+      "name": "주택복권방",
+      "address": "강원 원주시 우산초교길 29 1층",
+      "method": null
+    },
+    {
+      "name": "CU(제천역점)",
+      "address": "충북 제천시 내토로 446 1층 CU편의점",
+      "method": null
+    },
+    {
+      "name": "GS25(천안초원점)",
+      "address": "충남 천안시 동남구 신촌4로 16 초원그린타운아파트상가1동124호",
+      "method": null
+    },
+    {
+      "name": "썬마트24",
+      "address": "충남 아산시 시민로 399 1층 썬마트24",
+      "method": null
+    },
+    {
+      "name": "로또BANK",
+      "address": "충남 공주시 공주대학로 95",
+      "method": null
+    },
+    {
+      "name": "더리터경북왜관점로또명당",
+      "address": "경북 칠곡군 중앙로 95 1층 커피&로또명당",
+      "method": null
+    },
+    {
+      "name": "로또삼화마트풍산점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "CU(구평희망점)",
+      "address": "경북 구미시 인동46길 5 cu 구평희망점",
+      "method": null
+    },
+    {
+      "name": "삼성복권마트",
+      "address": "경남 김해시 평전로 20 우리24시슈퍼 내 좌측 복권판매점",
+      "method": null
+    }
+  ]
+}

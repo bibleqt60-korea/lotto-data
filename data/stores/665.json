@@ -1,0 +1,179 @@
+{
+  "round": 665,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "썬마트",
+      "address": "충북 청주시 흥덕구 진재로23번길 25",
+      "method": "수동"
+    },
+    {
+      "name": "로또복권두정점",
+      "address": "충남 천안시 서북구 두정로 251 대원빌딩104호",
+      "method": "자동"
+    },
+    {
+      "name": "복권나라",
+      "address": "전남광주 목포시 당가두로14번길 47-1 103호(옥암동) 복권나라",
+      "method": "수동"
+    },
+    {
+      "name": "25시슈퍼",
+      "address": "경남 창원시 마산회원구 봉양로 75-5",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "CU(이태원해밀턴점)",
+      "address": "서울 용산구 보광로 126",
+      "method": null
+    },
+    {
+      "name": "하나아파텔점로또판매",
+      "address": "    하나빌딩1층",
+      "method": null
+    },
+    {
+      "name": "가판점(신문)",
+      "address": "서울 영등포구 양평로 50-2",
+      "method": null
+    },
+    {
+      "name": "통일복권방",
+      "address": "서울 송파구 백제고분로7길 6",
+      "method": null
+    },
+    {
+      "name": "통일복권방",
+      "address": "서울 송파구 백제고분로7길 6",
+      "method": null
+    },
+    {
+      "name": "잠실매점",
+      "address": "서울 송파구 올림픽로 269 잠실역 8번출구 앞 가판",
+      "method": null
+    },
+    {
+      "name": "대명로또",
+      "address": "서울 송파구 거마로20길 11-1 1층",
+      "method": null
+    },
+    {
+      "name": "양지명당복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "경성식품",
+      "address": "서울 동대문구 망우로21길 52",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "신암편의점",
+      "address": "부산 금정구 중앙대로 2002 복권판매점",
+      "method": null
+    },
+    {
+      "name": "GS25(동천화성점)",
+      "address": "대구 북구 대천로18길 2",
+      "method": null
+    },
+    {
+      "name": "논공24시복권방",
+      "address": "대구 달성군 논공중앙로 140 1층",
+      "method": null
+    },
+    {
+      "name": "행운나래복권방",
+      "address": "인천 연수구 인천타워대로 323 상가동 1층 디 107호",
+      "method": null
+    },
+    {
+      "name": "GS25(십정센터점)",
+      "address": "인천 부평구 열우물로 161 B동",
+      "method": null
+    },
+    {
+      "name": "컴퓨터A/S",
+      "address": "전남광주 광산구 월곡산정로 67",
+      "method": null
+    },
+    {
+      "name": "대박찬스복권전문점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또나라",
+      "address": "경기 파주시 자유로 2212",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "경기 안양시 만안구 덕천로 108",
+      "method": null
+    },
+    {
+      "name": "로또명당가두판매점",
+      "address": "경기 안양시 동안구 경수대로 848-2",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "    비즈파이코리아103호",
+      "method": null
+    },
+    {
+      "name": "소요산복권판매점",
+      "address": "경기 동두천시 평화로2922번길 2",
+      "method": null
+    },
+    {
+      "name": "삼성통신",
+      "address": "경기 구리시 검배로 89 1층",
+      "method": null
+    },
+    {
+      "name": "이마트24 일산덕이점",
+      "address": "경기 고양시 일산서구 미래로 164 1층",
+      "method": null
+    },
+    {
+      "name": "로또판매점",
+      "address": "    102-2",
+      "method": null
+    },
+    {
+      "name": "국영슈퍼",
+      "address": "충남 아산시 시민로 366 1층",
+      "method": null
+    },
+    {
+      "name": "원동슈퍼",
+      "address": "충남 보령시 대천로 28",
+      "method": null
+    },
+    {
+      "name": "코리아로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "채널큐로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "코리아슈퍼",
+      "address": "경남 통영시 안개로 42 상가1층 103호",
+      "method": null
+    }
+  ]
+}

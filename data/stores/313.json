@@ -1,0 +1,169 @@
+{
+  "round": 313,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "월드24시",
+      "address": "서울 은평구 통일로 855-15 1층",
+      "method": "자동"
+    },
+    {
+      "name": "한진슈퍼",
+      "address": "부산 금정구 청룡예전로 9 1층",
+      "method": "자동"
+    },
+    {
+      "name": "복권방",
+      "address": "경기 하남시 신장로 122",
+      "method": "자동"
+    },
+    {
+      "name": "태극로또전문점",
+      "address": "경기 이천시 애련정로 124-2 1층",
+      "method": "자동"
+    },
+    {
+      "name": "명진슈퍼",
+      "address": "경기 의왕시 효행로 15",
+      "method": "자동"
+    },
+    {
+      "name": "필로또복권",
+      "address": "충남 서산시 호수공원6로 64 1층",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "돈다발복권방",
+      "address": "서울 종로구 종로 352",
+      "method": null
+    },
+    {
+      "name": "토큰판매복권담배",
+      "address": "서울 송파구 동남로 211",
+      "method": null
+    },
+    {
+      "name": "로또판매점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또복권판매장",
+      "address": "서울 서초구 방배중앙로 166-1",
+      "method": null
+    },
+    {
+      "name": "굿데이",
+      "address": "서울 노원구 화랑로 421",
+      "method": null
+    },
+    {
+      "name": "버스카드충전소",
+      "address": "서울 관악구 남부순환로 1784",
+      "method": null
+    },
+    {
+      "name": "가로판매점",
+      "address": "서울 관악구 과천대로 955-3",
+      "method": null
+    },
+    {
+      "name": "또와식품",
+      "address": "서울 강서구 양천로 694",
+      "method": null
+    },
+    {
+      "name": "명신로또방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "대박골드",
+      "address": "부산 중구 흑교로 51 1층 101호",
+      "method": null
+    },
+    {
+      "name": "세븐일레븐(상인대동)",
+      "address": "    세븐일레븐편의점 내",
+      "method": null
+    },
+    {
+      "name": "CU(경서1지구점)",
+      "address": "인천 서구 경서로 70",
+      "method": null
+    },
+    {
+      "name": "한마음병원앞버스매표소",
+      "address": "인천 계양구 계양대로 53",
+      "method": null
+    },
+    {
+      "name": "길벗",
+      "address": "전남광주 북구 송월로 26",
+      "method": null
+    },
+    {
+      "name": "씨스페이스(대흥상아)",
+      "address": "대전 중구 대흥로 175",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "경기 용인시 기흥구 신갈로68번길 24",
+      "method": null
+    },
+    {
+      "name": "스타복권편의점",
+      "address": "경기 남양주시 덕송2로6번길 28-13 1층",
+      "method": null
+    },
+    {
+      "name": "CU(일산동문점)",
+      "address": "경기 고양시 일산서구 고양대로 618 현대밀라트2차오피스텔",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "경기 가평군 청평중앙로 35 1층",
+      "method": null
+    },
+    {
+      "name": "CU(동해발한점)",
+      "address": "강원 동해시 발한로 207-1",
+      "method": null
+    },
+    {
+      "name": "GS25(아산중앙점)",
+      "address": "충남 아산시 온화로11번길 8",
+      "method": null
+    },
+    {
+      "name": "로또판매점",
+      "address": "경북 예천군 효자로 82",
+      "method": null
+    },
+    {
+      "name": "왕대박복권방",
+      "address": "경북 문경시 중앙로 15",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "경북 경산시 경안로 214",
+      "method": null
+    },
+    {
+      "name": "창원병원앞매표소",
+      "address": "경남 창원시 성산구 창원대로 721 가판",
+      "method": null
+    },
+    {
+      "name": "로또복권 하대점",
+      "address": "경남 진주시 도동로 188",
+      "method": null
+    }
+  ]
+}

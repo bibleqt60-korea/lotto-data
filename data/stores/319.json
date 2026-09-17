@@ -1,0 +1,164 @@
+{
+  "round": 319,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "CU로또",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "복권명당(서부점)",
+      "address": "대구 달서구 월배로 452",
+      "method": "수동"
+    },
+    {
+      "name": "복권명당(서부점)",
+      "address": "대구 달서구 월배로 452",
+      "method": "수동"
+    },
+    {
+      "name": "인생대역전",
+      "address": "   ",
+      "method": "수동"
+    },
+    {
+      "name": "초월대박복권방",
+      "address": "경기 광주시 경충대로 1252",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "드림스튜디오",
+      "address": "서울 은평구 서오릉로 160 1층",
+      "method": null
+    },
+    {
+      "name": "세븐마트",
+      "address": "서울 용산구 백범로47길 6 1층 102호 (슈퍼마켓)",
+      "method": null
+    },
+    {
+      "name": "가판점",
+      "address": "서울 도봉구 도봉로 767",
+      "method": null
+    },
+    {
+      "name": "로또복권방",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "CU(서면점)",
+      "address": "부산 부산진구 서면문화로 29",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "부산 부산진구 동평로 115",
+      "method": null
+    },
+    {
+      "name": "GS25(중앙제일점)",
+      "address": "대구 중구 중앙대로 393",
+      "method": null
+    },
+    {
+      "name": "황금아파트토큰판매소",
+      "address": "대구 수성구 청수로 261 캐슬골드파크 4단지 1403동 앞 가판",
+      "method": null
+    },
+    {
+      "name": "1등다수복권마트",
+      "address": "대구 북구 팔달로27길 81 1층",
+      "method": null
+    },
+    {
+      "name": "천하명당복권",
+      "address": "대구 북구 칠곡중앙대로 545",
+      "method": null
+    },
+    {
+      "name": "라이코스정보통신",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "무한대박",
+      "address": "인천 연수구 새말로 107",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방역전점",
+      "address": "대전 동구 대전로 815",
+      "method": null
+    },
+    {
+      "name": "천하제일복권명당",
+      "address": "대전 동구 새울로 93",
+      "method": null
+    },
+    {
+      "name": "CN마트",
+      "address": "울산 중구 곽남4길 2",
+      "method": null
+    },
+    {
+      "name": "황금복권마트",
+      "address": "경기 이천시 증신로325번길 5 1층",
+      "method": null
+    },
+    {
+      "name": "우암마트",
+      "address": "경기 여주시 태평로 64 1층",
+      "method": null
+    },
+    {
+      "name": "도일복권방",
+      "address": "경기 시흥시 도일로 111",
+      "method": null
+    },
+    {
+      "name": "GS25(하안연서점)",
+      "address": "경기 광명시 안현로 52",
+      "method": null
+    },
+    {
+      "name": "마두24마트",
+      "address": "경기 고양시 일산동구 산두로 171-1 1층",
+      "method": null
+    },
+    {
+      "name": "왕대박복권방",
+      "address": "충북 청주시 청원구 두릉유리로 1119",
+      "method": null
+    },
+    {
+      "name": "현대유통",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "장흥로또",
+      "address": "    CU 장흥중앙점",
+      "method": null
+    },
+    {
+      "name": "씨유 목포세진점",
+      "address": "전남광주 목포시 해안로249번길 17 CU편의점",
+      "method": null
+    },
+    {
+      "name": "지에스25창원은아점(은정슈퍼)",
+      "address": "경남 창원시 성산구 원이대로883번길 2 은정상가101호 GS편의점",
+      "method": null
+    },
+    {
+      "name": "꿈복권방",
+      "address": "    1층 CU제주일중사거리점",
+      "method": null
+    }
+  ]
+}

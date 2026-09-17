@@ -1,0 +1,219 @@
+{
+  "round": 486,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "태원정보통신",
+      "address": "서울 중랑구 봉우재로33길 80",
+      "method": "자동"
+    },
+    {
+      "name": "슈퍼복권나라",
+      "address": "부산 사하구 하신번영로 370",
+      "method": "자동"
+    },
+    {
+      "name": "다사복권방",
+      "address": "    1층",
+      "method": "자동"
+    },
+    {
+      "name": "복권세상",
+      "address": "   ",
+      "method": "수동"
+    },
+    {
+      "name": "둔전행운복권방",
+      "address": "경기 용인시 처인구 포곡로 110",
+      "method": "자동"
+    },
+    {
+      "name": "노다지복권방",
+      "address": "경기 오산시 오산로 298-1",
+      "method": "수동"
+    },
+    {
+      "name": "대박복권방",
+      "address": "경기 안산시 단원구 신길중앙로1길 40 101호",
+      "method": "수동"
+    },
+    {
+      "name": "해피데이",
+      "address": "경기 성남시 중원구 광명로 262",
+      "method": "자동"
+    },
+    {
+      "name": "대박찬스",
+      "address": "경기 남양주시 장현로 111 1층1호",
+      "method": "자동"
+    },
+    {
+      "name": "복권나라",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "대박수호통신",
+      "address": "경북 포항시 남구 문덕로 3 1층  폰공장  내",
+      "method": "자동"
+    },
+    {
+      "name": "행운로또복권방",
+      "address": "경남 창원시 마산합포구 합포로 41-1 1층",
+      "method": "자동"
+    },
+    {
+      "name": "늘봄편의점",
+      "address": "경남 진주시 솔밭로 80",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "일등복권방",
+      "address": "서울 중랑구 신내로 211 금강리빙스텔149호",
+      "method": null
+    },
+    {
+      "name": "하나더마트",
+      "address": "서울 중구 퇴계로90길 22 1층",
+      "method": null
+    },
+    {
+      "name": "씨스페이스(용산행복마트점)",
+      "address": "서울 용산구 청파로 359-4 씨스페이스 행복마트점",
+      "method": null
+    },
+    {
+      "name": "로또킹",
+      "address": "서울 영등포구 영중로 2 1층(영등포동3가)",
+      "method": null
+    },
+    {
+      "name": "1001안경콘텍트",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "오목미니슈퍼",
+      "address": "서울 양천구 신목로 119 1층",
+      "method": null
+    },
+    {
+      "name": "GS25(연희점)",
+      "address": "서울 서대문구 증가로 21-1",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "부산 해운대구 아랫반송로 11",
+      "method": null
+    },
+    {
+      "name": "굿데이",
+      "address": "부산 연제구 쌍미천로 10 ING25",
+      "method": null
+    },
+    {
+      "name": "GS25(서면새싹점)",
+      "address": "부산 부산진구 새싹로14번길 13",
+      "method": null
+    },
+    {
+      "name": "행운로또",
+      "address": "부산 동래구 충렬대로428번길 30 102호 1호",
+      "method": null
+    },
+    {
+      "name": "베스트올원당1호점",
+      "address": "    원당지구71블럭골든벨프라자102호",
+      "method": null
+    },
+    {
+      "name": "용두천하",
+      "address": "전남광주 북구 하서로 373",
+      "method": null
+    },
+    {
+      "name": "GS25(전민푸른점)",
+      "address": "대전 유성구 전민로 71",
+      "method": null
+    },
+    {
+      "name": "행운노다지복권방",
+      "address": "    다세대주택 1층",
+      "method": null
+    },
+    {
+      "name": "동성복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "북클럽",
+      "address": "경기 의정부시 용민로 122 103호",
+      "method": null
+    },
+    {
+      "name": "꿈의실현",
+      "address": "경기 성남시 분당구 야탑로139번길 6-14 B02호",
+      "method": null
+    },
+    {
+      "name": "디딤슈퍼",
+      "address": "경기 부천시 도약로 279",
+      "method": null
+    },
+    {
+      "name": "돼지네슈퍼",
+      "address": "경기 부천시 소사로 141",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "GS25(고양주교점)",
+      "address": "경기 고양시 덕양구 마상로113번길 68 1층 3호",
+      "method": null
+    },
+    {
+      "name": "서울복권",
+      "address": "강원 강릉시 솔올로5번길 47 103호(교동)",
+      "method": null
+    },
+    {
+      "name": "로또명당",
+      "address": "충북 진천군 생거진천로 1401 휴게소내",
+      "method": null
+    },
+    {
+      "name": "킹마트",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "부여복권방",
+      "address": "충남 부여군 사비로 94",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "전남광주 영광군 물무로 106-5 문구점",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "전남광주 여수시 중앙로 62 1층",
+      "method": null
+    },
+    {
+      "name": "미래유통",
+      "address": "전남광주 목포시 영산로 623",
+      "method": null
+    }
+  ]
+}

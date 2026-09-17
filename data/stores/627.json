@@ -1,0 +1,234 @@
+{
+  "round": 627,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "고덕로또복권",
+      "address": "서울 강동구 상일로15길 18 1층",
+      "method": "수동"
+    },
+    {
+      "name": "고덕로또복권",
+      "address": "서울 강동구 상일로15길 18 1층",
+      "method": "수동"
+    },
+    {
+      "name": "로또판매",
+      "address": "서울 강남구 삼성로86길 10 1층 삼성슈퍼",
+      "method": "자동"
+    },
+    {
+      "name": "복터진나라",
+      "address": "부산 서구 대영로 27 1층 복권판매점",
+      "method": "수동"
+    },
+    {
+      "name": "복권나라",
+      "address": "경기 포천시 죽엽산로35번길 1",
+      "method": "자동"
+    },
+    {
+      "name": "안성맞춤",
+      "address": "경기 안성시 중앙로 371 번길 81 ,1층",
+      "method": "수동"
+    },
+    {
+      "name": "안성맞춤",
+      "address": "경기 안성시 중앙로 371 번길 81 ,1층",
+      "method": "수동"
+    },
+    {
+      "name": "대산슈퍼",
+      "address": "충남 천안시 동남구 복구정3길 1",
+      "method": "자동"
+    },
+    {
+      "name": "행운천하명당",
+      "address": "충남 서천군 충절로 34",
+      "method": "수동"
+    },
+    {
+      "name": "함안 복권방",
+      "address": "경남 함안군 함안대로 552 1층",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "신안할인마트",
+      "address": "서울 중랑구 공릉로2나길 44 신안2차아파트상가101",
+      "method": null
+    },
+    {
+      "name": "명동역5번출구가판",
+      "address": "서울 중구 퇴계로 115-2 가판",
+      "method": null
+    },
+    {
+      "name": "GS25(여의쌍마점)",
+      "address": "    한마루빌딩1층1호",
+      "method": null
+    },
+    {
+      "name": "온라인복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "역전 복권방",
+      "address": "서울 동대문구 휘경로 30 1층",
+      "method": null
+    },
+    {
+      "name": "로또복권판매소",
+      "address": "서울 구로구 디지털로27길 103 1층(가리봉동)",
+      "method": null
+    },
+    {
+      "name": "사당",
+      "address": "서울 관악구 과천대로 953-2",
+      "method": null
+    },
+    {
+      "name": "신림마트",
+      "address": "서울 관악구 남부순환로 1588",
+      "method": null
+    },
+    {
+      "name": "신림마트",
+      "address": "서울 관악구 남부순환로 1588",
+      "method": null
+    },
+    {
+      "name": "GS25(봉천메트로점)",
+      "address": "서울 관악구 남부순환로 1811 신원메트로빌오피스텔101호",
+      "method": null
+    },
+    {
+      "name": "로또명당",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "열린복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또. 토토 마스타(화명)",
+      "address": "부산 북구 학사로 5",
+      "method": null
+    },
+    {
+      "name": "복권명당(서변점)",
+      "address": "대구 북구 서변로 91",
+      "method": null
+    },
+    {
+      "name": "행복일등점",
+      "address": "대구 달서구 성서공단남로 37 1층 117호",
+      "method": null
+    },
+    {
+      "name": "마이복권",
+      "address": "인천 서해구 탁옥로 76 한국상가제1층101호",
+      "method": null
+    },
+    {
+      "name": "로또판매점",
+      "address": "    cu편의점",
+      "method": null
+    },
+    {
+      "name": "로또사업판매점",
+      "address": "    훼미리마트매장내",
+      "method": null
+    },
+    {
+      "name": "터미널유통마트",
+      "address": "경기 의정부시 신곡로 47 우신프라자1층101호",
+      "method": null
+    },
+    {
+      "name": "한보라로또",
+      "address": "    세븐일레븐",
+      "method": null
+    },
+    {
+      "name": "포유25대호점",
+      "address": "경기 오산시 대호로 104",
+      "method": null
+    },
+    {
+      "name": "복권세상",
+      "address": "경기 여주시 우암로 21-1 1층",
+      "method": null
+    },
+    {
+      "name": "하이로또복권방",
+      "address": "경기 안양시 동안구 흥안대로 450",
+      "method": null
+    },
+    {
+      "name": "복권전문점",
+      "address": "    105호 훼미리마트내",
+      "method": null
+    },
+    {
+      "name": "단대대박복권방",
+      "address": "경기 성남시 중원구 산성대로372번길 14 1층",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "경기 김포시 서암로 139 101호",
+      "method": null
+    },
+    {
+      "name": "마두역상행선 가판대",
+      "address": "경기 고양시 일산동구 중앙로 1181 마두역 중앙 횡단보도 오른쪽",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "강원 평창군 청송로 101",
+      "method": null
+    },
+    {
+      "name": "신남복권나라",
+      "address": "강원 인제군 신남로 41 네네치킨 신남점",
+      "method": null
+    },
+    {
+      "name": "포커스",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "월드마트",
+      "address": "충북 청주시 흥덕구 장구봉로129번길 2",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "충북 청주시 흥덕구 복대로 207",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "충남 보령시 신설6길 88",
+      "method": null
+    },
+    {
+      "name": "행복나눔 복권 ",
+      "address": "경북 포항시 남구 문예로 68 우측상가",
+      "method": null
+    },
+    {
+      "name": "GS25(경산정평점)",
+      "address": "경북 경산시 강변서로51길 18",
+      "method": null
+    }
+  ]
+}

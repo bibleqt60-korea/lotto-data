@@ -1,0 +1,189 @@
+{
+  "round": 419,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "갈렙분식한식",
+      "address": "서울 중랑구 용마산로115길 92",
+      "method": "자동"
+    },
+    {
+      "name": "천국열쇠",
+      "address": "전남광주 북구 북문대로 157",
+      "method": "자동"
+    },
+    {
+      "name": "D-마트담배",
+      "address": "강원 속초시 조양상가길 25 롯데마트속초점, 1층 복권판매점",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "노다지복권방",
+      "address": "서울 종로구 종로 331 1층",
+      "method": null
+    },
+    {
+      "name": "CU(역촌제일점)",
+      "address": "서울 은평구 갈현로 59",
+      "method": null
+    },
+    {
+      "name": "삼우식품",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "버스충전소",
+      "address": "서울 서초구 신반포로 177 반포쇼핑3동정문앞",
+      "method": null
+    },
+    {
+      "name": "북가좌2호점로또판매",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "신수복권방",
+      "address": "서울 마포구 동교로27길 53",
+      "method": null
+    },
+    {
+      "name": "보성정보통신",
+      "address": "서울 동대문구 장한로2길 24",
+      "method": null
+    },
+    {
+      "name": "고경식품",
+      "address": "서울 구로구 경인로 381",
+      "method": null
+    },
+    {
+      "name": "롯데마트",
+      "address": "서울 강동구 상일로 17",
+      "method": null
+    },
+    {
+      "name": "사거리슈퍼",
+      "address": "    세븐일레븐편의점",
+      "method": null
+    },
+    {
+      "name": "GS25(청룡점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "L마트",
+      "address": "인천 서해구 승학로 528 아카데미프라자107호",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "인천 서구 완정로65번길 10 검단2지구59블럭검단1차피오레아파트상가B동제비107호",
+      "method": null
+    },
+    {
+      "name": "한마음병원앞버스매표소",
+      "address": "인천 계양구 계양대로 53",
+      "method": null
+    },
+    {
+      "name": "한마음병원앞버스매표소",
+      "address": "인천 계양구 계양대로 53",
+      "method": null
+    },
+    {
+      "name": "나인업",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "썬복권",
+      "address": "전남광주 광산구 하남산단8번로 165 101호",
+      "method": null
+    },
+    {
+      "name": "천동로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "황금복권마트",
+      "address": "경기 이천시 증신로325번길 5 1층",
+      "method": null
+    },
+    {
+      "name": "로또휴게실",
+      "address": "경기 용인시 기흥구 용구대로 1885",
+      "method": null
+    },
+    {
+      "name": "포유25다농점",
+      "address": "경기 오산시 운천로 80-5 거성그린프라자114호",
+      "method": null
+    },
+    {
+      "name": "하이로또복권방",
+      "address": "경기 안양시 동안구 흥안대로 450",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "경기 안산시 상록구 건건로 41 1층",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "경기 수원시 장안구 장안로 288 1층",
+      "method": null
+    },
+    {
+      "name": "태양정보통신",
+      "address": "경기 광주시 고불로 56 상가1층",
+      "method": null
+    },
+    {
+      "name": "거두리복권방",
+      "address": "강원 춘천시 거두택지길 25 부영아파트제상가1-102호",
+      "method": null
+    },
+    {
+      "name": "드림오피스문구",
+      "address": "강원 춘천시 퇴계로 213 드림오피스 문구사",
+      "method": null
+    },
+    {
+      "name": "그린24시예대점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복터졌다 복권방",
+      "address": "충남 아산시 온천대로 1510-10 1층",
+      "method": null
+    },
+    {
+      "name": "GS25(송천비사벌점)",
+      "address": "전북 전주시 덕진구 송천중앙로 218",
+      "method": null
+    },
+    {
+      "name": "훼미리마트안골점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "CU(구미사곡점)",
+      "address": "경북 구미시 상사동로 151-4",
+      "method": null
+    },
+    {
+      "name": "GS25 밀양영광점",
+      "address": "   ",
+      "method": null
+    }
+  ]
+}

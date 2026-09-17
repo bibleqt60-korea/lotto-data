@@ -1,0 +1,214 @@
+{
+  "round": 477,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "난향복권방",
+      "address": "서울 관악구 난곡로 82 1층",
+      "method": "자동"
+    },
+    {
+      "name": "사이버정보통신",
+      "address": "부산 부산진구 동평로 411 백조상가동103-1호",
+      "method": "자동"
+    },
+    {
+      "name": "로또명당",
+      "address": "대구 북구 칠곡중앙대로 181",
+      "method": "자동"
+    },
+    {
+      "name": "천하명당",
+      "address": "경기 화성시 남양시장로 83",
+      "method": "자동"
+    },
+    {
+      "name": "복권백화점",
+      "address": "경기 파주시 평화로 70",
+      "method": "수동"
+    },
+    {
+      "name": "샘내로또판매",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "행운복권방",
+      "address": "강원 인제군 금강로 23 1층",
+      "method": "자동"
+    },
+    {
+      "name": "산호 복권방",
+      "address": "경남 창원시 마산합포구 합포로 126-1 1층",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "서울상회",
+      "address": "서울 서초구 강남대로43길 26 1층3호",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "서울 서대문구 충정로 73 1층",
+      "method": null
+    },
+    {
+      "name": "세븐로또",
+      "address": "서울 동대문구 고산자로 407",
+      "method": null
+    },
+    {
+      "name": "대성복권방",
+      "address": "    1층 현대마트",
+      "method": null
+    },
+    {
+      "name": "미나식품(로또판매점)",
+      "address": "서울 강서구 금낭화로 91-12",
+      "method": null
+    },
+    {
+      "name": "롯데마트",
+      "address": "서울 강동구 상일로 17",
+      "method": null
+    },
+    {
+      "name": "씨스페이스(덕천점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "부산 부산진구 냉정로 273",
+      "method": null
+    },
+    {
+      "name": "복권천국",
+      "address": "대구 동구 화랑로 419",
+      "method": null
+    },
+    {
+      "name": "무한대박",
+      "address": "인천 연수구 새말로 107",
+      "method": null
+    },
+    {
+      "name": "욱일슈퍼",
+      "address": "인천 부평구 경인로 1144",
+      "method": null
+    },
+    {
+      "name": "인생대역전",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "대박나라",
+      "address": "전남광주 광산구 월곡산정로 7 1층",
+      "method": null
+    },
+    {
+      "name": "복권천하문화점",
+      "address": "대전 중구 천근로 23 1층",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "대전 중구 목중로 47",
+      "method": null
+    },
+    {
+      "name": "한꿈복권방",
+      "address": "울산 중구 번영로 586",
+      "method": null
+    },
+    {
+      "name": "황금복권마트",
+      "address": "경기 이천시 증신로325번길 5 1층",
+      "method": null
+    },
+    {
+      "name": "황금대박복권나라",
+      "address": "경기 용인시 처인구 금령로85번길 16",
+      "method": null
+    },
+    {
+      "name": "버스표가판점",
+      "address": "경기 안양시 동안구 동안로 125-2 범계역4-1출구앞 버스표가판점",
+      "method": null
+    },
+    {
+      "name": "센타슈퍼",
+      "address": "경기 안산시 상록구 광덕1로 369 센타프라자115호",
+      "method": null
+    },
+    {
+      "name": "가판점",
+      "address": "경기 부천시 자유로 33 이마트앞 지하도입구",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "경기 부천시 경인로498번길 10",
+      "method": null
+    },
+    {
+      "name": "명당복권방",
+      "address": "경기 남양주시 창현로 7",
+      "method": null
+    },
+    {
+      "name": "로또복권방",
+      "address": "    현대프라자상가103호",
+      "method": null
+    },
+    {
+      "name": "마두5번출구가판로또",
+      "address": "경기 고양시 일산동구 중앙로 1200",
+      "method": null
+    },
+    {
+      "name": "1004로또점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "충북 청주시 청원구 율봉로176번길 8-2",
+      "method": null
+    },
+    {
+      "name": "CU(제천역점)",
+      "address": "충북 제천시 내토로 446 1층 CU편의점",
+      "method": null
+    },
+    {
+      "name": "돈방석복권방",
+      "address": "충남 논산시 시민로 304",
+      "method": null
+    },
+    {
+      "name": "로또복권방중동점",
+      "address": "충남 공주시 무령로 220 신발가게",
+      "method": null
+    },
+    {
+      "name": "로또정량점",
+      "address": "경남 통영시 통영해안로 395",
+      "method": null
+    },
+    {
+      "name": "천하명당",
+      "address": "경남 양산시 연호로 46 복권판매점",
+      "method": null
+    },
+    {
+      "name": "토토전문점",
+      "address": "경남 김해시 해반천로144번길 40 거림맥스랜드103호 복권판매점",
+      "method": null
+    }
+  ]
+}

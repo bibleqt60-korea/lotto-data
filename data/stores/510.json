@@ -1,0 +1,159 @@
+{
+  "round": 510,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "데이앤나잇",
+      "address": "서울 성북구 종암로 132 종암우림카이저팰리스 1층 101호",
+      "method": "자동"
+    },
+    {
+      "name": "신문가판대",
+      "address": "    가판",
+      "method": "자동"
+    },
+    {
+      "name": "씨유연산배산역점",
+      "address": "부산 연제구 연수로 224",
+      "method": "자동"
+    },
+    {
+      "name": "원당역복권방",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "로터리편의마트",
+      "address": "경북 포항시 북구 서동로 85 육거리",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "도깨비방(로또)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "민영슈퍼",
+      "address": "서울 서대문구 응암로 104",
+      "method": null
+    },
+    {
+      "name": "가로판매점",
+      "address": "서울 금천구 시흥대로 478-2 가판",
+      "method": null
+    },
+    {
+      "name": "로또",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "신명",
+      "address": "서울 강서구 방화동로 10-2 1층",
+      "method": null
+    },
+    {
+      "name": "바이복",
+      "address": "서울 강남구 일원로5길 19",
+      "method": null
+    },
+    {
+      "name": "희망복권방",
+      "address": "부산 동래구 명장로20번길 26",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "    기장아름공원점내",
+      "method": null
+    },
+    {
+      "name": "LA24시편의점",
+      "address": "대구 달서구 달구벌대로 1005 상가 103호",
+      "method": null
+    },
+    {
+      "name": "불로로또",
+      "address": "인천 서구 검단로 851 동부아파트상가 107호",
+      "method": null
+    },
+    {
+      "name": "베스트올원당1호점",
+      "address": "    원당지구71블럭골든벨프라자102호",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "훼밀리마트(남동공단점)",
+      "address": "    cu편의점내",
+      "method": null
+    },
+    {
+      "name": "씨엔복권",
+      "address": "울산 중구 염포로 34",
+      "method": null
+    },
+    {
+      "name": "CU(원종깨비점)",
+      "address": "경기 부천시 소사로 750 CU원종깨비점",
+      "method": null
+    },
+    {
+      "name": "토마토",
+      "address": "경기 부천시 심곡로15번길 27 1층",
+      "method": null
+    },
+    {
+      "name": "태봉",
+      "address": "경기 부천시 소사로 182",
+      "method": null
+    },
+    {
+      "name": "주택복권판매소",
+      "address": "강원 춘천시 금강로 59 대우증권옆 가판",
+      "method": null
+    },
+    {
+      "name": "강경복권방",
+      "address": "충남 논산시 계백로 126-1",
+      "method": null
+    },
+    {
+      "name": "로또팡팡 토토팡팡",
+      "address": "전북 군산시 지곡로 30",
+      "method": null
+    },
+    {
+      "name": "알리바이 인정해남점",
+      "address": "전남광주 해남군 영빈로 79-18 상가동 101호(해남정하에코하임)",
+      "method": null
+    },
+    {
+      "name": "행운로또방",
+      "address": "경북 구미시 형곡서로 21-9 상가동 101호(시영아파트) 세븐일레븐구미형곡시영점내",
+      "method": null
+    },
+    {
+      "name": "함안 복권방",
+      "address": "경남 함안군 함안대로 552 1층",
+      "method": null
+    },
+    {
+      "name": "씨유 진해용원사거리점(로또)",
+      "address": "경남 창원시 진해구 용원로 107",
+      "method": null
+    },
+    {
+      "name": "행운복권방/해피하우스",
+      "address": "경남 양산시 덕계로 27 가동 107호(재송동, 재송주택)",
+      "method": null
+    }
+  ]
+}

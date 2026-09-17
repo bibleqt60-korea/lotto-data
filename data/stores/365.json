@@ -1,0 +1,189 @@
+{
+  "round": 365,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "시네마복권방",
+      "address": "   ",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "장안제일로또명당",
+      "address": "    태정빌딩 1층 18호",
+      "method": null
+    },
+    {
+      "name": "장원사",
+      "address": "서울 마포구 토정로 224",
+      "method": null
+    },
+    {
+      "name": "CU(구의그린점)",
+      "address": "서울 광진구 자양로 194",
+      "method": null
+    },
+    {
+      "name": "로또판매",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "강서스포츠",
+      "address": "서울 강서구 곰달래로 156-1",
+      "method": null
+    },
+    {
+      "name": "가판점",
+      "address": "서울 강동구 천호대로 1073-1 앞 가판점",
+      "method": null
+    },
+    {
+      "name": "가츠몽 학동역점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "후르츠&로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "GS25(포정점)",
+      "address": "대구 중구 중앙대로 437",
+      "method": null
+    },
+    {
+      "name": "복권명당율하점",
+      "address": "대구 동구 율하동로23길 37",
+      "method": null
+    },
+    {
+      "name": "아진동대구역광장",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또복권벽산블루밍",
+      "address": "대전 서구 갈마로 262",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "대전 서구 만년남로3번길 164",
+      "method": null
+    },
+    {
+      "name": "버스표가판점",
+      "address": "경기 안양시 동안구 동안로 125-2 범계역4-1출구앞 버스표가판점",
+      "method": null
+    },
+    {
+      "name": "로또통신",
+      "address": "경기 안성시 장기로 36",
+      "method": null
+    },
+    {
+      "name": "영화모음",
+      "address": "경기 수원시 장안구 금당로39번길 6 뉴타운프라자A-107",
+      "method": null
+    },
+    {
+      "name": "㈜현대택배권선영업소",
+      "address": "경기 수원시 권선구 곡반정로 95-1 104호",
+      "method": null
+    },
+    {
+      "name": "미래복권닷컴",
+      "address": "경기 성남시 분당구 장안로25번길 28 건영아파트상가114호",
+      "method": null
+    },
+    {
+      "name": "내동마트24시복권방",
+      "address": "경기 부천시 평천로751번길 18 1층",
+      "method": null
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "경기 동두천시 평화로 2436-1 4/6",
+      "method": null
+    },
+    {
+      "name": "명당복권방",
+      "address": "경기 남양주시 창현로 7",
+      "method": null
+    },
+    {
+      "name": "원당역복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "두꺼비로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "나눔로또방",
+      "address": "충북 제천시 내제로 46 1층",
+      "method": null
+    },
+    {
+      "name": "GS25(천안장미점)",
+      "address": "충남 천안시 서북구 미라2길 22-4",
+      "method": null
+    },
+    {
+      "name": "스크린멀티복권방",
+      "address": "충남 천안시 서북구 성거길 81 이마트24 천안성거장미점",
+      "method": null
+    },
+    {
+      "name": "둔포로또판매점",
+      "address": "충남 아산시 충무로 1810 둔포로또판매점",
+      "method": null
+    },
+    {
+      "name": "굿모닝",
+      "address": "전남광주 순천시 중앙로 220 굿모닝",
+      "method": null
+    },
+    {
+      "name": "동일설비 명성복권",
+      "address": "경북 안동시 경동로 913",
+      "method": null
+    },
+    {
+      "name": "로또안경콘택트",
+      "address": "경북 구미시 구미중앙로5길 2",
+      "method": null
+    },
+    {
+      "name": "GS25(경산정평점)",
+      "address": "경북 경산시 강변서로51길 18",
+      "method": null
+    },
+    {
+      "name": "하나유통",
+      "address": "경북 경산시 공단2로 7",
+      "method": null
+    },
+    {
+      "name": "행운마트",
+      "address": "경남 함안군 오곡로 92",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "경남 창원시 마산합포구 동서북7길 55 1층",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "경남 김해시 서부로 399 좌측 복권판매점",
+      "method": null
+    }
+  ]
+}

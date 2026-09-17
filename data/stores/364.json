@@ -1,0 +1,214 @@
+{
+  "round": 364,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "복권천국",
+      "address": "대전 중구 충무로 87 1층",
+      "method": "자동"
+    },
+    {
+      "name": "복권왕국",
+      "address": "대전 서구 동서대로1047번길 2",
+      "method": "자동"
+    },
+    {
+      "name": "유방매표소",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "대박로또",
+      "address": "    1층",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "수연식품(대박찬스)",
+      "address": "서울 중랑구 면목로48길 11",
+      "method": null
+    },
+    {
+      "name": "목동식품상회",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "토큰판매복권담배",
+      "address": "서울 송파구 동남로 211",
+      "method": null
+    },
+    {
+      "name": "복권천국",
+      "address": "서울 서초구 서초대로 97 1층",
+      "method": null
+    },
+    {
+      "name": "로또복권판매대",
+      "address": "    e-b/d1층",
+      "method": null
+    },
+    {
+      "name": "상도편의점",
+      "address": "서울 동작구 상도로 276",
+      "method": null
+    },
+    {
+      "name": "쌍문슈퍼",
+      "address": "    드림21팰리스지층",
+      "method": null
+    },
+    {
+      "name": "GS25(해운우동점)",
+      "address": "부산 해운대구 중동1로 15-2",
+      "method": null
+    },
+    {
+      "name": "로또판매점",
+      "address": "부산 사하구 승학로284번길 42",
+      "method": null
+    },
+    {
+      "name": "우정식품",
+      "address": "부산 동래구 온천장로 33 1층",
+      "method": null
+    },
+    {
+      "name": "효원당슈퍼",
+      "address": "부산 금정구 부산대학로 48 복권판매점",
+      "method": null
+    },
+    {
+      "name": "대구중동점로또판매",
+      "address": "    세븐일레븐 편의점 내",
+      "method": null
+    },
+    {
+      "name": "토큰박스",
+      "address": "대구 동구 동부로 159-1 토큰박스",
+      "method": null
+    },
+    {
+      "name": "로또복권효성점",
+      "address": "대구 남구 신촌1길 1",
+      "method": null
+    },
+    {
+      "name": "터미널로또판매점",
+      "address": "    인천교통공사대합실1층2호편의점내",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "전남광주 서구 화운로 11-1",
+      "method": null
+    },
+    {
+      "name": "진플러스",
+      "address": "대전 중구 대종로 301-1",
+      "method": null
+    },
+    {
+      "name": "씨스페이스우리들공업탑",
+      "address": "울산 남구 수암로 21",
+      "method": null
+    },
+    {
+      "name": "터미널유통마트",
+      "address": "경기 의정부시 신곡로 47 우신프라자1층101호",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "경기 양주시 가래비길 33 1층",
+      "method": null
+    },
+    {
+      "name": "다니엘사",
+      "address": "경기 안산시 단원구 원선1로 38 101호",
+      "method": null
+    },
+    {
+      "name": "대박로또판매점",
+      "address": "경기 수원시 장안구 서부로 2129-1",
+      "method": null
+    },
+    {
+      "name": "L-마트",
+      "address": "경기 부천시 오정구 삼작로 22 부천테크노파크100-103",
+      "method": null
+    },
+    {
+      "name": "대박찬스",
+      "address": "경기 남양주시 장현로 111 1층1호",
+      "method": null
+    },
+    {
+      "name": "바른 복권판매점",
+      "address": "경기 고양시 일산서구 현중로 32",
+      "method": null
+    },
+    {
+      "name": "신덕슈퍼",
+      "address": "강원 원주시 상지대길 65 1층 신덕슈퍼",
+      "method": null
+    },
+    {
+      "name": "대박찬스",
+      "address": "충북 청주시 흥덕구 가경로161번길 3",
+      "method": null
+    },
+    {
+      "name": "영화마을(현대점)",
+      "address": "충북 청주시 청원구 주성로 194",
+      "method": null
+    },
+    {
+      "name": "혹시나도",
+      "address": "    복권방",
+      "method": null
+    },
+    {
+      "name": "운수대통복권샵",
+      "address": "전북 전주시 완산구 중화산로 101",
+      "method": null
+    },
+    {
+      "name": "코리아로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "전북 익산시 신동로 75 1층",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "경북 김천시 용암로 2",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "경북 구미시 송동로 88 미도프라자1층1호",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "경남 밀양시 시청로1길 21 1층 미르통신",
+      "method": null
+    },
+    {
+      "name": "행운을주는사람들(복권방)",
+      "address": "경남 고성군 중앙로 39",
+      "method": null
+    },
+    {
+      "name": "GS25(제주탑동점)",
+      "address": "제주 제주시 중앙로 21",
+      "method": null
+    }
+  ]
+}

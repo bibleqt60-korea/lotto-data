@@ -1,0 +1,159 @@
+{
+  "round": 387,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "갈렙분식한식",
+      "address": "서울 중랑구 용마산로115길 92",
+      "method": "자동"
+    },
+    {
+      "name": "알리바이",
+      "address": "전남광주 광산구 수등로 253 1층 알리바이",
+      "method": "수동"
+    },
+    {
+      "name": "온천로또복권",
+      "address": "    덕산온천관광호텔매점",
+      "method": "자동"
+    },
+    {
+      "name": "행운복권방",
+      "address": "제주 제주시 한림중앙로 12",
+      "method": "수동"
+    }
+  ],
+  "second": [
+    {
+      "name": "샛별복권방",
+      "address": "서울 중구 동호로10길 12 1층",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "서울 종로구 종로 331 1층",
+      "method": null
+    },
+    {
+      "name": "씨스페이스 역촌점",
+      "address": "서울 은평구 갈현로 88 1층 우측 두번째 점포",
+      "method": null
+    },
+    {
+      "name": "방배세양로또",
+      "address": "    세양아르비체 1층 미니스톱마트",
+      "method": null
+    },
+    {
+      "name": "그랜드마트앞가판점",
+      "address": "서울 마포구 신촌로 96-1 신촌 전철역 7번출구앞 가판점",
+      "method": null
+    },
+    {
+      "name": "잭팟 복권방",
+      "address": "서울 동대문구 왕산로43길 36 1층",
+      "method": null
+    },
+    {
+      "name": "로또복권방",
+      "address": "서울 구로구 고척로 97",
+      "method": null
+    },
+    {
+      "name": "씨스페이스(강일본)",
+      "address": "서울 강동구 아리수로 423",
+      "method": null
+    },
+    {
+      "name": "짱25시",
+      "address": "대구 수성구 달구벌대로 2610 세븐일레븐남부점내(좌측2번째상가)",
+      "method": null
+    },
+    {
+      "name": "행복일등점",
+      "address": "대구 달서구 성서공단남로 37 1층 117호",
+      "method": null
+    },
+    {
+      "name": "나인업",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "대전 대덕구 신탄진동로 1",
+      "method": null
+    },
+    {
+      "name": "모닝마트 주한점",
+      "address": "    미니스톱편의점내",
+      "method": null
+    },
+    {
+      "name": "로또복권판매점",
+      "address": "경기 안산시 상록구 구룡로 14",
+      "method": null
+    },
+    {
+      "name": "세븐일레븐 안산장상로드점(로또)",
+      "address": "경기 안산시 상록구 수인로 1846 1호",
+      "method": null
+    },
+    {
+      "name": "카베",
+      "address": "경기 부천시 부일로221번길 26 삼원타운1층-120",
+      "method": null
+    },
+    {
+      "name": "SoundWave",
+      "address": "경기 광명시 오리로 956",
+      "method": null
+    },
+    {
+      "name": "황금복권",
+      "address": "    삼익상가 105호",
+      "method": null
+    },
+    {
+      "name": "드림로또",
+      "address": "강원 원주시 행구로 158 1층",
+      "method": null
+    },
+    {
+      "name": "CU(태장점)",
+      "address": "강원 원주시 북원로 2718-1 1층 CU편의점",
+      "method": null
+    },
+    {
+      "name": "씨유 함평마루점",
+      "address": "전남광주 함평군 광남길 52 CU편의점",
+      "method": null
+    },
+    {
+      "name": "하당복권방",
+      "address": "전남광주 목포시 옥암로 46",
+      "method": null
+    },
+    {
+      "name": "광양복권전문점",
+      "address": "전남광주 광양시 순광로 688",
+      "method": null
+    },
+    {
+      "name": "육교상회",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "대성대박",
+      "address": "    나눔로또 내",
+      "method": null
+    },
+    {
+      "name": "씨스페이스(김해구산점)",
+      "address": "경남 김해시 구산로 38",
+      "method": null
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "round": 275,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "혹시나도",
+      "address": "    복권방",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "GS25(목동희망점)",
+      "address": "서울 양천구 오목로 322",
+      "method": null
+    },
+    {
+      "name": "행운마트",
+      "address": "서울 성북구 종암로 174",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "서울 성동구 연무장7길 5 1층 1호",
+      "method": null
+    },
+    {
+      "name": "우정로또판매점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "영훈슈퍼마켓",
+      "address": "서울 도봉구 덕릉로 222",
+      "method": null
+    },
+    {
+      "name": "씨스페이스(중계희망점)",
+      "address": null,
+      "method": null
+    },
+    {
+      "name": "한진슈퍼",
+      "address": "부산 금정구 청룡예전로 9 1층",
+      "method": null
+    },
+    {
+      "name": "청구마트",
+      "address": "대구 북구 검단로 34 청구아파트상가108동102호",
+      "method": null
+    },
+    {
+      "name": "코사마트금강점",
+      "address": "대구 달서구 용산로 204 1층 코사마트",
+      "method": null
+    },
+    {
+      "name": "바이더웨이로또",
+      "address": "    대우마이빌상가1층108",
+      "method": null
+    },
+    {
+      "name": "달동복권점",
+      "address": "    상가 101호",
+      "method": null
+    },
+    {
+      "name": "희망복권",
+      "address": "경기 평택시 평택1로20번길 39 1층 복권방",
+      "method": null
+    },
+    {
+      "name": "가판점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "은미복권방",
+      "address": "경기 부천시 소사로794번길 6",
+      "method": null
+    },
+    {
+      "name": "굿프랜즈편의점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "전북 전주시 덕진구 정언신로 76",
+      "method": null
+    },
+    {
+      "name": "하당미니로또",
+      "address": "전남광주 목포시 남악1로52번길 53 옥암2휴먼시아 주상가동 101호, 102호",
+      "method": null
+    },
+    {
+      "name": "TOTO복권",
+      "address": "전남광주 광양시 호북길 4",
+      "method": null
+    },
+    {
+      "name": "노마진말티고개점",
+      "address": "경남 진주시 말티고개로 128 1층",
+      "method": null
+    }
+  ]
+}

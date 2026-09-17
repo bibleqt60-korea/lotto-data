@@ -1,0 +1,174 @@
+{
+  "round": 263,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "서림로또",
+      "address": "    정훈오피스텔1층후레쉬마트",
+      "method": "자동"
+    },
+    {
+      "name": "GS25(관악한일점)",
+      "address": "서울 관악구 승방2길 2 한일빌딩1층",
+      "method": "자동"
+    },
+    {
+      "name": "왕대박로또방",
+      "address": "    위드미편의점내",
+      "method": "자동"
+    },
+    {
+      "name": "하나복권",
+      "address": "인천 남동구 구월로 281 세븐일레븐편의점내",
+      "method": "자동"
+    },
+    {
+      "name": "로또",
+      "address": "    청원프라자107",
+      "method": "자동"
+    },
+    {
+      "name": "예스",
+      "address": "    밀레니엄타워105",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "복권나라",
+      "address": "서울 성동구 용답중앙15길 12-1 1층",
+      "method": null
+    },
+    {
+      "name": "대박나라",
+      "address": "서울 마포구 망원로 86",
+      "method": null
+    },
+    {
+      "name": "노고산마트",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "성모마트",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "청솔서점",
+      "address": "부산 사하구 하신번영로 195",
+      "method": null
+    },
+    {
+      "name": "자유극장옆토큰판매소",
+      "address": "대구 중구 중앙대로 446-2",
+      "method": null
+    },
+    {
+      "name": "로또주안점",
+      "address": "    편의점내",
+      "method": null
+    },
+    {
+      "name": "대농슈퍼",
+      "address": "인천 미추홀구 길파로28번길 18 101호 일부(주안동)",
+      "method": null
+    },
+    {
+      "name": "행복드림",
+      "address": "인천 계양구 장제로 879",
+      "method": null
+    },
+    {
+      "name": "진플러스",
+      "address": "대전 중구 대종로 301-1",
+      "method": null
+    },
+    {
+      "name": "소쿠리슈퍼",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "천하복권방",
+      "address": "울산 동구 전하로 29",
+      "method": null
+    },
+    {
+      "name": "로또",
+      "address": "경기 포천시 양문로 102",
+      "method": null
+    },
+    {
+      "name": "일등복권방",
+      "address": "경기 의정부시 회룡로 138 대명빌딩 1층",
+      "method": null
+    },
+    {
+      "name": "CU(의정부호원점)",
+      "address": "경기 의정부시 평화로 274",
+      "method": null
+    },
+    {
+      "name": "행운을주는로또판매점",
+      "address": "경기 안산시 단원구 초지로 90 태영프라자111호",
+      "method": null
+    },
+    {
+      "name": "GS25(수원행복점)",
+      "address": "경기 수원시 영통구 덕영대로1555번길 13 세일빌딩111호",
+      "method": null
+    },
+    {
+      "name": "나눔로또동판교월드마크점",
+      "address": "    1층 1-24호 CU",
+      "method": null
+    },
+    {
+      "name": "미래복권닷컴",
+      "address": "경기 성남시 분당구 장안로25번길 28 건영아파트상가114호",
+      "method": null
+    },
+    {
+      "name": "407억당첨가판점",
+      "address": "강원 춘천시 중앙로 65 국민은행앞 가판",
+      "method": null
+    },
+    {
+      "name": "복덩어리",
+      "address": "충북 청주시 서원구 1순환로1107번길 21 1층 110호",
+      "method": null
+    },
+    {
+      "name": "천하명당",
+      "address": "충남 서산시 남원1길 107",
+      "method": null
+    },
+    {
+      "name": "팡팡로또복권",
+      "address": "전북 김제시 중앙로 90",
+      "method": null
+    },
+    {
+      "name": "천하명당산북점",
+      "address": "전북 군산시 동아로 142",
+      "method": null
+    },
+    {
+      "name": "북부상회",
+      "address": "전남광주 광양시 인덕로 1082",
+      "method": null
+    },
+    {
+      "name": "더리터경북왜관점로또명당",
+      "address": "경북 칠곡군 중앙로 95 1층 커피&로또명당",
+      "method": null
+    },
+    {
+      "name": "천주산로또",
+      "address": "    DH더마트 내",
+      "method": null
+    }
+  ]
+}

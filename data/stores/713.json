@@ -1,0 +1,304 @@
+{
+  "round": 713,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "제이복권방",
+      "address": "서울 종로구 종로 225-1 평창빌딩 1층 103호",
+      "method": "수동"
+    },
+    {
+      "name": "주하",
+      "address": "서울 노원구 동일로 1002 102호",
+      "method": "자동"
+    },
+    {
+      "name": "복권백화점",
+      "address": "    1층 리버스트 24hour편의점내",
+      "method": "자동"
+    },
+    {
+      "name": "HX복권방",
+      "address": "경기 이천시 경충대로 2106 현대시티플라자106호",
+      "method": "반자동"
+    },
+    {
+      "name": "마리오슈퍼",
+      "address": "경기 부천시 송내대로265번길 85 1층 118호",
+      "method": "자동"
+    },
+    {
+      "name": "아띠로또판매점",
+      "address": "    110호(미니스톱)",
+      "method": "수동"
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "전북 익산시 선화로 130",
+      "method": "자동"
+    },
+    {
+      "name": "로타리상회",
+      "address": "경북 구미시 산호대로 199 상가1층4호",
+      "method": "자동"
+    },
+    {
+      "name": "진영로또판매점",
+      "address": "경남 김해시 진영로 191 1층",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "제이복권방",
+      "address": "서울 종로구 종로 225-1 평창빌딩 1층 103호",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "제이복권방",
+      "address": "서울 종로구 종로 225-1 평창빌딩 1층 103호",
+      "method": null
+    },
+    {
+      "name": "제이복권방",
+      "address": "서울 종로구 종로 225-1 평창빌딩 1층 103호",
+      "method": null
+    },
+    {
+      "name": "제이복권방",
+      "address": "서울 종로구 종로 225-1 평창빌딩 1층 103호",
+      "method": null
+    },
+    {
+      "name": "제이복권방",
+      "address": "서울 종로구 종로 225-1 평창빌딩 1층 103호",
+      "method": null
+    },
+    {
+      "name": "로또킹",
+      "address": "서울 영등포구 영중로 2 1층(영등포동3가)",
+      "method": null
+    },
+    {
+      "name": "학창&배팅샵",
+      "address": "서울 서초구 서초대로26길 3 104호",
+      "method": null
+    },
+    {
+      "name": "인더라인25",
+      "address": "서울 마포구 월드컵북로54길 17 132호",
+      "method": null
+    },
+    {
+      "name": "상도편의점",
+      "address": "서울 동작구 상도로 276",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "서울 동대문구 전농로 105-1",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "서울 도봉구 도봉로113길 15",
+      "method": null
+    },
+    {
+      "name": "NICE",
+      "address": "서울 강동구 성내로6길 40 1층",
+      "method": null
+    },
+    {
+      "name": "로또복권대치점",
+      "address": "서울 강남구 개포로 615 석탑프라자1층",
+      "method": null
+    },
+    {
+      "name": "로또달맞이점",
+      "address": "    보현빌라101호",
+      "method": null
+    },
+    {
+      "name": "조일상회",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "대박로또",
+      "address": "부산 남구 수영로250번길 32 1층 101호",
+      "method": null
+    },
+    {
+      "name": "지원로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "GS25(중구센타점)",
+      "address": "대구 중구 동성로6길 48",
+      "method": null
+    },
+    {
+      "name": "행운복권",
+      "address": "    운서프라자102호 세븐일레븐 영종운서점",
+      "method": null
+    },
+    {
+      "name": "CU(송도점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "메트로세븐(동암점)",
+      "address": "    동암역굴다리상가 복권방",
+      "method": null
+    },
+    {
+      "name": "행운복권",
+      "address": "인천 부평구 배곶로 24 지1층 비03호(십정동, 이즈라이프아파트)",
+      "method": null
+    },
+    {
+      "name": "CU(도화향기점)",
+      "address": "인천 미추홀구 석정로 327 1층 CU",
+      "method": null
+    },
+    {
+      "name": "로또복원판매점",
+      "address": "    CU전대후문점",
+      "method": null
+    },
+    {
+      "name": " 씨스페이스 로또명당점",
+      "address": "대전 서구 관저로129번길 3",
+      "method": null
+    },
+    {
+      "name": "복권방(행운열차)",
+      "address": "울산 중구 다운로 114",
+      "method": null
+    },
+    {
+      "name": "영화유통(1등복권방)",
+      "address": "울산 남구 신정로 19 삼성아파트 상가 204-101",
+      "method": null
+    },
+    {
+      "name": "한방복권방",
+      "address": "경기 화성시 병점구 용주로 25",
+      "method": null
+    },
+    {
+      "name": "둔전행운복권방",
+      "address": "경기 용인시 처인구 포곡로 110",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "경기 용인시 처인구 금령로 130",
+      "method": null
+    },
+    {
+      "name": "머니머니",
+      "address": "경기 시흥시 월곶중앙로14번길 100",
+      "method": null
+    },
+    {
+      "name": "씨스페이스(수원빈센트)",
+      "address": "경기 수원시 팔달구 중부대로 94",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또삼성복권방",
+      "address": "경기 수원시 영통구 매영로 141 원천훼미리타운105호",
+      "method": null
+    },
+    {
+      "name": "다올복권판매점",
+      "address": "경기 성남시 분당구 성남대로 51 143호",
+      "method": null
+    },
+    {
+      "name": "온달국수",
+      "address": "경기 군포시 곡란로 24 108호",
+      "method": null
+    },
+    {
+      "name": "나눔로또복권",
+      "address": "충남 홍성군 도청대로 62 세분일레븐 내",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "충남 천안시 동남구 새말3길 38-4",
+      "method": null
+    },
+    {
+      "name": "대박로또",
+      "address": "충남 아산시 용화고길 76 1층(카페스테이)",
+      "method": null
+    },
+    {
+      "name": "삼덕복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "남평로또점",
+      "address": "전남광주 나주시 남평1로 12 파평회관 1층",
+      "method": null
+    },
+    {
+      "name": "팬더복권",
+      "address": "경북 포항시 남구 충무로 39-1 1층,우측상가",
+      "method": null
+    },
+    {
+      "name": "SVP로또판매점",
+      "address": "경북 칠곡군 동중리1길 18 1층 svp로또편의점",
+      "method": null
+    },
+    {
+      "name": "씨스페이스 경주세방매점",
+      "address": "경북 경주시 산업로 4447 (용강동)",
+      "method": null
+    },
+    {
+      "name": "씨스페이스 경주세방매점",
+      "address": "경북 경주시 산업로 4447 (용강동)",
+      "method": null
+    },
+    {
+      "name": "복돼지복권방",
+      "address": "경북 경산시 청운2로 43-1 102호(임당동, 옥스포드)",
+      "method": null
+    },
+    {
+      "name": "통영 동피랑점",
+      "address": "    1층 CU편의점 내",
+      "method": null
+    },
+    {
+      "name": "양산노다지복권방",
+      "address": "경남 양산시 북안남2길 52 복권판매점",
+      "method": null
+    },
+    {
+      "name": "제주대림점",
+      "address": "제주 제주시 과원북2길 48",
+      "method": null
+    }
+  ]
+}

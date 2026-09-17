@@ -1,0 +1,194 @@
+{
+  "round": 601,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "로또수락산점",
+      "address": "서울 노원구 동일로 1689 대덕하이베라스101호",
+      "method": "수동"
+    },
+    {
+      "name": "천하명당 미아점",
+      "address": "서울 강북구 솔샘로 283 1층",
+      "method": "수동"
+    },
+    {
+      "name": "복권방",
+      "address": "부산 부산진구 당감서로 84 202호",
+      "method": "수동"
+    },
+    {
+      "name": "부일카서비스",
+      "address": "부산 동구 자성로133번길 35",
+      "method": "자동"
+    },
+    {
+      "name": "하늘채복권방",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "대운복권",
+      "address": "경기 성남시 중원구 성남대로 1149",
+      "method": "자동"
+    },
+    {
+      "name": "여기있었네복권방",
+      "address": "충남 논산시 중앙로 417",
+      "method": "자동"
+    },
+    {
+      "name": "일공공일안경콘택트수송점",
+      "address": "   ",
+      "method": "자동"
+    },
+    {
+      "name": "구담쌀슈퍼",
+      "address": "경북 안동시 경동로 908",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "코코주",
+      "address": "서울 중구 장충단로 261-1 밀리오래 앞 가판",
+      "method": null
+    },
+    {
+      "name": "명가",
+      "address": "    가로판매점",
+      "method": null
+    },
+    {
+      "name": "영훈슈퍼마켓",
+      "address": "서울 도봉구 덕릉로 222",
+      "method": null
+    },
+    {
+      "name": "GS25(창동본점)",
+      "address": "서울 도봉구 노해로69길 21-15",
+      "method": null
+    },
+    {
+      "name": "반도서점",
+      "address": "서울 금천구 독산로 136 105호",
+      "method": null
+    },
+    {
+      "name": "GS25(구로미성점)",
+      "address": "서울 구로구 구로중앙로 228 기임빌딩101호",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "서울 관악구 남부순환로 1728 1층(재가 복지센터)",
+      "method": null
+    },
+    {
+      "name": "부일카서비스",
+      "address": "부산 동구 자성로133번길 35",
+      "method": "자동"
+    },
+    {
+      "name": "CU(침산건영점)",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "왕대박복권",
+      "address": "대구 달성군 달구벌대로 812",
+      "method": null
+    },
+    {
+      "name": "복권천국",
+      "address": "인천 부평구 평천로 306 양영빌딩1층",
+      "method": null
+    },
+    {
+      "name": "이마트24광주흑석로또점",
+      "address": "전남광주 광산구 풍영로101번안길 12 1층",
+      "method": null
+    },
+    {
+      "name": "대전우표사",
+      "address": "대전 동구 중앙로204번길 16-1",
+      "method": null
+    },
+    {
+      "name": "로또복권",
+      "address": "경기 평택시 조개터로 17 1층 1호",
+      "method": null
+    },
+    {
+      "name": "권선로또복권방",
+      "address": "경기 수원시 권선구 탑동로 22 천림빌딩102호",
+      "method": null
+    },
+    {
+      "name": "여수복권방",
+      "address": "경기 성남시 중원구 성남대로997번길 25-9",
+      "method": null
+    },
+    {
+      "name": "꿈에본그자리",
+      "address": "경기 성남시 중원구 산성대로 458",
+      "method": null
+    },
+    {
+      "name": "씨지랜드",
+      "address": "경기 부천시 송내대로73번길 11 금강리빙스텔111",
+      "method": null
+    },
+    {
+      "name": "장군슈퍼",
+      "address": "경기 부천시 소사로 837",
+      "method": null
+    },
+    {
+      "name": "마두5번출구가판로또",
+      "address": "경기 고양시 일산동구 중앙로 1200",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "    1층 CU편의점 내",
+      "method": null
+    },
+    {
+      "name": "흥건슈퍼",
+      "address": "전북 전주시 완산구 거마평로 25 흥건슈퍼",
+      "method": null
+    },
+    {
+      "name": "팡팡로또복권",
+      "address": "전북 김제시 중앙로 90",
+      "method": null
+    },
+    {
+      "name": "제철로또대리점",
+      "address": "전남광주 광양시 광장로 125 시티프라자A동116호",
+      "method": null
+    },
+    {
+      "name": "로또훼미리마트왜관점",
+      "address": "경북 칠곡군 중앙로 236-1 1층",
+      "method": null
+    },
+    {
+      "name": "GS25(왜관우방점)",
+      "address": "경북 칠곡군 중앙로 118 GS25왜관우방점",
+      "method": null
+    },
+    {
+      "name": "대원로또판매점",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또판매점",
+      "address": "경남 창원시 마산합포구 합포로 240 1층",
+      "method": null
+    }
+  ]
+}

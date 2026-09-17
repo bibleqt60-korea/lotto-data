@@ -1,0 +1,189 @@
+{
+  "round": 506,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "가판점(신문)",
+      "address": "서울 영등포구 양평로 50-2",
+      "method": "자동"
+    },
+    {
+      "name": "매향슈퍼",
+      "address": "경기 수원시 팔달구 창룡대로 42-1",
+      "method": "수동"
+    },
+    {
+      "name": "부흥청과식품점",
+      "address": "경북 경산시 하양로 35 우방3차상가",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "가로가판대제57호(구)",
+      "address": "서울 중구 세종대로 68-1 가판",
+      "method": null
+    },
+    {
+      "name": "명동역5번출구가판",
+      "address": "서울 중구 퇴계로 115-2 가판",
+      "method": null
+    },
+    {
+      "name": "GS25(에클라트점)",
+      "address": "서울 영등포구 국회대로 780 GS에클라트빌딩105호",
+      "method": null
+    },
+    {
+      "name": "빌딩매점",
+      "address": "서울 영등포구 신길로 108 남서울아파트상가 13동 103-나호",
+      "method": null
+    },
+    {
+      "name": "망원복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "스파",
+      "address": "서울 노원구 동일로 1493 주공10단지종합상가111",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방독산점",
+      "address": "서울 금천구 독산로85길 16",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "후레쉬마트",
+      "address": "서울 강동구 천호대로 1476",
+      "method": null
+    },
+    {
+      "name": "대원슈퍼마켓",
+      "address": "부산 수영구 수영로 524",
+      "method": null
+    },
+    {
+      "name": "네잎클로버",
+      "address": "부산 사상구 낙동대로 738",
+      "method": null
+    },
+    {
+      "name": "복권1번",
+      "address": "부산 부산진구 서면로 56 서면시장1층46호",
+      "method": null
+    },
+    {
+      "name": "천하명당복권",
+      "address": "대구 북구 동북로 152",
+      "method": null
+    },
+    {
+      "name": "GS25(달서상인점)",
+      "address": "    상가동 114,115호",
+      "method": null
+    },
+    {
+      "name": "갤러리로또",
+      "address": "    씨팰리스오피스텔104호편의점내",
+      "method": null
+    },
+    {
+      "name": "로또명당",
+      "address": "인천 부평구 부평대로 32 1층",
+      "method": null
+    },
+    {
+      "name": "명당편의점",
+      "address": "광주 서구 유림로98번길 39",
+      "method": null
+    },
+    {
+      "name": "CN마트",
+      "address": "울산 중구 곽남4길 2",
+      "method": null
+    },
+    {
+      "name": "복권방(행운열차)",
+      "address": "울산 중구 다운로 114",
+      "method": null
+    },
+    {
+      "name": "포유25다농점",
+      "address": "경기 오산시 운천로 80-5 거성그린프라자114호",
+      "method": null
+    },
+    {
+      "name": "버스표가판대",
+      "address": "경기 안양시 동안구 달안로 69-1",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "경기 안산시 단원구 신길중앙로1길 40 101호",
+      "method": null
+    },
+    {
+      "name": "로또(파발마점)",
+      "address": "경기 시흥시 마유로 415 역전프라자105호",
+      "method": null
+    },
+    {
+      "name": "신천가판점",
+      "address": "경기 시흥시 수인로 3370",
+      "method": null
+    },
+    {
+      "name": "현대화체인점",
+      "address": "경기 수원시 장안구 장안로 99-1 1층",
+      "method": null
+    },
+    {
+      "name": "행운복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "경기 성남시 중원구 금상로 118 1층",
+      "method": null
+    },
+    {
+      "name": "로또명품",
+      "address": "경기 구리시 이문안로 123 1층",
+      "method": null
+    },
+    {
+      "name": "복권천하",
+      "address": "강원 동해시 발한로 35",
+      "method": null
+    },
+    {
+      "name": "오복복권",
+      "address": "강원 강릉시 율곡로 2807 1층",
+      "method": null
+    },
+    {
+      "name": "진평양행",
+      "address": "강원 강릉시 임영로 107 1층",
+      "method": null
+    },
+    {
+      "name": "아리랑복권방",
+      "address": "전북 전주시 완산구 거마평로 192",
+      "method": null
+    },
+    {
+      "name": "오도르캔들",
+      "address": "경남 창원시 의창구 명지로63번길 2",
+      "method": null
+    }
+  ]
+}

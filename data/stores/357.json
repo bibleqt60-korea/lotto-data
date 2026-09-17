@@ -1,0 +1,154 @@
+{
+  "round": 357,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "헬로마트",
+      "address": "서울 도봉구 도봉로170길 8",
+      "method": "자동"
+    },
+    {
+      "name": "토토전문점",
+      "address": "경남 김해시 해반천로144번길 40 거림맥스랜드103호 복권판매점",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "천하명당복권방",
+      "address": "서울 중구 퇴계로 322 1층",
+      "method": null
+    },
+    {
+      "name": "복권방",
+      "address": "서울 성북구 동소문로20길 28-4",
+      "method": null
+    },
+    {
+      "name": "영훈슈퍼마켓",
+      "address": "서울 도봉구 덕릉로 222",
+      "method": null
+    },
+    {
+      "name": "고경식품",
+      "address": "서울 구로구 경인로 381",
+      "method": null
+    },
+    {
+      "name": "다모아복권명당",
+      "address": "서울 구로구 서해안로30길 13-7 1층",
+      "method": null
+    },
+    {
+      "name": "복권명당(로또판매점)",
+      "address": "서울 광진구 뚝섬로 602",
+      "method": null
+    },
+    {
+      "name": "교통카드충전소",
+      "address": "서울 강남구 선릉로 309-2",
+      "method": null
+    },
+    {
+      "name": "토큰박스(하나백화점앞)",
+      "address": "대구 북구 팔달로 177",
+      "method": null
+    },
+    {
+      "name": "왕대박복권",
+      "address": "대구 달성군 달구벌대로 812",
+      "method": null
+    },
+    {
+      "name": "복권명당(서부점)",
+      "address": "대구 달서구 월배로 452",
+      "method": null
+    },
+    {
+      "name": "CN마트",
+      "address": "울산 동구 대학길 42",
+      "method": null
+    },
+    {
+      "name": "대박찬스복권방",
+      "address": "경기 용인시 기흥구 상갈로 1",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "경기 오산시 오산로 298-1",
+      "method": null
+    },
+    {
+      "name": "1등 되는날",
+      "address": "경기 안성시 기업단지로 2 1층",
+      "method": null
+    },
+    {
+      "name": "안성맞춤",
+      "address": "경기 안성시 중앙로 371 번길 81 ,1층",
+      "method": null
+    },
+    {
+      "name": "미양공단점",
+      "address": "경기 안성시 안성맞춤대로 689 102호",
+      "method": null
+    },
+    {
+      "name": "엠파이어슈퍼",
+      "address": "경기 부천시 경인로137번가길 59",
+      "method": null
+    },
+    {
+      "name": "화인",
+      "address": "경기 구리시 원수택로 38",
+      "method": null
+    },
+    {
+      "name": "오렌지24시원당점",
+      "address": "    상가동 1층 1-031호",
+      "method": null
+    },
+    {
+      "name": "GS25(일산토당점)",
+      "address": "    금호프라자1층113 114",
+      "method": null
+    },
+    {
+      "name": "407억당첨가판점",
+      "address": "강원 춘천시 중앙로 65 국민은행앞 가판",
+      "method": null
+    },
+    {
+      "name": "공단휴게실",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "유정로또",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "부자복권방",
+      "address": "충남 예산군 덕산온천로 297 1층 앞쪽",
+      "method": null
+    },
+    {
+      "name": "역전복권방",
+      "address": "충남 예산군 아리랑로 7",
+      "method": null
+    },
+    {
+      "name": "로터리편의마트",
+      "address": "경북 포항시 북구 서동로 85 육거리",
+      "method": null
+    }
+  ]
+}

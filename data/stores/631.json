@@ -1,0 +1,259 @@
+{
+  "round": 631,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "북문복권방",
+      "address": "경기 수원시 장안구 정조로 927-1",
+      "method": "자동"
+    },
+    {
+      "name": "로또홍성휴게소(하행)판매점",
+      "address": "충남 홍성군 서해안고속도로 221 서해안고속도로 홍성휴게소 하행내 하이샵코너내",
+      "method": "자동"
+    },
+    {
+      "name": "복권나라",
+      "address": "전남광주 여수시 중앙로 62 1층",
+      "method": "자동"
+    },
+    {
+      "name": "훼미리마트(시네마로또)",
+      "address": "    CU편의점",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "한양복권",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "G마트",
+      "address": "서울 영등포구 디지털로 387",
+      "method": null
+    },
+    {
+      "name": "행운식품",
+      "address": "서울 성북구 동소문로6길 4",
+      "method": null
+    },
+    {
+      "name": "신문다이길음시장앞",
+      "address": "서울 성북구 길음로7길 34 가판",
+      "method": null
+    },
+    {
+      "name": "로또판매점",
+      "address": "서울 노원구 상계로 309-1 cu",
+      "method": null
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "서울 금천구 시흥대로 143 신라상가114호",
+      "method": null
+    },
+    {
+      "name": "복권소매",
+      "address": "서울 금천구 가산로5길 77 1층",
+      "method": null
+    },
+    {
+      "name": "뮤직프라자",
+      "address": "서울 관악구 신림로 266",
+      "method": null
+    },
+    {
+      "name": "SEVEN 스토아",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "GS25(광복점)",
+      "address": "부산 중구 광복로97번길 15",
+      "method": null
+    },
+    {
+      "name": "원바이원",
+      "address": "부산 중구 흑교로 18",
+      "method": null
+    },
+    {
+      "name": "대원슈퍼마켓",
+      "address": "부산 수영구 수영로 524",
+      "method": null
+    },
+    {
+      "name": "황금대박점",
+      "address": "대구 수성구 지범로 62 1층 복권판매점",
+      "method": null
+    },
+    {
+      "name": "행운 마트",
+      "address": "인천 영종구 운중로 39-2 1층 1호",
+      "method": null
+    },
+    {
+      "name": "드림존",
+      "address": "인천 제물포구 방축로83번길 23 인천산업용품센터편익상가B-102",
+      "method": null
+    },
+    {
+      "name": "형제상회",
+      "address": "대전 서구 계룡로 664-1",
+      "method": null
+    },
+    {
+      "name": "복권왕국",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "대전 서구 만년남로3번길 164",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "대전 대덕구 계족산로 23",
+      "method": null
+    },
+    {
+      "name": "행운복권",
+      "address": "경기 하남시 조정대로 45 R110호",
+      "method": null
+    },
+    {
+      "name": "대박로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또복권짱",
+      "address": "경기 용인시 처인구 백옥대로 1286 용호빌딩1층 103호",
+      "method": null
+    },
+    {
+      "name": "로또복권짱",
+      "address": "경기 용인시 처인구 백옥대로 1286 용호빌딩1층 103호",
+      "method": null
+    },
+    {
+      "name": "포유25대호점",
+      "address": "경기 오산시 대호로 104",
+      "method": null
+    },
+    {
+      "name": "가수로또복권",
+      "address": "경기 오산시 발안로 1354",
+      "method": null
+    },
+    {
+      "name": "복권세상",
+      "address": "경기 여주시 우암로 21-1 1층",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "경기 안성시 중앙로 424",
+      "method": null
+    },
+    {
+      "name": "가판점",
+      "address": "경기 부천시 부일로 461 1층 일부",
+      "method": null
+    },
+    {
+      "name": "한국슈퍼",
+      "address": "경기 부천시 원종로35번길 24 한울빌리지 상가101호",
+      "method": null
+    },
+    {
+      "name": "우리로또",
+      "address": "경기 김포시 김포대로 1421",
+      "method": null
+    },
+    {
+      "name": "곤지암대박복권방",
+      "address": "경기 광주시 곤지암로 51",
+      "method": null
+    },
+    {
+      "name": "GS25(하안연서점)",
+      "address": "경기 광명시 안현로 52",
+      "method": null
+    },
+    {
+      "name": "대박복권나라",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "407억당첨가판점",
+      "address": "강원 춘천시 중앙로 65 국민은행앞 가판",
+      "method": null
+    },
+    {
+      "name": "동명수퍼",
+      "address": "강원 속초시 중앙로 205 GS25동명점",
+      "method": null
+    },
+    {
+      "name": "동명수퍼",
+      "address": "강원 속초시 중앙로 205 GS25동명점",
+      "method": null
+    },
+    {
+      "name": "충주복권명당",
+      "address": "충북 충주시 예성로 23",
+      "method": null
+    },
+    {
+      "name": "복권나라",
+      "address": "충북 제천시 청풍호로 52 1층",
+      "method": null
+    },
+    {
+      "name": "학동복권나라",
+      "address": "전남광주 여수시 흥국로 6",
+      "method": null
+    },
+    {
+      "name": "노다지구미황상",
+      "address": "경북 구미시 수출대로 555",
+      "method": null
+    },
+    {
+      "name": "대박복권방",
+      "address": "경남 창원시 의창구 자여로 71 복권판매점",
+      "method": null
+    },
+    {
+      "name": "북마산복권전문점",
+      "address": "경남 창원시 마산합포구 북성로 98",
+      "method": null
+    },
+    {
+      "name": "썬마트 복권방",
+      "address": "    1층",
+      "method": null
+    },
+    {
+      "name": "천하명당복권방",
+      "address": "경남 진주시 진양호로 564",
+      "method": null
+    },
+    {
+      "name": "온세계전자",
+      "address": "제주 제주시 한림로12길 1-1",
+      "method": null
+    },
+    {
+      "name": "GS25(서귀중문점)",
+      "address": "제주 서귀포시 천제연로 210",
+      "method": null
+    }
+  ]
+}

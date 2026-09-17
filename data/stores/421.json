@@ -1,0 +1,214 @@
+{
+  "round": 421,
+  "status": "available",
+  "message": "",
+  "first": [
+    {
+      "name": "천하명당복권방",
+      "address": "서울 광진구 능동로 413",
+      "method": "수동"
+    },
+    {
+      "name": "금강식품",
+      "address": "서울 강서구 강서로 207",
+      "method": "자동"
+    },
+    {
+      "name": "세진전자통신",
+      "address": "대구 서구 서대구로 156",
+      "method": "자동"
+    },
+    {
+      "name": "복권세상",
+      "address": "인천 계양구 작전시장로 11",
+      "method": "자동"
+    },
+    {
+      "name": "주엽역 로또판매점",
+      "address": "경기 고양시 일산서구 중앙로 1437 도로",
+      "method": "자동"
+    }
+  ],
+  "second": [
+    {
+      "name": "복권명당",
+      "address": "서울 중랑구 면목로 362 1층",
+      "method": null
+    },
+    {
+      "name": "CU(이태원해밀턴점)",
+      "address": "서울 용산구 보광로 126",
+      "method": null
+    },
+    {
+      "name": "가로판매점",
+      "address": "서울 서초구 신반포로 189 반포쇼핑4동 정문 앞 가로판매점",
+      "method": null
+    },
+    {
+      "name": "신촌역로또",
+      "address": "서울 마포구 신촌로 지하 90 서울메트로신촌역지하가판",
+      "method": null
+    },
+    {
+      "name": "미나식품(로또판매점)",
+      "address": "서울 강서구 금낭화로 91-12",
+      "method": null
+    },
+    {
+      "name": "광산마트",
+      "address": "서울 강북구 한천로 1078-1",
+      "method": null
+    },
+    {
+      "name": "롯데마트",
+      "address": "서울 강동구 상일로 17",
+      "method": null
+    },
+    {
+      "name": "GS25(논현동현점)",
+      "address": "서울 강남구 도산대로50길 27 동현종합상가 맞은 편",
+      "method": null
+    },
+    {
+      "name": "로또복권방",
+      "address": "    CU고리원전점내",
+      "method": null
+    },
+    {
+      "name": "CU(신당조광점)",
+      "address": "대구 달서구 선원로 67",
+      "method": null
+    },
+    {
+      "name": "복권왕국",
+      "address": "인천 부평구 경인로 931",
+      "method": null
+    },
+    {
+      "name": "동구로또",
+      "address": "    1층14호",
+      "method": null
+    },
+    {
+      "name": "요술상자",
+      "address": "경기 평택시 평택3로 109 동일건물내 이전",
+      "method": null
+    },
+    {
+      "name": "천하명당",
+      "address": "경기 이천시 경충대로 3145 1층",
+      "method": null
+    },
+    {
+      "name": "GS25(의왕내손점)",
+      "address": "경기 의왕시 오리나무로 13",
+      "method": null
+    },
+    {
+      "name": "대성기획",
+      "address": "경기 용인시 기흥구 구성로 75-1",
+      "method": null
+    },
+    {
+      "name": "노다지복권방",
+      "address": "경기 오산시 오산로 298-1",
+      "method": null
+    },
+    {
+      "name": "복권명당",
+      "address": "경기 안성시 승두길 62",
+      "method": null
+    },
+    {
+      "name": "1등 복권",
+      "address": "경기 시흥시 배곧4로 32-27 105호",
+      "method": null
+    },
+    {
+      "name": "경민복권방",
+      "address": "경기 수원시 팔달구 정조로 866-2",
+      "method": null
+    },
+    {
+      "name": "여수복권방",
+      "address": "경기 성남시 중원구 성남대로997번길 25-9",
+      "method": null
+    },
+    {
+      "name": "한국슈퍼",
+      "address": "경기 부천시 원종로35번길 24 한울빌리지 상가101호",
+      "method": null
+    },
+    {
+      "name": "캠프코리아/유마트",
+      "address": "경기 남양주시 수레로 55 새루상가10호",
+      "method": null
+    },
+    {
+      "name": "로또복권방",
+      "address": "경기 군포시 산본로323번길 16-6 신명빌딩1층1005호",
+      "method": null
+    },
+    {
+      "name": "가로토큰박스",
+      "address": "    과천극장버스정류장앞가판",
+      "method": null
+    },
+    {
+      "name": "화정로또",
+      "address": "    미우프라자101호",
+      "method": null
+    },
+    {
+      "name": "황금로또",
+      "address": "강원 원주시 현충로318번길 35 1층",
+      "method": null
+    },
+    {
+      "name": "그린로또",
+      "address": "강원 양양군 양양로 71",
+      "method": null
+    },
+    {
+      "name": "노다지복권",
+      "address": "강원 삼척시 중앙시장길 48-49",
+      "method": null
+    },
+    {
+      "name": "로또복권두정점",
+      "address": "충남 천안시 서북구 두정로 251 대원빌딩104호",
+      "method": null
+    },
+    {
+      "name": "여수동서상사",
+      "address": "전남 여수시 신월로 709 대영마트내",
+      "method": null
+    },
+    {
+      "name": "동해로또",
+      "address": "   ",
+      "method": null
+    },
+    {
+      "name": "로또복권판매",
+      "address": "경북 상주시 삼백로 159",
+      "method": null
+    },
+    {
+      "name": "행운복권방",
+      "address": "    시내버스매표소 가판",
+      "method": null
+    },
+    {
+      "name": "창원병원앞매표소",
+      "address": "경남 창원시 성산구 창원대로 721 가판",
+      "method": null
+    },
+    {
+      "name": "GS25(김해서상점)",
+      "address": "경남 김해시 분성로 322 1층",
+      "method": null
+    }
+  ]
+}
