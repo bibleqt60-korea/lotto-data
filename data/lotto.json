@@ -1,5 +1,5 @@
 {
-  "latestRound": 1241,
+  "latestRound": 1242,
   "results": [
     {
       "round": 1,
@@ -28541,6 +28541,29 @@
       "firstPrize": 1628391980,
       "secondPrize": 54279733,
       "thirdPrize": 1501284,
+      "fourthPrize": 50000,
+      "fifthPrize": 5000
+    },
+    {
+      "round": 1242,
+      "drawDate": "2026-09-19",
+      "numbers": [
+        2,
+        4,
+        10,
+        16,
+        31,
+        41
+      ],
+      "bonusNumber": 9,
+      "firstWinnerCount": 9,
+      "secondWinnerCount": 104,
+      "thirdWinnerCount": 3206,
+      "fourthWinnerCount": 165377,
+      "fifthWinnerCount": 2729145,
+      "firstPrize": 3281029250,
+      "secondPrize": 47322538,
+      "thirdPrize": 1535105,
       "fourthPrize": 50000,
       "fifthPrize": 5000
     }
